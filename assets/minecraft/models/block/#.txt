@@ -1,0 +1,10 @@
+WIP :
+acacia door
+powered_rail_raised
+
+Good :
+ladder
+powered_rail
+powered_rail_on
+rail
+rail_raised

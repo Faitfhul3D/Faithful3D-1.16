@@ -1,5 +1,6 @@
 WIP :
 acacia door
+acacia_trapdoor
 powered_rail_raised
 
 Good :
@@ -8,3 +9,7 @@ powered_rail
 powered_rail_on
 rail
 rail_raised
+jungle_trapdoor
+birch_trapdoor
+iron_trapdoor
+oak_trapdoor

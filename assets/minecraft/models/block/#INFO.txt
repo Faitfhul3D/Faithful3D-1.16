@@ -1,15 +1,42 @@
-__WIP :
-acacia_trapdoor
-powered_rail_raised
-
-__Completed :
-acacia_door
-ladder
-powered_rail
-powered_rail_on
-rail
-rail_raised
-jungle_trapdoor
-birch_trapdoor
-iron_trapdoor
-oak_trapdoor
+State		Name				Creator
+	  -=A=-
+Finished	acacia_door_bottom		Juknum
+Finished	acacia_door_bottom_hinge	Juknum
+Finished	acacia_door_top			Juknum
+Finished	acacia_door_top_hinge		Juknum
+Finished	acacia_trapdoor			Progical
+	  -=B=-
+Finished	birch_trapdoor			Progical
+	  -=C=-
+	  -=D=-
+	  -=E=-
+	  -=F=-
+	  -=G=-
+	  -=H=-
+	  -=I=-
+Finished	iron_trapdoor			Progical
+	  -=J=-
+Finished	jungle_trapdoor			Progical
+	  -=K=-
+	  -=L=-
+Finished	ladder				Juknum
+	  -=M=-
+	  -=N=-
+	  -=O=-
+Finished	oak_trapdoor			Progical
+	  -=P=-
+Finished	powered_rail			Juknum
+Finished	powered_rail_on			Juknum
+WIP 		powered_rail_raised		Juknum
+	  -=Q=-
+	  -=R=-
+Finished	rail				Juknum
+Finished	rail_raised			Juknum
+	  -=S=-
+	  -=T=-
+	  -=U=-
+	  -=V=-
+	  -=W=-
+	  -=X=-
+	  -=Y=-
+	  -=Z=-

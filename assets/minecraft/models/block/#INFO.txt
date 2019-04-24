@@ -1,9 +1,9 @@
-WIP :
-acacia door
+__WIP :
 acacia_trapdoor
 powered_rail_raised
 
-Good :
+__Completed :
+acacia_door
 ladder
 powered_rail
 powered_rail_on

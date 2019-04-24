@@ -1,8 +1,0 @@
-{
-    "parent": "block/powered_rail",
-    "textures": {
-        "particle": "block/rail",
-        "texture": "block/rail",
-        "powered": "block/powered_rail_on"
-    }
-}

@@ -28,7 +28,8 @@ Finished	oak_trapdoor			Progical
 	  -=P=-
 Finished	powered_rail			Juknum
 Finished	powered_rail_on			Juknum
-WIP 		powered_rail_raised		Juknum
+May change	powered_rail_raised		Juknum
+May change	powered_rail_on_raised		Juknum
 	  -=Q=-
 	  -=R=-
 Finished	rail				Juknum

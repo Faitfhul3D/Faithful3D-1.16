@@ -9,6 +9,7 @@ Finished	acacia_trapdoor			Progical
 Finished	birch_trapdoor			Progical
 	  -=C=-
 	  -=D=-
+Finished	dark_oak_trapdoor		Progical
 	  -=E=-
 	  -=F=-
 	  -=G=-

@@ -1,4 +1,5 @@
 {
+    "__comment": "Designed by Progical"
     "variants": {
         "facing=north,half=bottom,open=false": { "model": "block/trapdoors/acacia_trapdoor" },
         "facing=south,half=bottom,open=false": { "model": "block/trapdoors/acacia_trapdoor", "y": 180 },

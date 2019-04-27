@@ -16,6 +16,7 @@ Finished	dark_oak_trapdoor		Progical
 	  -=H=-
 	  -=I=-
 Finished	iron_trapdoor			Progical
+Finished	iron_bars			Progical
 	  -=J=-
 Finished	jungle_trapdoor			Progical
 	  -=K=-

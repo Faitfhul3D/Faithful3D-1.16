@@ -1,4 +1,5 @@
 {
+    "__comment": "Designed by Progical",
     "multipart": [
         {   "apply": { "model": "block/iron_bars/iron_bars_post" }},
         {   "when": { "north": true },

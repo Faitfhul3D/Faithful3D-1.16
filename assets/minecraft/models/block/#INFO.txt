@@ -1,40 +1,40 @@
-State		Name				Creator
+State :		Name :				Item version :		Creator
 	  -=A=-
-Finished	acacia_door_bottom		Juknum
-Finished	acacia_door_bottom_hinge	Juknum
-Finished	acacia_door_top			Juknum
-Finished	acacia_door_top_hinge		Juknum
-Finished	acacia_trapdoor			Progical
+Finished	acacia_door_bottom		x			Juknum
+Finished	acacia_door_bottom_hinge	x			Juknum
+Finished	acacia_door_top			x			Juknum
+Finished	acacia_door_top_hinge		x			Juknum
+Finished	acacia_trapdoor			v1.1			Progical & rewrote by Juknum
 	  -=B=-
-Finished	birch_trapdoor			Progical
+Finished	birch_trapdoor			v1.1			Progical & rewrote by Juknum
 	  -=C=-
 	  -=D=-
-Finished	dark_oak_trapdoor		Progical
+Finished	dark_oak_trapdoor		v1.1			Progical & rewrote by Juknum
 	  -=E=-
 	  -=F=-
 	  -=G=-
 	  -=H=-
 	  -=I=-
-Finished	iron_trapdoor			Progical
-Finished	iron_bars			Progical
+Finished	iron_trapdoor			v1.1			Progical & rewrote by Juknum
+Finished	iron_bars						Progical
 	  -=J=-
-Finished	jungle_trapdoor			Progical
+Finished	jungle_trapdoor			v1.1			Progical & rewrote by Juknum
 	  -=K=-
 	  -=L=-
-Finished	ladder				Juknum
+Finished	ladder							Juknum
 	  -=M=-
 	  -=N=-
 	  -=O=-
-Finished	oak_trapdoor			Progical
+Finished	oak_trapdoor			v1.1			Progical & rewrote by Juknum
 	  -=P=-
-Finished	powered_rail			Juknum
-Finished	powered_rail_on			Juknum
-May change	powered_rail_raised		Juknum
-May change	powered_rail_on_raised		Juknum
+Finished	powered_rail						Juknum
+Finished	powered_rail_on						Juknum
+Snapshot	powered_rail_raised					Juknum
+Snapshot	powered_rail_on_raised					Juknum
 	  -=Q=-
 	  -=R=-
-Finished	rail				Juknum
-Finished	rail_raised			Juknum
+Finished	rail							Juknum
+Finished	rail_raised						Juknum
 	  -=S=-
 	  -=T=-
 	  -=U=-

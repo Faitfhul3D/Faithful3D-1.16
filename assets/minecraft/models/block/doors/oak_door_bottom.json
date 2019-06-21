@@ -1,5 +1,6 @@
 {
 	"__comment": "Designed by Progical",
+	"ambientocclusion": false,
 	"textures": {
 		"texture": "block/oak_door_bottom",
 		"particle": "block/oak_door_bottom",

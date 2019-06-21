@@ -1,0 +1,47 @@
+{
+	"__comment": "Designed by Progical",
+	"textures": {
+		"0": "block/hay_block_string",
+		"1": "block/hay_block_side",
+		"2": "block/hay_block_top",
+		"particle": "block/hay_block_string"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 16, 16],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#1", "cullface": "north"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#1", "cullface": "east"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#1", "cullface": "south"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#1", "cullface": "west"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#2", "cullface": "up"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#2", "cullface": "down"}
+			}
+		},
+		{
+			"from": [-0.5, 3.5, -0.5],
+			"to": [16.5, 4.5, 16.5],
+			"faces": {
+				"north": {"uv": [0, 0, 4.25, 0.25], "texture": "#0"},
+				"east": {"uv": [0, 0, 4.25, 0.25], "texture": "#0"},
+				"south": {"uv": [0, 0, 4.25, 0.25], "texture": "#0"},
+				"west": {"uv": [0, 0, 4.25, 0.25], "texture": "#0"},
+				"up": {"uv": [0, 0.375, 4.25, 4.625], "texture": "#0"},
+				"down": {"uv": [4.25, 0.375, 8.5, 4.625], "texture": "#0"}
+			}
+		},
+		{
+			"from": [-0.5, 11.5, -0.5],
+			"to": [16.5, 12.5, 16.5],
+			"faces": {
+				"north": {"uv": [0, 4.75, 4.25, 5], "texture": "#0"},
+				"east": {"uv": [0, 4.75, 4.25, 5], "texture": "#0"},
+				"south": {"uv": [0, 4.75, 4.25, 5], "texture": "#0"},
+				"west": {"uv": [0, 4.75, 4.25, 5], "texture": "#0"},
+				"up": {"uv": [0, 5.125, 4.25, 9.375], "texture": "#0"},
+				"down": {"uv": [4.25, 5.125, 8.5, 9.375], "texture": "#0"}
+			}
+		}
+	]
+}

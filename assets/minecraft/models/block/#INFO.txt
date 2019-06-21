@@ -7,6 +7,10 @@ Finished	acacia_door_top_hinge		x			Juknum
 Finished	acacia_trapdoor			v1.1			Progical & rewrote by Juknum
 	  -=B=-
 Finished	birch_trapdoor			v1.1			Progical & rewrote by Juknum
+Finsihed	birch_door_bottom					Progical
+Finsnhed	birch_door_bottom_hinge					Progical
+Finished	birch_door_top						Progical
+Finished	birch_door_top_hinge					Progical
 	  -=C=-
 	  -=D=-
 Finished	dark_oak_trapdoor		v1.1			Progical & rewrote by Juknum

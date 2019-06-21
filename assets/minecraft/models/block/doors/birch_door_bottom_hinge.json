@@ -1,5 +1,5 @@
 {
-	"credit": "Made with Blockbench",
+	"__comment": "Designed by Progical",
 	"parent": "block/door_bottom",
 	"textures": {
 		"texture": "block/birch_door_bottom",

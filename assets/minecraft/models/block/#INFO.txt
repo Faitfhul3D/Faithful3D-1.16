@@ -30,6 +30,10 @@ Finished	ladder							Juknum
 	  -=N=-
 	  -=O=-
 Finished	oak_trapdoor			v1.1			Progical & rewrote by Juknum
+Finsihed	oak_door_bottom						Progical
+Finsihed	oak_door_bottom_hinge					Progical
+Finsihed	oak_door_top						Progical
+Finsihed	oak_door_top_hinge					Progical
 	  -=P=-
 Finished	powered_rail						Juknum
 Finished	powered_rail_on						Juknum

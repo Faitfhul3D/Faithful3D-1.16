@@ -1,9 +1,9 @@
 State :		Name :				Item version :		Creator
 	  -=A=-
-Finished	acacia_door_bottom		x			Juknum
-Finished	acacia_door_bottom_hinge	x			Juknum
-Finished	acacia_door_top			x			Juknum
-Finished	acacia_door_top_hinge		x			Juknum
+Finished	acacia_door_bottom					Juknum
+Finished	acacia_door_bottom_hinge				Juknum
+Finished	acacia_door_top						Juknum
+Finished	acacia_door_top_hinge					Juknum
 Finished	acacia_trapdoor			v1.1			Progical & rewrote by Juknum
 	  -=B=-
 Finished	birch_trapdoor			v1.1			Progical & rewrote by Juknum
@@ -14,6 +14,10 @@ Finished	birch_door_top_hinge					Progical
 	  -=C=-
 	  -=D=-
 Finished	dark_oak_trapdoor		v1.1			Progical & rewrote by Juknum
+Finished	dispenser						Juknum
+Finished	dispenser_vertical					Juknum
+Finished	dropper							Juknum
+Finished	dropper_vertical					Juknum
 	  -=E=-
 	  -=F=-
 	  -=G=-

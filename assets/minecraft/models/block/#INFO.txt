@@ -11,6 +11,7 @@ Finsihed	birch_door_bottom					Progical
 Finsnhed	birch_door_bottom_hinge					Progical
 Finished	birch_door_top						Progical
 Finished	birch_door_top_hinge					Progical
+Finsihed	blast_furncae						Progical
 	  -=C=-
 	  -=D=-
 Finished	dark_oak_trapdoor		v1.1			Progical & rewrote by Juknum
@@ -23,6 +24,10 @@ Finished	dropper_vertical					Juknum
 	  -=G=-
 	  -=H=-
 	  -=I=-
+Finished	iron_door						Progical
+Finished	iron_door_bottom					Progical
+Finished	iron_door_top						Progical
+Finished	iron_doortop_hinge					Progical
 Finished	iron_trapdoor			v1.1			Progical & rewrote by Juknum
 Finished	iron_bars						Progical
 	  -=J=-

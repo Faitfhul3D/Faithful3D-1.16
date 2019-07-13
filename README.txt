@@ -1,7 +1,8 @@
 
  ### IMPORTANT INFORMATION ###
 
-## Faitful-3D is an addon for Faitful : https://faithful.team/
+## Faithful-3D is an addon for Faitful : https://faithful.team/
+## Faithful 3D website : https://sites.google.com/view/faithful-3d-addon/accueil (WIP)
 ## Only works on Java Edition
 ## Works in 1.14 (other versions are not guaranteed to work)
 

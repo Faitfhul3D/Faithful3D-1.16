@@ -6,7 +6,7 @@
 ## Only works on Java Edition
 ## Works in 1.14 (other versions are not guaranteed to work)
 
-## Creator :
+## Creators :
 Juknum
 Progical
 

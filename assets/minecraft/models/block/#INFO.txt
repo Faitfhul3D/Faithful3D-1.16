@@ -5,6 +5,10 @@ Finished	acacia_door_bottom_hinge				Juknum
 Finished	acacia_door_top						Juknum
 Finished	acacia_door_top_hinge					Juknum
 Finished	acacia_trapdoor			v1.1			Progical & rewrote by Juknum
+Finished	activator_rail						Progical
+Finished	activator_rail_on					Progical
+Finished	activator_rail_raised					Progical
+Finished	activator_rail_on_raised				Progical
 	  -=B=-
 Finished	birch_trapdoor			v1.1			Progical & rewrote by Juknum
 Finsihed	birch_door_bottom					Progical
@@ -15,10 +19,14 @@ Finsihed	blast_furncae						Progical
 	  -=C=-
 	  -=D=-
 Finished	dark_oak_trapdoor		v1.1			Progical & rewrote by Juknum
-Finished	dispenser						Juknum
-Finished	dispenser_vertical					Juknum
-Finished	dropper							Juknum
-Finished	dropper_vertical					Juknum
+Finished	dispenser			v1.1			Juknum & fixed by Progical
+Finished	dispenser_vertical		v1.1			Juknum & fixed by Progical
+Finished	detector_rail						Progical
+Finished	detector_rail_on					Progical
+Finished	detector_rail_raised					Progical
+Finished	detector_rail_on_raised					Progical
+Finished	dropper				v1.1			Juknum & fixed by Progical
+Finished	dropper_vertical		v1.1			Juknum & fixed by Progical
 	  -=E=-
 	  -=F=-
 	  -=G=-
@@ -31,6 +39,7 @@ Finished	iron_doortop_hinge					Progical
 Finished	iron_trapdoor			v1.1			Progical & rewrote by Juknum
 Finished	iron_bars						Progical
 	  -=J=-
+Finished	Jukebox							Juknam
 Finished	jungle_trapdoor			v1.1			Progical & rewrote by Juknum
 	  -=K=-
 	  -=L=-
@@ -44,14 +53,14 @@ Finsihed	oak_door_bottom_hinge					Progical
 Finsihed	oak_door_top						Progical
 Finsihed	oak_door_top_hinge					Progical
 	  -=P=-
-Finished	powered_rail						Juknum
-Finished	powered_rail_on						Juknum
-Snapshot	powered_rail_raised					Juknum
-Snapshot	powered_rail_on_raised					Juknum
+Finished	powered_rail			v1.1			Juknum & rewrote by Progical
+Finished	powered_rail_on			v1.1			Juknum & rewrote by Progical
+Snapshot	powered_rail_raised		v1.1			Juknum & rewrote by Progical
+Snapshot	powered_rail_on_raised		v1.1			Juknum & rewrote by Progical
 	  -=Q=-
 	  -=R=-
-Finished	rail							Juknum
-Finished	rail_raised						Juknum
+Finished	rail				v1.1			Juknum & rewrote by Progical
+Finished	rail_raised			v1.1			Juknum & rewrote by Progical
 	  -=S=-
 	  -=T=-
 	  -=U=-

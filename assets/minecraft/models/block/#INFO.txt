@@ -17,6 +17,7 @@ Finished	birch_door_top						Progical
 Finished	birch_door_top_hinge					Progical
 Finsihed	blast_furncae						Progical
 	  -=C=-
+Finished	carved_pumpkin						Progical
 	  -=D=-
 Finished	dark_oak_trapdoor		v1.1			Progical & rewrote by Juknum
 Finished	dispenser			v1.1			Juknum & fixed by Progical
@@ -39,6 +40,7 @@ Finished	iron_doortop_hinge					Progical
 Finished	iron_trapdoor			v1.1			Progical & rewrote by Juknum
 Finished	iron_bars						Progical
 	  -=J=-
+Finished	jack_o_lantern						Progical
 Finished	Jukebox							Juknam
 Finished	jungle_trapdoor			v1.1			Progical & rewrote by Juknum
 	  -=K=-

@@ -58,11 +58,12 @@ Finsihed	oak_door_top_hinge					Progical
 	  -=P=-
 Finished	powered_rail			v1.1			Juknum & rewrote by Progical
 Finished	powered_rail_on			v1.1			Juknum & rewrote by Progical
-Snapshot	powered_rail_raised		v1.1			Juknum & rewrote by Progical
-Snapshot	powered_rail_on_raised		v1.1			Juknum & rewrote by Progical
+Finished	powered_rail_raised		v1.1			Juknum & rewrote by Progical
+Finished	powered_rail_on_raised		v1.1			Juknum & rewrote by Progical
 	  -=Q=-
 	  -=R=-
 Finished	rail				v1.1			Juknum & rewrote by Progical
+Finished	rail_corner			v1.1			Juknam & rewrote by Progical
 Finished	rail_raised			v1.1			Juknum & rewrote by Progical
 	  -=S=-
 	  -=T=-

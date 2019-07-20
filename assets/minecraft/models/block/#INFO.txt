@@ -1,4 +1,6 @@
-State :		Name :				Item version :		Creator
+|=======|=======|===============================|=======================|===============================|
+|State :|	|Name :				|Item version :		|Creator			|
+|=======|=======|===============================|=======================|===============================|
 	  -=A=-
 Finished	acacia_door_bottom					Juknum
 Finished	acacia_door_bottom_hinge				Juknum
@@ -18,6 +20,7 @@ Finished	birch_door_top_hinge					Progical
 Finsihed	blast_furncae						Progical
 	  -=C=-
 Finished	carved_pumpkin						Progical
+Finished	composter						Juknum
 	  -=D=-
 Finished	dark_oak_trapdoor		v1.1			Progical & rewrote by Juknum
 Finished	dispenser			v1.1			Juknum & fixed by Progical
@@ -46,7 +49,7 @@ Finished	jungle_trapdoor			v1.1			Progical & rewrote by Juknum
 	  -=K=-
 	  -=L=-
 Finished	ladder							Juknum
-Finsihed	lectern							Progical
+Finsihed	lectern				v2			Progical
 	  -=M=-
 	  -=N=-
 	  -=O=-
@@ -73,3 +76,7 @@ Finished	rail_raised			v1.1			Juknum & rewrote by Progical
 	  -=X=-
 	  -=Y=-
 	  -=Z=-
+
+vX.Y
+ X -> significative change
+   Y -> other change

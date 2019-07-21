@@ -20,7 +20,7 @@ Finished	birch_door_top_hinge					Progical
 Finsihed	blast_furncae						Progical
 	  -=C=-
 Finished	carved_pumpkin						Progical
-Finished	composter						Juknum
+Finished	composter			v1.1			Juknum (particle fixed)
 	  -=D=-
 Finished	dark_oak_trapdoor		v1.1			Progical & rewrote by Juknum
 Finished	dispenser			v1.1			Juknum & fixed by Progical
@@ -59,16 +59,17 @@ Finsihed	oak_door_bottom_hinge					Progical
 Finsihed	oak_door_top						Progical
 Finsihed	oak_door_top_hinge					Progical
 	  -=P=-
-Finished	powered_rail			v1.1			Juknum & rewrote by Progical
-Finished	powered_rail_on			v1.1			Juknum & rewrote by Progical
-Finished	powered_rail_raised		v1.1			Juknum & rewrote by Progical
-Finished	powered_rail_on_raised		v1.1			Juknum & rewrote by Progical
+Finished	powered_rail			v2			Juknum & rewrote by Progical
+Finished	powered_rail_on			v2			Juknum & rewrote by Progical
+Finished	powered_rail_raised		v2			Juknum & rewrote by Progical
+Finished	powered_rail_on_raised		v2			Juknum & rewrote by Progical
 	  -=Q=-
 	  -=R=-
-Finished	rail				v1.1			Juknum & rewrote by Progical
-Finished	rail_corner			v1.1			Juknam & rewrote by Progical
-Finished	rail_raised			v1.1			Juknum & rewrote by Progical
+Finished	rail				v2			Juknum & rewrote by Progical
+Finished	rail_corner			v2			Juknam & rewrote by Progical
+Finished	rail_raised			v2			Juknum & rewrote by Progical
 	  -=S=-
+Finished	stonecutter						Juknum
 	  -=T=-
 	  -=U=-
 	  -=V=-
@@ -78,5 +79,5 @@ Finished	rail_raised			v1.1			Juknum & rewrote by Progical
 	  -=Z=-
 
 vX.Y
- X -> significative change
+ X -> significative change (appearance)
    Y -> other change

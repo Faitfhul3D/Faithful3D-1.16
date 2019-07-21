@@ -19,7 +19,7 @@ Finished	birch_door_top						Progical
 Finished	birch_door_top_hinge					Progical
 Finsihed	blast_furncae						Progical
 	  -=C=-
-Finished	carved_pumpkin						Progical
+Finished	carved_pumpkin			v2			Progical & Juknum
 Finished	composter			v1.1			Juknum (particle fixed)
 	  -=D=-
 Finished	dark_oak_trapdoor		v1.1			Progical & rewrote by Juknum
@@ -43,7 +43,7 @@ Finished	iron_doortop_hinge					Progical
 Finished	iron_trapdoor			v1.1			Progical & rewrote by Juknum
 Finished	iron_bars						Progical
 	  -=J=-
-Finished	jack_o_lantern						Progical
+Finished	jack_o_lantern			v2			Progical & Juknum
 Finished	Jukebox							Juknam
 Finished	jungle_trapdoor			v1.1			Progical & rewrote by Juknum
 	  -=K=-
@@ -63,6 +63,7 @@ Finished	powered_rail			v2			Juknum & rewrote by Progical
 Finished	powered_rail_on			v2			Juknum & rewrote by Progical
 Finished	powered_rail_raised		v2			Juknum & rewrote by Progical
 Finished	powered_rail_on_raised		v2			Juknum & rewrote by Progical
+Finished	pumpkin				v1			Juknum
 	  -=Q=-
 	  -=R=-
 Finished	rail				v2			Juknum & rewrote by Progical

@@ -2,6 +2,7 @@
 	"credit": "Made with Blockbench",
 	"parent": "block/block",
 	"textures": {
+		"particle": "block/composter_side",
 		"0": "block/composter_bottom",
 		"3": "block/composter_side",
 		"4": "block/composter_top"

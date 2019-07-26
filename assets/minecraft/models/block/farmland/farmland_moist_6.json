@@ -1,0 +1,10 @@
+{
+	"credit": "Designed by Juknum",
+	"parent": "block/farmland/farmland",
+	"textures": {
+		"0": "block/farmland/farmland_moist_6",
+		"1": "block/farmland/farmland_moist_side_6",
+		"2": "block/dirt",
+		"particle": "block/dirt"
+	}
+}

@@ -18,6 +18,7 @@ Finsnhed	birch_door_bottom_hinge					Progical
 Finished	birch_door_top						Progical
 Finished	birch_door_top_hinge					Progical
 Finsihed	blast_furncae						Progical
+Finished	brown_mushroom						Juknum
 	  -=C=-
 Finished	carved_pumpkin			v2			Progical & Juknum
 Finished	composter			v1.1			Juknum (particle fixed)

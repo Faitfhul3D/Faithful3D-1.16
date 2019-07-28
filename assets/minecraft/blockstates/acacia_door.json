@@ -1,5 +1,5 @@
 {
-    "__comment": "Designed by Juknam",
+    "__comment": "Designed by Juknum",
     "variants": {
         "facing=east,half=lower,hinge=left,open=false":  { "model": "block/doors/acacia_door_bottom" },
         "facing=south,half=lower,hinge=left,open=false": { "model": "block/doors/acacia_door_bottom", "y": 90 },

@@ -1,3 +1,4 @@
+______________________________________________________________________________________________________________
 EN :
 
       ### IMPORTANT INFORMATION ###
@@ -15,6 +16,7 @@ Juknum :
 Progical :
       Twitter : ..
 
+______________________________________________________________________________________________________________
 FR :
 
       ### INFORMATIONS IMPORTANTES ###
@@ -24,7 +26,7 @@ FR :
 ## Notre site web : https://sites.google.com/view/faithful-3d-addon
 ## Fonctionne seulement avec l'Edition Java pour la version 1.14.x
 
-      ### CREATEURS ###
+      ### CRÉATEURS ###
 
 Juknum :
       Twitter : https://twitter.com/Juknum_

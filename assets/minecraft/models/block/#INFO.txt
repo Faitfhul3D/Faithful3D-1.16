@@ -45,7 +45,7 @@ Finished	iron_trapdoor			v1.1			Progical & rewrote by Juknum
 Finished	iron_bars						Progical
 	  -=J=-
 Finished	jack_o_lantern			v2			Progical & Juknum
-Finished	Jukebox							Juknam
+Finished	jukebox							Juknum
 Finished	jungle_trapdoor			v1.1			Progical & rewrote by Juknum
 	  -=K=-
 	  -=L=-

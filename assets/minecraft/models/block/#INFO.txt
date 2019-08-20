@@ -1,6 +1,6 @@
-|=======|=======|===============================|=======================|===============================|
-|State :|	|Name :				|Item version :		|Creator			|
-|=======|=======|===============================|=======================|===============================|
+|=======|=======|===============================|=======================|===============================|=======================|
+|State :|	|Name :				|Item version :		|Creator			|Date of creation	|
+|=======|=======|===============================|=======================|===============================|=======================|
 	  -=A=-
 Finished	acacia_door_bottom					Juknum
 Finished	acacia_door_bottom_hinge				Juknum
@@ -70,6 +70,7 @@ Finished	pumpkin				v1			Juknum
 Finished	rail				v2			Juknum & rewrote by Progical
 Finished	rail_corner			v2			Juknam & rewrote by Progical
 Finished	rail_raised			v2			Juknum & rewrote by Progical
+Finished	red_mushroom						Juknum				20 August 2019
 	  -=S=-
 Finished	stonecutter						Juknum
 	  -=T=-

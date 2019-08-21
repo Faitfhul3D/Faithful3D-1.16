@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"parent": "block/block",
 	"textures": {
-		"2": "item/potion_top",
+		"2": "item/potion_top_exp",
 		"texture": "item/experience_bottle",
 		"potion_overlay": "item/experience_bottle"
 	},

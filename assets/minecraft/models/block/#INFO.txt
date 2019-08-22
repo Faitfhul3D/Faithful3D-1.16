@@ -71,6 +71,8 @@ Finished	rail				v2			Juknum & rewrote by Progical
 Finished	rail_corner			v2			Juknam & rewrote by Progical
 Finished	rail_raised			v2			Juknum & rewrote by Progical
 Finished	red_mushroom						Juknum				20 August 2019
+Finished	redstone_torch						Juknum				22 August 2019
+Finished	redstone_wall_torch					Juknum				22 August 2019
 	  -=S=-
 Finished	stonecutter						Juknum
 	  -=T=-

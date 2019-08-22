@@ -8,13 +8,16 @@ EN :
 ## Our website : https://sites.google.com/view/faithful-3d-addon
 ## Only works on the Java version for the 1.15.x
 
-      ### CREATORS ###
+      ### CONTRIBUTORS ###
 
 Juknum :
       Twitter : https://twitter.com/Juknum_
       
 Progical :
       Twitter : ..
+
+Howler :
+      Twitter : https://twitter.com/UnlikeHowler
 
 ______________________________________________________________________________________________________________
 FR :
@@ -26,10 +29,13 @@ FR :
 ## Notre site web : https://sites.google.com/view/faithful-3d-addon
 ## Fonctionne seulement avec l'Edition Java pour la version 1.15.x
 
-      ### CRÉATEURS ###
+      ### CONTRIBUTEURS ###
 
 Juknum :
       Twitter : https://twitter.com/Juknum_
       
 Progical :
       Twitter : ..
+
+Howler :
+      Twitter : https://twitter.com/UnlikeHowler

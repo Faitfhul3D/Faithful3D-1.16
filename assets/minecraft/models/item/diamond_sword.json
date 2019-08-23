@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"parent": "item/handheld",
 	"textures": {
-		"0": "item/diamond_sword.png"
+		"0": "item/diamond_sword"
 	},
 	"elements": [
 		{

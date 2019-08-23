@@ -12,6 +12,8 @@ Finished	activator_rail_on					Progical
 Finished	activator_rail_raised					Progical
 Finished	activator_rail_on_raised				Progical
 	  -=B=-
+Finished	bee_hive						Juknum				23 August 2019
+Finished	bee_hive_honey						Juknum				23 August 2019
 Finished	birch_trapdoor			v1.1			Progical & rewrote by Juknum
 Finsihed	birch_door_bottom					Progical
 Finsnhed	birch_door_bottom_hinge					Progical

@@ -7,9 +7,9 @@
 	"elements": [
 		{
 			"name": "bow_pulling_2_0",
-			"from": [2.5, 13.5, 7.75],
-			"to": [3, 14, 8.25],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [2.29527, 13.56276, 7.75],
+			"to": [2.79527, 14.06276, 8.25],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [2.5, 2.5, 3, 2], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [2.5, 2, 3, 2.5], "texture": "#1"},
@@ -21,9 +21,9 @@
 		},
 		{
 			"name": "bow_pulling_2_1",
-			"from": [3, 13.5, 7.75],
-			"to": [3.5, 14, 8.25],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [2.79527, 13.56276, 7.75],
+			"to": [3.29527, 14.06276, 8.25],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [3, 2.5, 3.5, 2], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [3, 2, 3.5, 2.5], "texture": "#1"},
@@ -35,9 +35,9 @@
 		},
 		{
 			"name": "bow_pulling_2_2",
-			"from": [3.5, 13.5, 7.75],
-			"to": [4, 14, 8.25],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [3.29527, 13.56276, 7.75],
+			"to": [3.79527, 14.06276, 8.25],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [3.5, 2.5, 4, 2], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [3.5, 2, 4, 2.5], "texture": "#1"},
@@ -49,9 +49,9 @@
 		},
 		{
 			"name": "bow_pulling_2_3",
-			"from": [2.5, 13, 7.75],
-			"to": [3, 13.5, 8.25],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [2.29527, 13.06276, 7.75],
+			"to": [2.79527, 13.56276, 8.25],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [2.5, 3, 3, 2.5], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [2.5, 2.5, 3, 3], "texture": "#1"},
@@ -63,9 +63,9 @@
 		},
 		{
 			"name": "bow_pulling_2_4",
-			"from": [3, 13, 7.25],
-			"to": [3.5, 13.5, 8.75],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [2.79527, 13.06276, 7.25],
+			"to": [3.29527, 13.56276, 8.75],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [3, 3, 3.5, 2.5], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [3, 2.5, 3.5, 3], "texture": "#1"},
@@ -77,9 +77,9 @@
 		},
 		{
 			"name": "bow_pulling_2_5",
-			"from": [3.5, 13, 7.25],
-			"to": [4, 13.5, 8.75],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [3.29527, 13.06276, 7.25],
+			"to": [3.79527, 13.56276, 8.75],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [3.5, 3, 4, 2.5], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [3.5, 2.5, 4, 3], "texture": "#1"},
@@ -91,9 +91,9 @@
 		},
 		{
 			"name": "bow_pulling_2_6",
-			"from": [4, 13, 7.75],
-			"to": [4.5, 13.5, 8.25],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [3.79527, 13.06276, 7.75],
+			"to": [4.29527, 13.56276, 8.25],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [4, 3, 4.5, 2.5], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [4, 2.5, 4.5, 3], "texture": "#1"},
@@ -105,9 +105,9 @@
 		},
 		{
 			"name": "bow_pulling_2_7",
-			"from": [4.5, 13, 7.75],
-			"to": [5, 13.5, 8.25],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [4.29527, 13.06276, 7.75],
+			"to": [4.79527, 13.56276, 8.25],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [4.5, 3, 5, 2.5], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [4.5, 2.5, 5, 3], "texture": "#1"},
@@ -119,9 +119,9 @@
 		},
 		{
 			"name": "bow_pulling_2_8",
-			"from": [8.5, 13, 7.25],
-			"to": [9, 13.5, 8.75],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [8.29527, 13.06276, 7.25],
+			"to": [8.79527, 13.56276, 8.75],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [8.5, 3, 9, 2.5], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [8.5, 2.5, 9, 3], "texture": "#1"},
@@ -133,9 +133,9 @@
 		},
 		{
 			"name": "bow_pulling_2_9",
-			"from": [9, 13, 7.25],
-			"to": [9.5, 13.5, 8.75],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [8.79527, 13.06276, 7.25],
+			"to": [9.29527, 13.56276, 8.75],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [9, 3, 9.5, 2.5], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [9, 2.5, 9.5, 3], "texture": "#1"},
@@ -147,9 +147,9 @@
 		},
 		{
 			"name": "bow_pulling_2_10",
-			"from": [9.5, 13, 7.25],
-			"to": [10, 13.5, 8.75],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [9.29527, 13.06276, 7.25],
+			"to": [9.79527, 13.56276, 8.75],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [9.5, 3, 10, 2.5], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [9.5, 2.5, 10, 3], "texture": "#1"},
@@ -161,9 +161,9 @@
 		},
 		{
 			"name": "bow_pulling_2_11",
-			"from": [10, 13, 7.25],
-			"to": [10.5, 13.5, 8.75],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [9.79527, 13.06276, 7.25],
+			"to": [10.29527, 13.56276, 8.75],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [10, 3, 10.5, 2.5], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [10, 2.5, 10.5, 3], "texture": "#1"},
@@ -175,9 +175,9 @@
 		},
 		{
 			"name": "bow_pulling_2_12",
-			"from": [10.5, 13, 7.25],
-			"to": [11, 13.5, 8.75],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [10.29527, 13.06276, 7.25],
+			"to": [10.79527, 13.56276, 8.75],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [10.5, 3, 11, 2.5], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [10.5, 2.5, 11, 3], "texture": "#1"},
@@ -189,9 +189,9 @@
 		},
 		{
 			"name": "bow_pulling_2_13",
-			"from": [11, 13, 7.25],
-			"to": [11.5, 13.5, 8.75],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [10.79527, 13.06276, 7.25],
+			"to": [11.29527, 13.56276, 8.75],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [11, 3, 11.5, 2.5], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [11, 2.5, 11.5, 3], "texture": "#1"},
@@ -203,9 +203,9 @@
 		},
 		{
 			"name": "bow_pulling_2_14",
-			"from": [11.5, 13, 7.25],
-			"to": [12, 13.5, 8.75],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [11.29527, 13.06276, 7.25],
+			"to": [11.79527, 13.56276, 8.75],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [11.5, 3, 12, 2.5], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [11.5, 2.5, 12, 3], "texture": "#1"},
@@ -217,9 +217,9 @@
 		},
 		{
 			"name": "bow_pulling_2_15",
-			"from": [12, 13, 7.25],
-			"to": [12.5, 13.5, 8.75],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [11.79527, 13.06276, 7.25],
+			"to": [12.29527, 13.56276, 8.75],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [12, 3, 12.5, 2.5], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [12, 2.5, 12.5, 3], "texture": "#1"},
@@ -231,9 +231,9 @@
 		},
 		{
 			"name": "bow_pulling_2_16",
-			"from": [12.5, 13, 7.25],
-			"to": [13, 13.5, 8.75],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [12.29527, 13.06276, 7.25],
+			"to": [12.79527, 13.56276, 8.75],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [12.5, 3, 13, 2.5], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [12.5, 2.5, 13, 3], "texture": "#1"},
@@ -245,9 +245,9 @@
 		},
 		{
 			"name": "bow_pulling_2_17",
-			"from": [13, 13, 7.25],
-			"to": [13.5, 13.5, 8.75],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [12.79527, 13.06276, 7.25],
+			"to": [13.29527, 13.56276, 8.75],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [13, 3, 13.5, 2.5], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [13, 2.5, 13.5, 3], "texture": "#1"},
@@ -259,9 +259,9 @@
 		},
 		{
 			"name": "bow_pulling_2_18",
-			"from": [13.5, 13, 7.25],
-			"to": [14, 13.5, 8.75],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [13.29527, 13.06276, 7.25],
+			"to": [13.79527, 13.56276, 8.75],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [13.5, 3, 14, 2.5], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [13.5, 2.5, 14, 3], "texture": "#1"},
@@ -273,9 +273,9 @@
 		},
 		{
 			"name": "bow_pulling_2_19",
-			"from": [14, 13, 7.25],
-			"to": [14.5, 13.5, 8.75],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [13.79527, 13.06276, 7.25],
+			"to": [14.29527, 13.56276, 8.75],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [14, 3, 14.5, 2.5], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [14, 2.5, 14.5, 3], "texture": "#1"},
@@ -287,9 +287,9 @@
 		},
 		{
 			"name": "bow_pulling_2_20",
-			"from": [14.5, 13, 7.25],
-			"to": [15, 13.5, 8.75],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [14.29527, 13.06276, 7.25],
+			"to": [14.79527, 13.56276, 8.75],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [14.5, 3, 15, 2.5], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [14.5, 2.5, 15, 3], "texture": "#1"},
@@ -301,9 +301,9 @@
 		},
 		{
 			"name": "bow_pulling_2_21",
-			"from": [15, 13, 7.25],
-			"to": [15.5, 13.5, 8.75],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [14.79527, 13.06276, 7.25],
+			"to": [15.29527, 13.56276, 8.75],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [15, 3, 15.5, 2.5], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [15, 2.5, 15.5, 3], "texture": "#1"},
@@ -315,9 +315,9 @@
 		},
 		{
 			"name": "bow_pulling_2_22",
-			"from": [15.5, 13, 7.25],
-			"to": [16, 13.5, 8.75],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [15.29527, 13.06276, 7.25],
+			"to": [15.79527, 13.56276, 8.75],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [15.5, 3, 16, 2.5], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [15.5, 2.5, 16, 3], "texture": "#1"},
@@ -329,9 +329,9 @@
 		},
 		{
 			"name": "bow_pulling_2_23",
-			"from": [2.5, 12.5, 7.75],
-			"to": [3, 13, 8.25],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [2.29527, 12.56276, 7.75],
+			"to": [2.79527, 13.06276, 8.25],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [2.5, 3.5, 3, 3], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [2.5, 3, 3, 3.5], "texture": "#1"},
@@ -343,9 +343,9 @@
 		},
 		{
 			"name": "bow_pulling_2_24",
-			"from": [3, 12.5, 7.25],
-			"to": [3.5, 13, 8.75],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [2.79527, 12.56276, 7.25],
+			"to": [3.29527, 13.06276, 8.75],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [3, 3.5, 3.5, 3], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [3, 3, 3.5, 3.5], "texture": "#1"},
@@ -357,9 +357,9 @@
 		},
 		{
 			"name": "bow_pulling_2_25",
-			"from": [3.5, 12.5, 7.25],
-			"to": [4, 13, 8.75],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [3.29527, 12.56276, 7.25],
+			"to": [3.79527, 13.06276, 8.75],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [3.5, 3.5, 4, 3], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [3.5, 3, 4, 3.5], "texture": "#1"},
@@ -371,9 +371,9 @@
 		},
 		{
 			"name": "bow_pulling_2_26",
-			"from": [4, 12.5, 7.25],
-			"to": [4.5, 13, 8.75],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [3.79527, 12.56276, 7.25],
+			"to": [4.29527, 13.06276, 8.75],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [4, 3.5, 4.5, 3], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [4, 3, 4.5, 3.5], "texture": "#1"},
@@ -385,9 +385,9 @@
 		},
 		{
 			"name": "bow_pulling_2_27",
-			"from": [7, 12.5, 7.25],
-			"to": [7.5, 13, 8.75],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [6.79527, 12.56276, 7.25],
+			"to": [7.29527, 13.06276, 8.75],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [7, 3.5, 7.5, 3], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [7, 3, 7.5, 3.5], "texture": "#1"},
@@ -399,9 +399,9 @@
 		},
 		{
 			"name": "bow_pulling_2_28",
-			"from": [7.5, 12.5, 7.25],
-			"to": [8, 13, 8.75],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [7.29527, 12.56276, 7.25],
+			"to": [7.79527, 13.06276, 8.75],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [7.5, 3.5, 8, 3], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [7.5, 3, 8, 3.5], "texture": "#1"},
@@ -413,9 +413,9 @@
 		},
 		{
 			"name": "bow_pulling_2_29",
-			"from": [8, 12.5, 7.25],
-			"to": [8.5, 13, 8.75],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [7.79527, 12.56276, 7.25],
+			"to": [8.29527, 13.06276, 8.75],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [8, 3.5, 8.5, 3], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [8, 3, 8.5, 3.5], "texture": "#1"},
@@ -427,9 +427,9 @@
 		},
 		{
 			"name": "bow_pulling_2_30",
-			"from": [8.5, 12.5, 6.875],
-			"to": [9, 13, 9.125],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [8.29527, 12.56276, 6.875],
+			"to": [8.79527, 13.06276, 9.125],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [8.5, 3.5, 9, 3], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [8.5, 3, 9, 3.5], "texture": "#1"},
@@ -441,9 +441,9 @@
 		},
 		{
 			"name": "bow_pulling_2_31",
-			"from": [9, 12.5, 6.875],
-			"to": [9.5, 13, 9.125],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [8.79527, 12.56276, 6.875],
+			"to": [9.29527, 13.06276, 9.125],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [9, 3.5, 9.5, 3], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [9, 3, 9.5, 3.5], "texture": "#1"},
@@ -455,9 +455,9 @@
 		},
 		{
 			"name": "bow_pulling_2_32",
-			"from": [9.5, 12.5, 6.875],
-			"to": [10, 13, 9.125],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [9.29527, 12.56276, 6.875],
+			"to": [9.79527, 13.06276, 9.125],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [9.5, 3.5, 10, 3], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [9.5, 3, 10, 3.5], "texture": "#1"},
@@ -469,9 +469,9 @@
 		},
 		{
 			"name": "bow_pulling_2_33",
-			"from": [10, 12.5, 6.875],
-			"to": [10.5, 13, 9.125],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [9.79527, 12.56276, 6.875],
+			"to": [10.29527, 13.06276, 9.125],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [10, 3.5, 10.5, 3], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [10, 3, 10.5, 3.5], "texture": "#1"},
@@ -483,9 +483,9 @@
 		},
 		{
 			"name": "bow_pulling_2_34",
-			"from": [10.5, 12.5, 6.875],
-			"to": [11, 13, 9.125],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [10.29527, 12.56276, 6.875],
+			"to": [10.79527, 13.06276, 9.125],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [10.5, 3.5, 11, 3], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [10.5, 3, 11, 3.5], "texture": "#1"},
@@ -497,9 +497,9 @@
 		},
 		{
 			"name": "bow_pulling_2_35",
-			"from": [11, 12.5, 6.875],
-			"to": [11.5, 13, 9.125],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [10.79527, 12.56276, 6.875],
+			"to": [11.29527, 13.06276, 9.125],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [11, 3.5, 11.5, 3], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [11, 3, 11.5, 3.5], "texture": "#1"},
@@ -511,9 +511,9 @@
 		},
 		{
 			"name": "bow_pulling_2_36",
-			"from": [11.5, 12.5, 6.875],
-			"to": [12, 13, 9.125],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [11.29527, 12.56276, 6.875],
+			"to": [11.79527, 13.06276, 9.125],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [11.5, 3.5, 12, 3], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [11.5, 3, 12, 3.5], "texture": "#1"},
@@ -525,9 +525,9 @@
 		},
 		{
 			"name": "bow_pulling_2_37",
-			"from": [12, 12.5, 6.875],
-			"to": [12.5, 13, 9.125],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [11.79527, 12.56276, 6.875],
+			"to": [12.29527, 13.06276, 9.125],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [12, 3.5, 12.5, 3], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [12, 3, 12.5, 3.5], "texture": "#1"},
@@ -539,9 +539,9 @@
 		},
 		{
 			"name": "bow_pulling_2_38",
-			"from": [12.5, 12.5, 6.875],
-			"to": [13, 13, 9.125],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [12.29527, 12.56276, 6.875],
+			"to": [12.79527, 13.06276, 9.125],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [12.5, 3.5, 13, 3], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [12.5, 3, 13, 3.5], "texture": "#1"},
@@ -553,9 +553,9 @@
 		},
 		{
 			"name": "bow_pulling_2_39",
-			"from": [13, 12.5, 6.875],
-			"to": [13.5, 13, 9.125],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [12.79527, 12.56276, 6.875],
+			"to": [13.29527, 13.06276, 9.125],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [13, 3.5, 13.5, 3], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [13, 3, 13.5, 3.5], "texture": "#1"},
@@ -567,9 +567,9 @@
 		},
 		{
 			"name": "bow_pulling_2_40",
-			"from": [13.5, 12.5, 6.875],
-			"to": [14, 13, 9.125],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [13.29527, 12.56276, 6.875],
+			"to": [13.79527, 13.06276, 9.125],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [13.5, 3.5, 14, 3], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [13.5, 3, 14, 3.5], "texture": "#1"},
@@ -581,9 +581,9 @@
 		},
 		{
 			"name": "bow_pulling_2_41",
-			"from": [14, 12.5, 6.875],
-			"to": [14.5, 13, 9.125],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [13.79527, 12.56276, 6.875],
+			"to": [14.29527, 13.06276, 9.125],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [14, 3.5, 14.5, 3], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [14, 3, 14.5, 3.5], "texture": "#1"},
@@ -595,9 +595,9 @@
 		},
 		{
 			"name": "bow_pulling_2_42",
-			"from": [14.5, 12.5, 6.875],
-			"to": [15, 13, 9.125],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [14.29527, 12.56276, 6.875],
+			"to": [14.79527, 13.06276, 9.125],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [14.5, 3.5, 15, 3], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [14.5, 3, 15, 3.5], "texture": "#1"},
@@ -609,9 +609,9 @@
 		},
 		{
 			"name": "bow_pulling_2_43",
-			"from": [15, 12.5, 7.25],
-			"to": [15.5, 13, 8.75],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [14.79527, 12.56276, 7.25],
+			"to": [15.29527, 13.06276, 8.75],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [15, 3.5, 15.5, 3], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [15, 3, 15.5, 3.5], "texture": "#1"},
@@ -623,9 +623,9 @@
 		},
 		{
 			"name": "bow_pulling_2_44",
-			"from": [3, 12, 7.75],
-			"to": [3.5, 12.5, 8.25],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [2.79527, 12.06276, 7.75],
+			"to": [3.29527, 12.56276, 8.25],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [3, 4, 3.5, 3.5], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [3, 3.5, 3.5, 4], "texture": "#1"},
@@ -637,9 +637,9 @@
 		},
 		{
 			"name": "bow_pulling_2_45",
-			"from": [3.5, 12, 7.25],
-			"to": [4, 12.5, 8.75],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [3.29527, 12.06276, 7.25],
+			"to": [3.79527, 12.56276, 8.75],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [3.5, 4, 4, 3.5], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [3.5, 3.5, 4, 4], "texture": "#1"},
@@ -651,9 +651,9 @@
 		},
 		{
 			"name": "bow_pulling_2_46",
-			"from": [4, 12, 7.25],
-			"to": [4.5, 12.5, 8.75],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [3.79527, 12.06276, 7.25],
+			"to": [4.29527, 12.56276, 8.75],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [4, 4, 4.5, 3.5], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [4, 3.5, 4.5, 4], "texture": "#1"},
@@ -665,9 +665,9 @@
 		},
 		{
 			"name": "bow_pulling_2_47",
-			"from": [4.5, 12, 7.75],
-			"to": [5, 12.5, 8.25],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [4.29527, 12.06276, 7.75],
+			"to": [4.79527, 12.56276, 8.25],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [4.5, 4, 5, 3.5], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [4.5, 3.5, 5, 4], "texture": "#1"},
@@ -679,9 +679,9 @@
 		},
 		{
 			"name": "bow_pulling_2_49",
-			"from": [6.5, 12, 7.25],
-			"to": [7, 12.5, 8.75],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [6.29527, 12.06276, 7.25],
+			"to": [6.79527, 12.56276, 8.75],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [6.5, 4, 7, 3.5], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [6.5, 3.5, 7, 4], "texture": "#1"},
@@ -693,9 +693,9 @@
 		},
 		{
 			"name": "bow_pulling_2_50",
-			"from": [7, 12, 6.875],
-			"to": [7.5, 12.5, 9.125],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [6.79527, 12.06276, 6.875],
+			"to": [7.29527, 12.56276, 9.125],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [7, 4, 7.5, 3.5], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [7, 3.5, 7.5, 4], "texture": "#1"},
@@ -707,9 +707,9 @@
 		},
 		{
 			"name": "bow_pulling_2_51",
-			"from": [7.5, 12, 6.875],
-			"to": [8, 12.5, 9.125],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [7.29527, 12.06276, 6.875],
+			"to": [7.79527, 12.56276, 9.125],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [7.5, 4, 8, 3.5], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [7.5, 3.5, 8, 4], "texture": "#1"},
@@ -721,9 +721,9 @@
 		},
 		{
 			"name": "bow_pulling_2_52",
-			"from": [8, 12, 6.875],
-			"to": [8.5, 12.5, 9.125],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [7.79527, 12.06276, 6.875],
+			"to": [8.29527, 12.56276, 9.125],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [8, 4, 8.5, 3.5], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [8, 3.5, 8.5, 4], "texture": "#1"},
@@ -735,9 +735,9 @@
 		},
 		{
 			"name": "bow_pulling_2_53",
-			"from": [8.5, 12, 6.875],
-			"to": [9, 12.5, 9.125],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [8.29527, 12.06276, 6.875],
+			"to": [8.79527, 12.56276, 9.125],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [8.5, 4, 9, 3.5], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [8.5, 3.5, 9, 4], "texture": "#1"},
@@ -749,9 +749,9 @@
 		},
 		{
 			"name": "bow_pulling_2_54",
-			"from": [9, 12, 6.875],
-			"to": [9.5, 12.5, 9.125],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [8.79527, 12.06276, 6.875],
+			"to": [9.29527, 12.56276, 9.125],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [9, 4, 9.5, 3.5], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [9, 3.5, 9.5, 4], "texture": "#1"},
@@ -763,9 +763,9 @@
 		},
 		{
 			"name": "bow_pulling_2_55",
-			"from": [9.5, 12, 6.875],
-			"to": [10, 12.5, 9.125],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [9.29527, 12.06276, 6.875],
+			"to": [9.79527, 12.56276, 9.125],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [9.5, 4, 10, 3.5], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [9.5, 3.5, 10, 4], "texture": "#1"},
@@ -777,9 +777,9 @@
 		},
 		{
 			"name": "bow_pulling_2_56",
-			"from": [10, 12, 6.875],
-			"to": [10.5, 12.5, 9.125],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [9.79527, 12.06276, 6.875],
+			"to": [10.29527, 12.56276, 9.125],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [10, 4, 10.5, 3.5], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [10, 3.5, 10.5, 4], "texture": "#1"},
@@ -791,9 +791,9 @@
 		},
 		{
 			"name": "bow_pulling_2_57",
-			"from": [10.5, 12, 6.875],
-			"to": [11, 12.5, 9.125],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [10.29527, 12.06276, 6.875],
+			"to": [10.79527, 12.56276, 9.125],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [10.5, 4, 11, 3.5], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [10.5, 3.5, 11, 4], "texture": "#1"},
@@ -805,9 +805,9 @@
 		},
 		{
 			"name": "bow_pulling_2_58",
-			"from": [11, 12, 6.875],
-			"to": [11.5, 12.5, 9.125],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [10.79527, 12.06276, 6.875],
+			"to": [11.29527, 12.56276, 9.125],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [11, 4, 11.5, 3.5], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [11, 3.5, 11.5, 4], "texture": "#1"},
@@ -819,9 +819,9 @@
 		},
 		{
 			"name": "bow_pulling_2_59",
-			"from": [11.5, 12, 6.875],
-			"to": [12, 12.5, 9.125],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [11.29527, 12.06276, 6.875],
+			"to": [11.79527, 12.56276, 9.125],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [11.5, 4, 12, 3.5], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [11.5, 3.5, 12, 4], "texture": "#1"},
@@ -833,9 +833,9 @@
 		},
 		{
 			"name": "bow_pulling_2_60",
-			"from": [12, 12, 7.25],
-			"to": [12.5, 12.5, 8.75],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [11.79527, 12.06276, 7.25],
+			"to": [12.29527, 12.56276, 8.75],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [12, 4, 12.5, 3.5], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [12, 3.5, 12.5, 4], "texture": "#1"},
@@ -847,9 +847,9 @@
 		},
 		{
 			"name": "bow_pulling_2_61",
-			"from": [12.5, 12, 7.25],
-			"to": [13, 12.5, 8.75],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [12.29527, 12.06276, 7.25],
+			"to": [12.79527, 12.56276, 8.75],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [12.5, 4, 13, 3.5], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [12.5, 3.5, 13, 4], "texture": "#1"},
@@ -861,9 +861,9 @@
 		},
 		{
 			"name": "bow_pulling_2_62",
-			"from": [13, 12, 7.25],
-			"to": [13.5, 12.5, 8.75],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [12.79527, 12.06276, 7.25],
+			"to": [13.29527, 12.56276, 8.75],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [13, 4, 13.5, 3.5], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [13, 3.5, 13.5, 4], "texture": "#1"},
@@ -875,9 +875,9 @@
 		},
 		{
 			"name": "bow_pulling_2_63",
-			"from": [13.5, 12, 7.25],
-			"to": [14, 12.5, 8.75],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [13.29527, 12.06276, 7.25],
+			"to": [13.79527, 12.56276, 8.75],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [13.5, 4, 14, 3.5], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [13.5, 3.5, 14, 4], "texture": "#1"},
@@ -889,9 +889,9 @@
 		},
 		{
 			"name": "bow_pulling_2_64",
-			"from": [14, 12, 7.25],
-			"to": [14.5, 12.5, 8.75],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [13.79527, 12.06276, 7.25],
+			"to": [14.29527, 12.56276, 8.75],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [14, 4, 14.5, 3.5], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [14, 3.5, 14.5, 4], "texture": "#1"},
@@ -903,9 +903,9 @@
 		},
 		{
 			"name": "bow_pulling_2_65",
-			"from": [14.5, 12, 7.25],
-			"to": [15, 12.5, 8.75],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [14.29527, 12.06276, 7.25],
+			"to": [14.79527, 12.56276, 8.75],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [14.5, 4, 15, 3.5], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [14.5, 3.5, 15, 4], "texture": "#1"},
@@ -917,9 +917,9 @@
 		},
 		{
 			"name": "bow_pulling_2_66",
-			"from": [3, 11.5, 7.75],
-			"to": [3.5, 12, 8.25],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [2.79527, 11.56276, 7.75],
+			"to": [3.29527, 12.06276, 8.25],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [3, 4.5, 3.5, 4], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [3, 4, 3.5, 4.5], "texture": "#1"},
@@ -931,9 +931,9 @@
 		},
 		{
 			"name": "bow_pulling_2_67",
-			"from": [4, 11.5, 7.75],
-			"to": [4.5, 12, 8.25],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [3.79527, 11.56276, 7.75],
+			"to": [4.29527, 12.06276, 8.25],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [4, 4.5, 4.5, 4], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [4, 4, 4.5, 4.5], "texture": "#1"},
@@ -945,9 +945,9 @@
 		},
 		{
 			"name": "bow_pulling_2_68",
-			"from": [4.5, 11.5, 7.25],
-			"to": [5, 12, 8.75],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [4.29527, 11.56276, 7.25],
+			"to": [4.79527, 12.06276, 8.75],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [4.5, 4.5, 5, 4], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [4.5, 4, 5, 4.5], "texture": "#1"},
@@ -959,9 +959,9 @@
 		},
 		{
 			"name": "bow_pulling_2_69",
-			"from": [5, 11.5, 7.75],
-			"to": [5.5, 12, 8.25],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [4.79527, 11.56276, 7.75],
+			"to": [5.29527, 12.06276, 8.25],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [5, 4.5, 5.5, 4], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [5, 4, 5.5, 4.5], "texture": "#1"},
@@ -973,9 +973,9 @@
 		},
 		{
 			"name": "bow_pulling_2_71",
-			"from": [6, 11.5, 7.25],
-			"to": [6.5, 12, 8.75],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [5.79527, 11.56276, 7.25],
+			"to": [6.29527, 12.06276, 8.75],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [6, 4.5, 6.5, 4], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [6, 4, 6.5, 4.5], "texture": "#1"},
@@ -987,9 +987,9 @@
 		},
 		{
 			"name": "bow_pulling_2_72",
-			"from": [6.5, 11.5, 6.875],
-			"to": [7, 12, 9.125],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [6.29527, 11.56276, 6.875],
+			"to": [6.79527, 12.06276, 9.125],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [6.5, 4.5, 7, 4], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [6.5, 4, 7, 4.5], "texture": "#1"},
@@ -1001,9 +1001,9 @@
 		},
 		{
 			"name": "bow_pulling_2_73",
-			"from": [7, 11.5, 6.875],
-			"to": [7.5, 12, 9.125],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [6.79527, 11.56276, 6.875],
+			"to": [7.29527, 12.06276, 9.125],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [7, 4.5, 7.5, 4], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [7, 4, 7.5, 4.5], "texture": "#1"},
@@ -1015,9 +1015,9 @@
 		},
 		{
 			"name": "bow_pulling_2_74",
-			"from": [7.5, 11.5, 6.875],
-			"to": [8, 12, 9.125],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [7.29527, 11.56276, 6.875],
+			"to": [7.79527, 12.06276, 9.125],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [7.5, 4.5, 8, 4], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [7.5, 4, 8, 4.5], "texture": "#1"},
@@ -1029,9 +1029,9 @@
 		},
 		{
 			"name": "bow_pulling_2_75",
-			"from": [8, 11.5, 6.875],
-			"to": [8.5, 12, 9.125],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [7.79527, 11.56276, 6.875],
+			"to": [8.29527, 12.06276, 9.125],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [8, 4.5, 8.5, 4], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [8, 4, 8.5, 4.5], "texture": "#1"},
@@ -1043,9 +1043,9 @@
 		},
 		{
 			"name": "bow_pulling_2_76",
-			"from": [8.5, 11.5, 7.25],
-			"to": [9, 12, 8.75],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [8.29527, 11.56276, 7.25],
+			"to": [8.79527, 12.06276, 8.75],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [8.5, 4.5, 9, 4], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [8.5, 4, 9, 4.5], "texture": "#1"},
@@ -1057,9 +1057,9 @@
 		},
 		{
 			"name": "bow_pulling_2_77",
-			"from": [9, 11.5, 7.25],
-			"to": [9.5, 12, 8.75],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [8.79527, 11.56276, 7.25],
+			"to": [9.29527, 12.06276, 8.75],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [9, 4.5, 9.5, 4], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [9, 4, 9.5, 4.5], "texture": "#1"},
@@ -1071,9 +1071,9 @@
 		},
 		{
 			"name": "bow_pulling_2_78",
-			"from": [9.5, 11.5, 7.25],
-			"to": [10, 12, 8.75],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [9.29527, 11.56276, 7.25],
+			"to": [9.79527, 12.06276, 8.75],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [9.5, 4.5, 10, 4], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [9.5, 4, 10, 4.5], "texture": "#1"},
@@ -1085,9 +1085,9 @@
 		},
 		{
 			"name": "bow_pulling_2_79",
-			"from": [10, 11.5, 7.25],
-			"to": [10.5, 12, 8.75],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [9.79527, 11.56276, 7.25],
+			"to": [10.29527, 12.06276, 8.75],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [10, 4.5, 10.5, 4], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [10, 4, 10.5, 4.5], "texture": "#1"},
@@ -1099,9 +1099,9 @@
 		},
 		{
 			"name": "bow_pulling_2_80",
-			"from": [10.5, 11.5, 7.25],
-			"to": [11, 12, 8.75],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [10.29527, 11.56276, 7.25],
+			"to": [10.79527, 12.06276, 8.75],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [10.5, 4.5, 11, 4], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [10.5, 4, 11, 4.5], "texture": "#1"},
@@ -1113,9 +1113,9 @@
 		},
 		{
 			"name": "bow_pulling_2_81",
-			"from": [11, 11.5, 7.25],
-			"to": [11.5, 12, 8.75],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [10.79527, 11.56276, 7.25],
+			"to": [11.29527, 12.06276, 8.75],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [11, 4.5, 11.5, 4], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [11, 4, 11.5, 4.5], "texture": "#1"},
@@ -1127,9 +1127,9 @@
 		},
 		{
 			"name": "bow_pulling_2_82",
-			"from": [11.5, 11.5, 7.25],
-			"to": [12, 12, 8.75],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [11.29527, 11.56276, 7.25],
+			"to": [11.79527, 12.06276, 8.75],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [11.5, 4.5, 12, 4], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [11.5, 4, 12, 4.5], "texture": "#1"},
@@ -1141,9 +1141,9 @@
 		},
 		{
 			"name": "bow_pulling_2_83",
-			"from": [14.5, 11.5, 7.75],
-			"to": [15, 12, 8.25],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [14.29527, 11.56276, 7.75],
+			"to": [14.79527, 12.06276, 8.25],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [14.5, 4.5, 15, 4], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [14.5, 4, 15, 4.5], "texture": "#1"},
@@ -1155,9 +1155,9 @@
 		},
 		{
 			"name": "bow_pulling_2_84",
-			"from": [4.5, 11, 7.75],
-			"to": [5, 11.5, 8.25],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [4.29527, 11.06276, 7.75],
+			"to": [4.79527, 11.56276, 8.25],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [4.5, 5, 5, 4.5], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [4.5, 4.5, 5, 5], "texture": "#1"},
@@ -1169,9 +1169,9 @@
 		},
 		{
 			"name": "bow_pulling_2_85",
-			"from": [5, 11, 7.25],
-			"to": [5.5, 11.5, 8.75],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [4.79527, 11.06276, 7.25],
+			"to": [5.29527, 11.56276, 8.75],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [5, 5, 5.5, 4.5], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [5, 4.5, 5.5, 5], "texture": "#1"},
@@ -1183,9 +1183,9 @@
 		},
 		{
 			"name": "bow_pulling_2_86",
-			"from": [5.5, 11, 7.25],
-			"to": [6, 11.5, 8.75],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [5.29527, 11.06276, 7.25],
+			"to": [5.79527, 11.56276, 8.75],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [4.5, 6.5, 5, 7], "texture": "#1"},
 				"east": {"uv": [4.5, 6.5, 5, 7], "texture": "#1"},
@@ -1197,9 +1197,9 @@
 		},
 		{
 			"name": "bow_pulling_2_87",
-			"from": [6, 11, 7],
-			"to": [6.5, 11.5, 9],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [5.79527, 11.06276, 7],
+			"to": [6.29527, 11.56276, 9],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [6, 5, 6.5, 4.5], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [6, 4.5, 6.5, 5], "texture": "#1"},
@@ -1211,9 +1211,9 @@
 		},
 		{
 			"name": "bow_pulling_2_88",
-			"from": [6.5, 11, 7.25],
-			"to": [7, 11.5, 8.75],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [6.29527, 11.06276, 7.25],
+			"to": [6.79527, 11.56276, 8.75],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [6.5, 5, 7, 4.5], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [6.5, 4.5, 7, 5], "texture": "#1"},
@@ -1225,9 +1225,9 @@
 		},
 		{
 			"name": "bow_pulling_2_89",
-			"from": [7, 11, 6.875],
-			"to": [7.5, 11.5, 9.125],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [6.79527, 11.06276, 6.875],
+			"to": [7.29527, 11.56276, 9.125],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [7, 5, 7.5, 4.5], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [7, 4.5, 7.5, 5], "texture": "#1"},
@@ -1239,9 +1239,9 @@
 		},
 		{
 			"name": "bow_pulling_2_90",
-			"from": [7.5, 11, 7.25],
-			"to": [8, 11.5, 8.75],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [7.29527, 11.06276, 7.25],
+			"to": [7.79527, 11.56276, 8.75],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [7.5, 5, 8, 4.5], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [7.5, 4.5, 8, 5], "texture": "#1"},
@@ -1253,9 +1253,9 @@
 		},
 		{
 			"name": "bow_pulling_2_91",
-			"from": [8, 11, 7.25],
-			"to": [8.5, 11.5, 8.75],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [7.79527, 11.06276, 7.25],
+			"to": [8.29527, 11.56276, 8.75],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [8, 5, 8.5, 4.5], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [8, 4.5, 8.5, 5], "texture": "#1"},
@@ -1267,9 +1267,9 @@
 		},
 		{
 			"name": "bow_pulling_2_92",
-			"from": [14.5, 11, 7.75],
-			"to": [15, 11.5, 8.25],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [14.29527, 11.06276, 7.75],
+			"to": [14.79527, 11.56276, 8.25],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [14.5, 5, 15, 4.5], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [14.5, 4.5, 15, 5], "texture": "#1"},
@@ -1281,9 +1281,9 @@
 		},
 		{
 			"name": "bow_pulling_2_94",
-			"from": [5, 10.5, 7.25],
-			"to": [5.5, 11, 8.75],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [4.79527, 10.56276, 7.25],
+			"to": [5.29527, 11.06276, 8.75],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [4.5, 6.5, 5, 7], "texture": "#1"},
 				"east": {"uv": [4.5, 6.5, 5, 7], "texture": "#1"},
@@ -1295,9 +1295,9 @@
 		},
 		{
 			"name": "bow_pulling_2_95",
-			"from": [5.5, 10.5, 7],
-			"to": [6, 11, 9],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [5.29527, 10.56276, 7],
+			"to": [5.79527, 11.06276, 9],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [5, 6, 5.5, 6.5], "texture": "#1"},
 				"east": {"uv": [5, 6, 5.5, 6.5], "texture": "#1"},
@@ -1309,9 +1309,9 @@
 		},
 		{
 			"name": "bow_pulling_2_96",
-			"from": [6, 10.5, 7],
-			"to": [6.5, 11, 9],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [5.79527, 10.56276, 7],
+			"to": [6.29527, 11.06276, 9],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [5, 6, 5.5, 6.5], "texture": "#1"},
 				"east": {"uv": [5, 6, 5.5, 6.5], "texture": "#1"},
@@ -1323,9 +1323,9 @@
 		},
 		{
 			"name": "bow_pulling_2_97",
-			"from": [6.5, 10.5, 7],
-			"to": [7, 11, 9],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [6.29527, 10.56276, 7],
+			"to": [6.79527, 11.06276, 9],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [6.5, 5.5, 7, 5], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [6.5, 5, 7, 5.5], "texture": "#1"},
@@ -1337,9 +1337,9 @@
 		},
 		{
 			"name": "bow_pulling_2_98",
-			"from": [7, 10.5, 7.25],
-			"to": [7.5, 11, 8.75],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [6.79527, 10.56276, 7.25],
+			"to": [7.29527, 11.06276, 8.75],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [7, 5.5, 7.5, 5], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [7, 5, 7.5, 5.5], "texture": "#1"},
@@ -1351,9 +1351,9 @@
 		},
 		{
 			"name": "bow_pulling_2_99",
-			"from": [14, 10.5, 7.75],
-			"to": [14.5, 11, 8.25],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [13.79527, 10.56276, 7.75],
+			"to": [14.29527, 11.06276, 8.25],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [14, 5.5, 14.5, 5], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [14, 5, 14.5, 5.5], "texture": "#1"},
@@ -1365,9 +1365,9 @@
 		},
 		{
 			"name": "bow_pulling_2_101",
-			"from": [4.5, 10, 7.25],
-			"to": [5, 10.5, 8.75],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [4.29527, 10.06276, 7.25],
+			"to": [4.79527, 10.56276, 8.75],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [4.5, 6, 5, 5.5], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [4.5, 5.5, 5, 6], "texture": "#1"},
@@ -1379,9 +1379,9 @@
 		},
 		{
 			"name": "bow_pulling_2_102",
-			"from": [5, 10, 7],
-			"to": [5.5, 10.5, 9],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [4.79527, 10.06276, 7],
+			"to": [5.29527, 10.56276, 9],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [5, 5.5, 5.5, 6], "texture": "#1"},
 				"east": {"uv": [5, 5.5, 5.5, 6], "texture": "#1"},
@@ -1393,9 +1393,9 @@
 		},
 		{
 			"name": "bow_pulling_2_103",
-			"from": [5.5, 10, 7],
-			"to": [6, 10.5, 9],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [5.29527, 10.06276, 7],
+			"to": [5.79527, 10.56276, 9],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [5, 6, 5.5, 6.5], "texture": "#1"},
 				"east": {"uv": [5, 6, 5.5, 6.5], "texture": "#1"},
@@ -1407,9 +1407,9 @@
 		},
 		{
 			"name": "bow_pulling_2_104",
-			"from": [6, 10, 7],
-			"to": [6.5, 10.5, 9],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [5.79527, 10.06276, 7],
+			"to": [6.29527, 10.56276, 9],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [5, 6, 5.5, 6.5], "texture": "#1"},
 				"east": {"uv": [5, 6, 5.5, 6.5], "texture": "#1"},
@@ -1421,9 +1421,9 @@
 		},
 		{
 			"name": "bow_pulling_2_105",
-			"from": [6.5, 10, 7.25],
-			"to": [7, 10.5, 8.75],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [6.29527, 10.06276, 7.25],
+			"to": [6.79527, 10.56276, 8.75],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [4.5, 6.5, 5, 7], "texture": "#1"},
 				"east": {"uv": [4.5, 6.5, 5, 7], "texture": "#1"},
@@ -1435,9 +1435,9 @@
 		},
 		{
 			"name": "bow_pulling_2_106",
-			"from": [14, 10, 7.75],
-			"to": [14.5, 10.5, 8.25],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [13.79527, 10.06276, 7.75],
+			"to": [14.29527, 10.56276, 8.25],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [14, 6, 14.5, 5.5], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [14, 5.5, 14.5, 6], "texture": "#1"},
@@ -1449,9 +1449,9 @@
 		},
 		{
 			"name": "bow_pulling_2_108",
-			"from": [4, 9.5, 7.25],
-			"to": [4.5, 10, 8.75],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [3.79527, 9.56276, 7.25],
+			"to": [4.29527, 10.06276, 8.75],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [4, 6.5, 4.5, 6], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [4, 6, 4.5, 6.5], "texture": "#1"},
@@ -1463,9 +1463,9 @@
 		},
 		{
 			"name": "bow_pulling_2_109",
-			"from": [4.5, 9.5, 7],
-			"to": [5, 10, 9],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [4.29527, 9.56276, 7],
+			"to": [4.79527, 10.06276, 9],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [4.5, 6.5, 5, 6], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [4.5, 6, 5, 6.5], "texture": "#1"},
@@ -1477,9 +1477,9 @@
 		},
 		{
 			"name": "bow_pulling_2_110",
-			"from": [5, 9.5, 7],
-			"to": [5.5, 10, 9],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [4.79527, 9.56276, 7],
+			"to": [5.29527, 10.06276, 9],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [5, 6.5, 5.5, 6], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [5, 6, 5.5, 6.5], "texture": "#1"},
@@ -1491,9 +1491,9 @@
 		},
 		{
 			"name": "bow_pulling_2_111",
-			"from": [5.5, 9.5, 7],
-			"to": [6, 10, 9],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [5.29527, 9.56276, 7],
+			"to": [5.79527, 10.06276, 9],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [5.5, 6.5, 6, 6], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [5.5, 6, 6, 6.5], "texture": "#1"},
@@ -1505,9 +1505,9 @@
 		},
 		{
 			"name": "bow_pulling_2_112",
-			"from": [6, 9.5, 7.25],
-			"to": [6.5, 10, 8.75],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [5.79527, 9.56276, 7.25],
+			"to": [6.29527, 10.06276, 8.75],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [4.5, 6.5, 5, 7], "texture": "#1"},
 				"east": {"uv": [4.5, 6.5, 5, 7], "texture": "#1"},
@@ -1519,9 +1519,9 @@
 		},
 		{
 			"name": "bow_pulling_2_113",
-			"from": [6.5, 9.5, 7.25],
-			"to": [7, 10, 8.75],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [6.29527, 9.56276, 7.25],
+			"to": [6.79527, 10.06276, 8.75],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [6.5, 6.5, 7, 6], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [6.5, 6, 7, 6.5], "texture": "#1"},
@@ -1533,9 +1533,9 @@
 		},
 		{
 			"name": "bow_pulling_2_114",
-			"from": [7, 9.5, 7.75],
-			"to": [7.5, 10, 8.25],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [6.79527, 9.56276, 7.75],
+			"to": [7.29527, 10.06276, 8.25],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [7, 6.5, 7.5, 6], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [7, 6, 7.5, 6.5], "texture": "#1"},
@@ -1547,9 +1547,9 @@
 		},
 		{
 			"name": "bow_pulling_2_115",
-			"from": [14, 9.5, 7.75],
-			"to": [14.5, 10, 8.25],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [13.79527, 9.56276, 7.75],
+			"to": [14.29527, 10.06276, 8.25],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [14, 6.5, 14.5, 6], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [14, 6, 14.5, 6.5], "texture": "#1"},
@@ -1561,9 +1561,9 @@
 		},
 		{
 			"name": "bow_pulling_2_116",
-			"from": [3.5, 9, 7.25],
-			"to": [4, 9.5, 8.75],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [3.29527, 9.06276, 7.25],
+			"to": [3.79527, 9.56276, 8.75],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [3.5, 7, 4, 6.5], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [3.5, 6.5, 4, 7], "texture": "#1"},
@@ -1575,9 +1575,9 @@
 		},
 		{
 			"name": "bow_pulling_2_117",
-			"from": [4, 9, 6.875],
-			"to": [4.5, 9.5, 9.125],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [3.79527, 9.06276, 6.875],
+			"to": [4.29527, 9.56276, 9.125],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [4, 7, 4.5, 6.5], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [4, 6.5, 4.5, 7], "texture": "#1"},
@@ -1589,9 +1589,9 @@
 		},
 		{
 			"name": "bow_pulling_2_118",
-			"from": [4.5, 9, 7.25],
-			"to": [5, 9.5, 8.75],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [4.29527, 9.06276, 7.25],
+			"to": [4.79527, 9.56276, 8.75],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [4.5, 7, 5, 6.5], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [4.5, 6.5, 5, 7], "texture": "#1"},
@@ -1603,9 +1603,9 @@
 		},
 		{
 			"name": "bow_pulling_2_119",
-			"from": [5, 9, 7],
-			"to": [5.5, 9.5, 9],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [4.79527, 9.06276, 7],
+			"to": [5.29527, 9.56276, 9],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [5, 7, 5.5, 6.5], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [5, 6.5, 5.5, 7], "texture": "#1"},
@@ -1617,9 +1617,9 @@
 		},
 		{
 			"name": "bow_pulling_2_120",
-			"from": [5.5, 9, 7.25],
-			"to": [6, 9.5, 8.75],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [5.29527, 9.06276, 7.25],
+			"to": [5.79527, 9.56276, 8.75],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [5.5, 7, 6, 6.5], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [5.5, 6.5, 6, 7], "texture": "#1"},
@@ -1631,9 +1631,9 @@
 		},
 		{
 			"name": "bow_pulling_2_121",
-			"from": [6.5, 9, 7.75],
-			"to": [7, 9.5, 8.25],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [6.29527, 9.06276, 7.75],
+			"to": [6.79527, 9.56276, 8.25],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [6.5, 7, 7, 6.5], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [6.5, 6.5, 7, 7], "texture": "#1"},
@@ -1645,9 +1645,9 @@
 		},
 		{
 			"name": "bow_pulling_2_122",
-			"from": [7, 9, 7.25],
-			"to": [7.5, 9.5, 8.75],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [6.79527, 9.06276, 7.25],
+			"to": [7.29527, 9.56276, 8.75],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [7, 7, 7.5, 6.5], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [7, 6.5, 7.5, 7], "texture": "#1"},
@@ -1659,9 +1659,9 @@
 		},
 		{
 			"name": "bow_pulling_2_123",
-			"from": [7.5, 9, 7.75],
-			"to": [8, 9.5, 8.25],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [7.29527, 9.06276, 7.75],
+			"to": [7.79527, 9.56276, 8.25],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [7.5, 7, 8, 6.5], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [7.5, 6.5, 8, 7], "texture": "#1"},
@@ -1673,9 +1673,9 @@
 		},
 		{
 			"name": "bow_pulling_2_124",
-			"from": [14, 9, 7.75],
-			"to": [14.5, 9.5, 8.25],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [13.79527, 9.06276, 7.75],
+			"to": [14.29527, 9.56276, 8.25],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [14, 7, 14.5, 6.5], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [14, 6.5, 14.5, 7], "texture": "#1"},
@@ -1687,9 +1687,9 @@
 		},
 		{
 			"name": "bow_pulling_2_125",
-			"from": [3, 8.5, 7.25],
-			"to": [3.5, 9, 8.75],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [2.79527, 8.56276, 7.25],
+			"to": [3.29527, 9.06276, 8.75],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [3, 7.5, 3.5, 7], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [3, 7, 3.5, 7.5], "texture": "#1"},
@@ -1701,9 +1701,9 @@
 		},
 		{
 			"name": "bow_pulling_2_126",
-			"from": [3.5, 8.5, 6.875],
-			"to": [4, 9, 9.125],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [3.29527, 8.56276, 6.875],
+			"to": [3.79527, 9.06276, 9.125],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [3.5, 7.5, 4, 7], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [3.5, 7, 4, 7.5], "texture": "#1"},
@@ -1715,9 +1715,9 @@
 		},
 		{
 			"name": "bow_pulling_2_127",
-			"from": [4, 8.5, 6.875],
-			"to": [4.5, 9, 9.125],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [3.79527, 8.56276, 6.875],
+			"to": [4.29527, 9.06276, 9.125],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [4, 7.5, 4.5, 7], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [4, 7, 4.5, 7.5], "texture": "#1"},
@@ -1729,9 +1729,9 @@
 		},
 		{
 			"name": "bow_pulling_2_128",
-			"from": [4.5, 8.5, 6.875],
-			"to": [5, 9, 9.125],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [4.29527, 8.56276, 6.875],
+			"to": [4.79527, 9.06276, 9.125],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [4.5, 7.5, 5, 7], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [4.5, 7, 5, 7.5], "texture": "#1"},
@@ -1743,9 +1743,9 @@
 		},
 		{
 			"name": "bow_pulling_2_129",
-			"from": [5, 8.5, 7.25],
-			"to": [5.5, 9, 8.75],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [4.79527, 8.56276, 7.25],
+			"to": [5.29527, 9.06276, 8.75],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [5, 7.5, 5.5, 7], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [5, 7, 5.5, 7.5], "texture": "#1"},
@@ -1757,9 +1757,9 @@
 		},
 		{
 			"name": "bow_pulling_2_130",
-			"from": [7, 8.5, 7.75],
-			"to": [7.5, 9, 8.25],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [6.79527, 8.56276, 7.75],
+			"to": [7.29527, 9.06276, 8.25],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [7, 7.5, 7.5, 7], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [7, 7, 7.5, 7.5], "texture": "#1"},
@@ -1771,9 +1771,9 @@
 		},
 		{
 			"name": "bow_pulling_2_131",
-			"from": [7.5, 8.5, 7.25],
-			"to": [8, 9, 8.75],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [7.29527, 8.56276, 7.25],
+			"to": [7.79527, 9.06276, 8.75],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [7.5, 7.5, 8, 7], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [7.5, 7, 8, 7.5], "texture": "#1"},
@@ -1785,9 +1785,9 @@
 		},
 		{
 			"name": "bow_pulling_2_132",
-			"from": [8, 8.5, 7.75],
-			"to": [8.5, 9, 8.25],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [7.79527, 8.56276, 7.75],
+			"to": [8.29527, 9.06276, 8.25],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [8, 7.5, 8.5, 7], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [8, 7, 8.5, 7.5], "texture": "#1"},
@@ -1799,9 +1799,9 @@
 		},
 		{
 			"name": "bow_pulling_2_133",
-			"from": [14, 8.5, 7.75],
-			"to": [14.5, 9, 8.25],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [13.79527, 8.56276, 7.75],
+			"to": [14.29527, 9.06276, 8.25],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [14, 7.5, 14.5, 7], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [14, 7, 14.5, 7.5], "texture": "#1"},
@@ -1813,9 +1813,9 @@
 		},
 		{
 			"name": "bow_pulling_2_134",
-			"from": [3, 8, 7.25],
-			"to": [3.5, 8.5, 8.75],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [2.79527, 8.06276, 7.25],
+			"to": [3.29527, 8.56276, 8.75],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [3, 8, 3.5, 7.5], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [3, 7.5, 3.5, 8], "texture": "#1"},
@@ -1827,9 +1827,9 @@
 		},
 		{
 			"name": "bow_pulling_2_135",
-			"from": [3.5, 8, 6.875],
-			"to": [4, 8.5, 9.125],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [3.29527, 8.06276, 6.875],
+			"to": [3.79527, 8.56276, 9.125],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [3.5, 8, 4, 7.5], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [3.5, 7.5, 4, 8], "texture": "#1"},
@@ -1841,9 +1841,9 @@
 		},
 		{
 			"name": "bow_pulling_2_136",
-			"from": [4, 8, 6.875],
-			"to": [4.5, 8.5, 9.125],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [3.79527, 8.06276, 6.875],
+			"to": [4.29527, 8.56276, 9.125],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [4, 8, 4.5, 7.5], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [4, 7.5, 4.5, 8], "texture": "#1"},
@@ -1855,9 +1855,9 @@
 		},
 		{
 			"name": "bow_pulling_2_137",
-			"from": [4.5, 8, 7.25],
-			"to": [5, 8.5, 8.75],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [4.29527, 8.06276, 7.25],
+			"to": [4.79527, 8.56276, 8.75],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [4.5, 8, 5, 7.5], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [4.5, 7.5, 5, 8], "texture": "#1"},
@@ -1869,9 +1869,9 @@
 		},
 		{
 			"name": "bow_pulling_2_138",
-			"from": [7.5, 8, 7.75],
-			"to": [8, 8.5, 8.25],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [7.29527, 8.06276, 7.75],
+			"to": [7.79527, 8.56276, 8.25],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [7.5, 8, 8, 7.5], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [7.5, 7.5, 8, 8], "texture": "#1"},
@@ -1883,9 +1883,9 @@
 		},
 		{
 			"name": "bow_pulling_2_139",
-			"from": [8, 8, 7.25],
-			"to": [8.5, 8.5, 8.75],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [7.79527, 8.06276, 7.25],
+			"to": [8.29527, 8.56276, 8.75],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [8, 8, 8.5, 7.5], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [8, 7.5, 8.5, 8], "texture": "#1"},
@@ -1897,9 +1897,9 @@
 		},
 		{
 			"name": "bow_pulling_2_140",
-			"from": [8.5, 8, 7.75],
-			"to": [9, 8.5, 8.25],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [8.29527, 8.06276, 7.75],
+			"to": [8.79527, 8.56276, 8.25],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [8.5, 8, 9, 7.5], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [8.5, 7.5, 9, 8], "texture": "#1"},
@@ -1911,9 +1911,9 @@
 		},
 		{
 			"name": "bow_pulling_2_141",
-			"from": [13.5, 8, 7.75],
-			"to": [14, 8.5, 8.25],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [13.29527, 8.06276, 7.75],
+			"to": [13.79527, 8.56276, 8.25],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [13.5, 8, 14, 7.5], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [13.5, 7.5, 14, 8], "texture": "#1"},
@@ -1925,9 +1925,9 @@
 		},
 		{
 			"name": "bow_pulling_2_142",
-			"from": [3, 7.5, 7.25],
-			"to": [3.5, 8, 8.75],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [2.79527, 7.56276, 7.25],
+			"to": [3.29527, 8.06276, 8.75],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [3, 8.5, 3.5, 8], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [3, 8, 3.5, 8.5], "texture": "#1"},
@@ -1939,9 +1939,9 @@
 		},
 		{
 			"name": "bow_pulling_2_143",
-			"from": [3.5, 7.5, 6.875],
-			"to": [4, 8, 9.125],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [3.29527, 7.56276, 6.875],
+			"to": [3.79527, 8.06276, 9.125],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [3.5, 8.5, 4, 8], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [3.5, 8, 4, 8.5], "texture": "#1"},
@@ -1953,9 +1953,9 @@
 		},
 		{
 			"name": "bow_pulling_2_144",
-			"from": [4, 7.5, 6.875],
-			"to": [4.5, 8, 9.125],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [3.79527, 7.56276, 6.875],
+			"to": [4.29527, 8.06276, 9.125],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [4, 8.5, 4.5, 8], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [4, 8, 4.5, 8.5], "texture": "#1"},
@@ -1967,9 +1967,9 @@
 		},
 		{
 			"name": "bow_pulling_2_145",
-			"from": [4.5, 7.5, 7.25],
-			"to": [5, 8, 8.75],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [4.29527, 7.56276, 7.25],
+			"to": [4.79527, 8.06276, 8.75],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [4.5, 8.5, 5, 8], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [4.5, 8, 5, 8.5], "texture": "#1"},
@@ -1981,9 +1981,9 @@
 		},
 		{
 			"name": "bow_pulling_2_146",
-			"from": [8, 7.5, 7.75],
-			"to": [8.5, 8, 8.25],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [7.79527, 7.56276, 7.75],
+			"to": [8.29527, 8.06276, 8.25],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [8, 8.5, 8.5, 8], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [8, 8, 8.5, 8.5], "texture": "#1"},
@@ -1995,9 +1995,9 @@
 		},
 		{
 			"name": "bow_pulling_2_147",
-			"from": [8.5, 7.5, 7.25],
-			"to": [9, 8, 8.75],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [8.29527, 7.56276, 7.25],
+			"to": [8.79527, 8.06276, 8.75],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [8.5, 8.5, 9, 8], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [8.5, 8, 9, 8.5], "texture": "#1"},
@@ -2009,9 +2009,9 @@
 		},
 		{
 			"name": "bow_pulling_2_148",
-			"from": [9, 7.5, 7.75],
-			"to": [9.5, 8, 8.25],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [8.79527, 7.56276, 7.75],
+			"to": [9.29527, 8.06276, 8.25],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [9, 8.5, 9.5, 8], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [9, 8, 9.5, 8.5], "texture": "#1"},
@@ -2023,9 +2023,9 @@
 		},
 		{
 			"name": "bow_pulling_2_149",
-			"from": [13.5, 7.5, 7.75],
-			"to": [14, 8, 8.25],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [13.29527, 7.56276, 7.75],
+			"to": [13.79527, 8.06276, 8.25],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [13.5, 8.5, 14, 8], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [13.5, 8, 14, 8.5], "texture": "#1"},
@@ -2037,9 +2037,9 @@
 		},
 		{
 			"name": "bow_pulling_2_150",
-			"from": [2.5, 7, 7.25],
-			"to": [3, 7.5, 8.75],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [2.29527, 7.06276, 7.25],
+			"to": [2.79527, 7.56276, 8.75],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [2.5, 9, 3, 8.5], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [2.5, 8.5, 3, 9], "texture": "#1"},
@@ -2051,9 +2051,9 @@
 		},
 		{
 			"name": "bow_pulling_2_151",
-			"from": [3, 7, 6.875],
-			"to": [3.5, 7.5, 9.125],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [2.79527, 7.06276, 6.875],
+			"to": [3.29527, 7.56276, 9.125],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [3, 9, 3.5, 8.5], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [3, 8.5, 3.5, 9], "texture": "#1"},
@@ -2065,9 +2065,9 @@
 		},
 		{
 			"name": "bow_pulling_2_152",
-			"from": [3.5, 7, 6.875],
-			"to": [4, 7.5, 9.125],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [3.29527, 7.06276, 6.875],
+			"to": [3.79527, 7.56276, 9.125],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [3.5, 9, 4, 8.5], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [3.5, 8.5, 4, 9], "texture": "#1"},
@@ -2079,9 +2079,9 @@
 		},
 		{
 			"name": "bow_pulling_2_153",
-			"from": [4, 7, 7.25],
-			"to": [4.5, 7.5, 8.75],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [3.79527, 7.06276, 7.25],
+			"to": [4.29527, 7.56276, 8.75],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [4, 9, 4.5, 8.5], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [4, 8.5, 4.5, 9], "texture": "#1"},
@@ -2093,9 +2093,9 @@
 		},
 		{
 			"name": "bow_pulling_2_154",
-			"from": [8.5, 7, 7.75],
-			"to": [9, 7.5, 8.25],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [8.29527, 7.06276, 7.75],
+			"to": [8.79527, 7.56276, 8.25],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [8.5, 9, 9, 8.5], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [8.5, 8.5, 9, 9], "texture": "#1"},
@@ -2107,9 +2107,9 @@
 		},
 		{
 			"name": "bow_pulling_2_155",
-			"from": [9, 7, 7.25],
-			"to": [9.5, 7.5, 8.75],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [8.79527, 7.06276, 7.25],
+			"to": [9.29527, 7.56276, 8.75],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [9, 9, 9.5, 8.5], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [9, 8.5, 9.5, 9], "texture": "#1"},
@@ -2121,9 +2121,9 @@
 		},
 		{
 			"name": "bow_pulling_2_156",
-			"from": [9.5, 7, 7.75],
-			"to": [10, 7.5, 8.25],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [9.29527, 7.06276, 7.75],
+			"to": [9.79527, 7.56276, 8.25],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [9.5, 9, 10, 8.5], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [9.5, 8.5, 10, 9], "texture": "#1"},
@@ -2135,9 +2135,9 @@
 		},
 		{
 			"name": "bow_pulling_2_157",
-			"from": [13.5, 7, 7.75],
-			"to": [14, 7.5, 8.25],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [13.29527, 7.06276, 7.75],
+			"to": [13.79527, 7.56276, 8.25],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [13.5, 9, 14, 8.5], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [13.5, 8.5, 14, 9], "texture": "#1"},
@@ -2149,9 +2149,9 @@
 		},
 		{
 			"name": "bow_pulling_2_158",
-			"from": [2.5, 6.5, 7.25],
-			"to": [3, 7, 8.75],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [2.29527, 6.56276, 7.25],
+			"to": [2.79527, 7.06276, 8.75],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [2.5, 9.5, 3, 9], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [2.5, 9, 3, 9.5], "texture": "#1"},
@@ -2163,9 +2163,9 @@
 		},
 		{
 			"name": "bow_pulling_2_159",
-			"from": [3, 6.5, 6.875],
-			"to": [3.5, 7, 9.125],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [2.79527, 6.56276, 6.875],
+			"to": [3.29527, 7.06276, 9.125],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [3, 9.5, 3.5, 9], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [3, 9, 3.5, 9.5], "texture": "#1"},
@@ -2177,9 +2177,9 @@
 		},
 		{
 			"name": "bow_pulling_2_160",
-			"from": [3.5, 6.5, 6.875],
-			"to": [4, 7, 9.125],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [3.29527, 6.56276, 6.875],
+			"to": [3.79527, 7.06276, 9.125],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [3.5, 9.5, 4, 9], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [3.5, 9, 4, 9.5], "texture": "#1"},
@@ -2191,9 +2191,9 @@
 		},
 		{
 			"name": "bow_pulling_2_161",
-			"from": [4, 6.5, 7.25],
-			"to": [4.5, 7, 8.75],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [3.79527, 6.56276, 7.25],
+			"to": [4.29527, 7.06276, 8.75],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [4, 9.5, 4.5, 9], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [4, 9, 4.5, 9.5], "texture": "#1"},
@@ -2205,9 +2205,9 @@
 		},
 		{
 			"name": "bow_pulling_2_162",
-			"from": [9, 6.5, 7.75],
-			"to": [9.5, 7, 8.25],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [8.79527, 6.56276, 7.75],
+			"to": [9.29527, 7.06276, 8.25],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [9, 9.5, 9.5, 9], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [9, 9, 9.5, 9.5], "texture": "#1"},
@@ -2219,9 +2219,9 @@
 		},
 		{
 			"name": "bow_pulling_2_163",
-			"from": [9.5, 6.5, 7.25],
-			"to": [10, 7, 8.75],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [9.29527, 6.56276, 7.25],
+			"to": [9.79527, 7.06276, 8.75],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [9.5, 9.5, 10, 9], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [9.5, 9, 10, 9.5], "texture": "#1"},
@@ -2233,9 +2233,9 @@
 		},
 		{
 			"name": "bow_pulling_2_164",
-			"from": [10, 6.5, 7.75],
-			"to": [10.5, 7, 8.25],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [9.79527, 6.56276, 7.75],
+			"to": [10.29527, 7.06276, 8.25],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [10, 9.5, 10.5, 9], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [10, 9, 10.5, 9.5], "texture": "#1"},
@@ -2247,9 +2247,9 @@
 		},
 		{
 			"name": "bow_pulling_2_165",
-			"from": [13.5, 6.5, 7.75],
-			"to": [14, 7, 8.25],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [13.29527, 6.56276, 7.75],
+			"to": [13.79527, 7.06276, 8.25],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [13.5, 9.5, 14, 9], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [13.5, 9, 14, 9.5], "texture": "#1"},
@@ -2261,9 +2261,9 @@
 		},
 		{
 			"name": "bow_pulling_2_166",
-			"from": [2.5, 6, 7.25],
-			"to": [3, 6.5, 8.75],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [2.29527, 6.06276, 7.25],
+			"to": [2.79527, 6.56276, 8.75],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [2.5, 10, 3, 9.5], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [2.5, 9.5, 3, 10], "texture": "#1"},
@@ -2275,9 +2275,9 @@
 		},
 		{
 			"name": "bow_pulling_2_167",
-			"from": [3, 6, 6.875],
-			"to": [3.5, 6.5, 9.125],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [2.79527, 6.06276, 6.875],
+			"to": [3.29527, 6.56276, 9.125],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [3, 10, 3.5, 9.5], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [3, 9.5, 3.5, 10], "texture": "#1"},
@@ -2289,9 +2289,9 @@
 		},
 		{
 			"name": "bow_pulling_2_168",
-			"from": [3.5, 6, 6.875],
-			"to": [4, 6.5, 9.125],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [3.29527, 6.06276, 6.875],
+			"to": [3.79527, 6.56276, 9.125],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [3.5, 10, 4, 9.5], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [3.5, 9.5, 4, 10], "texture": "#1"},
@@ -2303,9 +2303,9 @@
 		},
 		{
 			"name": "bow_pulling_2_169",
-			"from": [4, 6, 7.25],
-			"to": [4.5, 6.5, 8.75],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [3.79527, 6.06276, 7.25],
+			"to": [4.29527, 6.56276, 8.75],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [4, 10, 4.5, 9.5], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [4, 9.5, 4.5, 10], "texture": "#1"},
@@ -2317,9 +2317,9 @@
 		},
 		{
 			"name": "bow_pulling_2_170",
-			"from": [9.5, 6, 7.75],
-			"to": [10, 6.5, 8.25],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [9.29527, 6.06276, 7.75],
+			"to": [9.79527, 6.56276, 8.25],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [9.5, 10, 10, 9.5], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [9.5, 9.5, 10, 10], "texture": "#1"},
@@ -2331,9 +2331,9 @@
 		},
 		{
 			"name": "bow_pulling_2_171",
-			"from": [10, 6, 7.25],
-			"to": [10.5, 6.5, 8.75],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [9.79527, 6.06276, 7.25],
+			"to": [10.29527, 6.56276, 8.75],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [10, 10, 10.5, 9.5], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [10, 9.5, 10.5, 10], "texture": "#1"},
@@ -2345,9 +2345,9 @@
 		},
 		{
 			"name": "bow_pulling_2_172",
-			"from": [10.5, 6, 7.75],
-			"to": [11, 6.5, 8.25],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [10.29527, 6.06276, 7.75],
+			"to": [10.79527, 6.56276, 8.25],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [10.5, 10, 11, 9.5], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [10.5, 9.5, 11, 10], "texture": "#1"},
@@ -2359,9 +2359,9 @@
 		},
 		{
 			"name": "bow_pulling_2_173",
-			"from": [13.5, 6, 7.75],
-			"to": [14, 6.5, 8.25],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [13.29527, 6.06276, 7.75],
+			"to": [13.79527, 6.56276, 8.25],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [13.5, 10, 14, 9.5], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [13.5, 9.5, 14, 10], "texture": "#1"},
@@ -2373,9 +2373,9 @@
 		},
 		{
 			"name": "bow_pulling_2_174",
-			"from": [2.5, 5.5, 7.25],
-			"to": [3, 6, 8.75],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [2.29527, 5.56276, 7.25],
+			"to": [2.79527, 6.06276, 8.75],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [2.5, 10.5, 3, 10], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [2.5, 10, 3, 10.5], "texture": "#1"},
@@ -2387,9 +2387,9 @@
 		},
 		{
 			"name": "bow_pulling_2_175",
-			"from": [3, 5.5, 6.875],
-			"to": [3.5, 6, 9.125],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [2.79527, 5.56276, 6.875],
+			"to": [3.29527, 6.06276, 9.125],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [3, 10.5, 3.5, 10], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [3, 10, 3.5, 10.5], "texture": "#1"},
@@ -2401,9 +2401,9 @@
 		},
 		{
 			"name": "bow_pulling_2_176",
-			"from": [3.5, 5.5, 6.875],
-			"to": [4, 6, 9.125],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [3.29527, 5.56276, 6.875],
+			"to": [3.79527, 6.06276, 9.125],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [3.5, 10.5, 4, 10], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [3.5, 10, 4, 10.5], "texture": "#1"},
@@ -2415,9 +2415,9 @@
 		},
 		{
 			"name": "bow_pulling_2_177",
-			"from": [4, 5.5, 7.25],
-			"to": [4.5, 6, 8.75],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [3.79527, 5.56276, 7.25],
+			"to": [4.29527, 6.06276, 8.75],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [4, 10.5, 4.5, 10], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [4, 10, 4.5, 10.5], "texture": "#1"},
@@ -2429,9 +2429,9 @@
 		},
 		{
 			"name": "bow_pulling_2_178",
-			"from": [10, 5.5, 7.75],
-			"to": [10.5, 6, 8.25],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [9.79527, 5.56276, 7.75],
+			"to": [10.29527, 6.06276, 8.25],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [10, 10.5, 10.5, 10], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [10, 10, 10.5, 10.5], "texture": "#1"},
@@ -2443,9 +2443,9 @@
 		},
 		{
 			"name": "bow_pulling_2_179",
-			"from": [10.5, 5.5, 7.25],
-			"to": [11, 6, 8.75],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [10.29527, 5.56276, 7.25],
+			"to": [10.79527, 6.06276, 8.75],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [10.5, 10.5, 11, 10], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [10.5, 10, 11, 10.5], "texture": "#1"},
@@ -2457,9 +2457,9 @@
 		},
 		{
 			"name": "bow_pulling_2_180",
-			"from": [11, 5.5, 7.75],
-			"to": [11.5, 6, 8.25],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [10.79527, 5.56276, 7.75],
+			"to": [11.29527, 6.06276, 8.25],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [11, 10.5, 11.5, 10], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [11, 10, 11.5, 10.5], "texture": "#1"},
@@ -2471,9 +2471,9 @@
 		},
 		{
 			"name": "bow_pulling_2_181",
-			"from": [13.5, 5.5, 7.75],
-			"to": [14, 6, 8.25],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [13.29527, 5.56276, 7.75],
+			"to": [13.79527, 6.06276, 8.25],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [13.5, 10.5, 14, 10], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [13.5, 10, 14, 10.5], "texture": "#1"},
@@ -2485,9 +2485,9 @@
 		},
 		{
 			"name": "bow_pulling_2_182",
-			"from": [2.5, 5, 7.25],
-			"to": [3, 5.5, 8.75],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [2.29527, 5.06276, 7.25],
+			"to": [2.79527, 5.56276, 8.75],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [2.5, 11, 3, 10.5], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [2.5, 10.5, 3, 11], "texture": "#1"},
@@ -2499,9 +2499,9 @@
 		},
 		{
 			"name": "bow_pulling_2_183",
-			"from": [3, 5, 6.875],
-			"to": [3.5, 5.5, 9.125],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [2.79527, 5.06276, 6.875],
+			"to": [3.29527, 5.56276, 9.125],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [3, 11, 3.5, 10.5], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [3, 10.5, 3.5, 11], "texture": "#1"},
@@ -2513,9 +2513,9 @@
 		},
 		{
 			"name": "bow_pulling_2_184",
-			"from": [3.5, 5, 6.875],
-			"to": [4, 5.5, 9.125],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [3.29527, 5.06276, 6.875],
+			"to": [3.79527, 5.56276, 9.125],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [3.5, 11, 4, 10.5], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [3.5, 10.5, 4, 11], "texture": "#1"},
@@ -2527,9 +2527,9 @@
 		},
 		{
 			"name": "bow_pulling_2_185",
-			"from": [4, 5, 7.25],
-			"to": [4.5, 5.5, 8.75],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [3.79527, 5.06276, 7.25],
+			"to": [4.29527, 5.56276, 8.75],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [4, 11, 4.5, 10.5], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [4, 10.5, 4.5, 11], "texture": "#1"},
@@ -2541,9 +2541,9 @@
 		},
 		{
 			"name": "bow_pulling_2_186",
-			"from": [10.5, 5, 7.75],
-			"to": [11, 5.5, 8.25],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [10.29527, 5.06276, 7.75],
+			"to": [10.79527, 5.56276, 8.25],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [10.5, 11, 11, 10.5], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [10.5, 10.5, 11, 11], "texture": "#1"},
@@ -2555,9 +2555,9 @@
 		},
 		{
 			"name": "bow_pulling_2_187",
-			"from": [11, 5, 7.25],
-			"to": [11.5, 5.5, 8.75],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [10.79527, 5.06276, 7.25],
+			"to": [11.29527, 5.56276, 8.75],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [11, 11, 11.5, 10.5], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [11, 10.5, 11.5, 11], "texture": "#1"},
@@ -2569,9 +2569,9 @@
 		},
 		{
 			"name": "bow_pulling_2_188",
-			"from": [11.5, 5, 7.75],
-			"to": [12, 5.5, 8.25],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [11.29527, 5.06276, 7.75],
+			"to": [11.79527, 5.56276, 8.25],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [11.5, 11, 12, 10.5], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [11.5, 10.5, 12, 11], "texture": "#1"},
@@ -2583,9 +2583,9 @@
 		},
 		{
 			"name": "bow_pulling_2_189",
-			"from": [13, 5, 7.75],
-			"to": [13.5, 5.5, 8.25],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [12.79527, 5.06276, 7.75],
+			"to": [13.29527, 5.56276, 8.25],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [13, 11, 13.5, 10.5], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [13, 10.5, 13.5, 11], "texture": "#1"},
@@ -2597,9 +2597,9 @@
 		},
 		{
 			"name": "bow_pulling_2_190",
-			"from": [2.5, 4.5, 7.25],
-			"to": [3, 5, 8.75],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [2.29527, 4.56276, 7.25],
+			"to": [2.79527, 5.06276, 8.75],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [2.5, 11.5, 3, 11], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [2.5, 11, 3, 11.5], "texture": "#1"},
@@ -2611,9 +2611,9 @@
 		},
 		{
 			"name": "bow_pulling_2_191",
-			"from": [3, 4.5, 6.875],
-			"to": [3.5, 5, 9.125],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [2.79527, 4.56276, 6.875],
+			"to": [3.29527, 5.06276, 9.125],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [3, 11.5, 3.5, 11], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [3, 11, 3.5, 11.5], "texture": "#1"},
@@ -2625,9 +2625,9 @@
 		},
 		{
 			"name": "bow_pulling_2_192",
-			"from": [3.5, 4.5, 6.875],
-			"to": [4, 5, 9.125],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [3.29527, 4.56276, 6.875],
+			"to": [3.79527, 5.06276, 9.125],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [3.5, 11.5, 4, 11], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [3.5, 11, 4, 11.5], "texture": "#1"},
@@ -2639,9 +2639,9 @@
 		},
 		{
 			"name": "bow_pulling_2_193",
-			"from": [4, 4.5, 7.25],
-			"to": [4.5, 5, 8.75],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [3.79527, 4.56276, 7.25],
+			"to": [4.29527, 5.06276, 8.75],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [4, 11.5, 4.5, 11], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [4, 11, 4.5, 11.5], "texture": "#1"},
@@ -2653,9 +2653,9 @@
 		},
 		{
 			"name": "bow_pulling_2_194",
-			"from": [11, 4.5, 7.75],
-			"to": [11.5, 5, 8.25],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [10.79527, 4.56276, 7.75],
+			"to": [11.29527, 5.06276, 8.25],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [11, 11.5, 11.5, 11], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [11, 11, 11.5, 11.5], "texture": "#1"},
@@ -2667,9 +2667,9 @@
 		},
 		{
 			"name": "bow_pulling_2_195",
-			"from": [11.5, 4.5, 7.25],
-			"to": [12, 5, 8.75],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [11.29527, 4.56276, 7.25],
+			"to": [11.79527, 5.06276, 8.75],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [11.5, 11.5, 12, 11], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [11.5, 11, 12, 11.5], "texture": "#1"},
@@ -2681,9 +2681,9 @@
 		},
 		{
 			"name": "bow_pulling_2_196",
-			"from": [12, 4.5, 7.75],
-			"to": [12.5, 5, 8.25],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [11.79527, 4.56276, 7.75],
+			"to": [12.29527, 5.06276, 8.25],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [12, 11.5, 12.5, 11], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [12, 11, 12.5, 11.5], "texture": "#1"},
@@ -2695,9 +2695,9 @@
 		},
 		{
 			"name": "bow_pulling_2_197",
-			"from": [13, 4.5, 7.75],
-			"to": [13.5, 5, 8.25],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [12.79527, 4.56276, 7.75],
+			"to": [13.29527, 5.06276, 8.25],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [13, 11.5, 13.5, 11], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [13, 11, 13.5, 11.5], "texture": "#1"},
@@ -2709,9 +2709,9 @@
 		},
 		{
 			"name": "bow_pulling_2_198",
-			"from": [2.5, 4, 7.25],
-			"to": [3, 4.5, 8.75],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [2.29527, 4.06276, 7.25],
+			"to": [2.79527, 4.56276, 8.75],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [2.5, 12, 3, 11.5], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [2.5, 11.5, 3, 12], "texture": "#1"},
@@ -2723,9 +2723,9 @@
 		},
 		{
 			"name": "bow_pulling_2_199",
-			"from": [3, 4, 6.875],
-			"to": [3.5, 4.5, 9.125],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [2.79527, 4.06276, 6.875],
+			"to": [3.29527, 4.56276, 9.125],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [3, 12, 3.5, 11.5], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [3, 11.5, 3.5, 12], "texture": "#1"},
@@ -2737,9 +2737,9 @@
 		},
 		{
 			"name": "bow_pulling_2_200",
-			"from": [3.5, 4, 6.875],
-			"to": [4, 4.5, 9.125],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [3.29527, 4.06276, 6.875],
+			"to": [3.79527, 4.56276, 9.125],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [3.5, 12, 4, 11.5], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [3.5, 11.5, 4, 12], "texture": "#1"},
@@ -2751,9 +2751,9 @@
 		},
 		{
 			"name": "bow_pulling_2_201",
-			"from": [4, 4, 7.25],
-			"to": [4.5, 4.5, 8.75],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [3.79527, 4.06276, 7.25],
+			"to": [4.29527, 4.56276, 8.75],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [4, 12, 4.5, 11.5], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [4, 11.5, 4.5, 12], "texture": "#1"},
@@ -2765,9 +2765,9 @@
 		},
 		{
 			"name": "bow_pulling_2_202",
-			"from": [11.5, 4, 7.75],
-			"to": [12, 4.5, 8.25],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [11.29527, 4.06276, 7.75],
+			"to": [11.79527, 4.56276, 8.25],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [11.5, 12, 12, 11.5], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [11.5, 11.5, 12, 12], "texture": "#1"},
@@ -2779,9 +2779,9 @@
 		},
 		{
 			"name": "bow_pulling_2_203",
-			"from": [12, 4, 7.25],
-			"to": [12.5, 4.5, 8.75],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [11.79527, 4.06276, 7.25],
+			"to": [12.29527, 4.56276, 8.75],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [12, 12, 12.5, 11.5], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [12, 11.5, 12.5, 12], "texture": "#1"},
@@ -2793,9 +2793,9 @@
 		},
 		{
 			"name": "bow_pulling_2_204",
-			"from": [12.5, 4, 7.75],
-			"to": [13, 4.5, 8.25],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [12.29527, 4.06276, 7.75],
+			"to": [12.79527, 4.56276, 8.25],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [12.5, 12, 13, 11.5], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [12.5, 11.5, 13, 12], "texture": "#1"},
@@ -2807,9 +2807,9 @@
 		},
 		{
 			"name": "bow_pulling_2_205",
-			"from": [13, 4, 7.75],
-			"to": [13.5, 4.5, 8.25],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [12.79527, 4.06276, 7.75],
+			"to": [13.29527, 4.56276, 8.25],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [13, 12, 13.5, 11.5], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [13, 11.5, 13.5, 12], "texture": "#1"},
@@ -2821,9 +2821,9 @@
 		},
 		{
 			"name": "bow_pulling_2_206",
-			"from": [2.5, 3.5, 7.25],
-			"to": [3, 4, 8.75],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [2.29527, 3.56276, 7.25],
+			"to": [2.79527, 4.06276, 8.75],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [2.5, 12.5, 3, 12], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [2.5, 12, 3, 12.5], "texture": "#1"},
@@ -2835,9 +2835,9 @@
 		},
 		{
 			"name": "bow_pulling_2_207",
-			"from": [3, 3.5, 6.875],
-			"to": [3.5, 4, 9.125],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [2.79527, 3.56276, 6.875],
+			"to": [3.29527, 4.06276, 9.125],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [3, 12.5, 3.5, 12], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [3, 12, 3.5, 12.5], "texture": "#1"},
@@ -2849,9 +2849,9 @@
 		},
 		{
 			"name": "bow_pulling_2_208",
-			"from": [3.5, 3.5, 7.25],
-			"to": [4, 4, 8.75],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [3.29527, 3.56276, 7.25],
+			"to": [3.79527, 4.06276, 8.75],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [3.5, 12.5, 4, 12], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [3.5, 12, 4, 12.5], "texture": "#1"},
@@ -2863,9 +2863,9 @@
 		},
 		{
 			"name": "bow_pulling_2_209",
-			"from": [12, 3.5, 7.75],
-			"to": [12.5, 4, 8.25],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [11.79527, 3.56276, 7.75],
+			"to": [12.29527, 4.06276, 8.25],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [12, 12.5, 12.5, 12], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [12, 12, 12.5, 12.5], "texture": "#1"},
@@ -2877,9 +2877,9 @@
 		},
 		{
 			"name": "bow_pulling_2_210",
-			"from": [12.5, 3.5, 7.25],
-			"to": [13, 4, 8.75],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [12.29527, 3.56276, 7.25],
+			"to": [12.79527, 4.06276, 8.75],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [12.5, 12.5, 13, 12], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [12.5, 12, 13, 12.5], "texture": "#1"},
@@ -2891,9 +2891,9 @@
 		},
 		{
 			"name": "bow_pulling_2_211",
-			"from": [13, 3.5, 7.75],
-			"to": [13.5, 4, 8.25],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [12.79527, 3.56276, 7.75],
+			"to": [13.29527, 4.06276, 8.25],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [13, 12.5, 13.5, 12], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [13, 12, 13.5, 12.5], "texture": "#1"},
@@ -2905,9 +2905,9 @@
 		},
 		{
 			"name": "bow_pulling_2_212",
-			"from": [2.5, 3, 7.25],
-			"to": [3, 3.5, 8.75],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [2.29527, 3.06276, 7.25],
+			"to": [2.79527, 3.56276, 8.75],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [2.5, 13, 3, 12.5], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [2.5, 12.5, 3, 13], "texture": "#1"},
@@ -2919,9 +2919,9 @@
 		},
 		{
 			"name": "bow_pulling_2_213",
-			"from": [3, 3, 6.875],
-			"to": [3.5, 3.5, 9.125],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [2.79527, 3.06276, 6.875],
+			"to": [3.29527, 3.56276, 9.125],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [3, 13, 3.5, 12.5], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [3, 12.5, 3.5, 13], "texture": "#1"},
@@ -2933,9 +2933,9 @@
 		},
 		{
 			"name": "bow_pulling_2_214",
-			"from": [3.5, 3, 7.25],
-			"to": [4, 3.5, 8.75],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [3.29527, 3.06276, 7.25],
+			"to": [3.79527, 3.56276, 8.75],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [3.5, 13, 4, 12.5], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [3.5, 12.5, 4, 13], "texture": "#1"},
@@ -2947,9 +2947,9 @@
 		},
 		{
 			"name": "bow_pulling_2_215",
-			"from": [11, 3, 7.75],
-			"to": [11.5, 3.5, 8.25],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [10.79527, 3.06276, 7.75],
+			"to": [11.29527, 3.56276, 8.25],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [11, 13, 11.5, 12.5], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [11, 12.5, 11.5, 13], "texture": "#1"},
@@ -2961,9 +2961,9 @@
 		},
 		{
 			"name": "bow_pulling_2_216",
-			"from": [11.5, 3, 7.75],
-			"to": [12, 3.5, 8.25],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [11.29527, 3.06276, 7.75],
+			"to": [11.79527, 3.56276, 8.25],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [11.5, 13, 12, 12.5], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [11.5, 12.5, 12, 13], "texture": "#1"},
@@ -2975,9 +2975,9 @@
 		},
 		{
 			"name": "bow_pulling_2_217",
-			"from": [12, 3, 7.75],
-			"to": [12.5, 3.5, 8.25],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [11.79527, 3.06276, 7.75],
+			"to": [12.29527, 3.56276, 8.25],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [12, 13, 12.5, 12.5], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [12, 12.5, 12.5, 13], "texture": "#1"},
@@ -2989,9 +2989,9 @@
 		},
 		{
 			"name": "bow_pulling_2_218",
-			"from": [12.5, 3, 7.75],
-			"to": [13, 3.5, 8.25],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [12.29527, 3.06276, 7.75],
+			"to": [12.79527, 3.56276, 8.25],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [12.5, 13, 13, 12.5], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [12.5, 12.5, 13, 13], "texture": "#1"},
@@ -3003,9 +3003,9 @@
 		},
 		{
 			"name": "bow_pulling_2_219",
-			"from": [2.5, 2.5, 7.25],
-			"to": [3, 3, 8.75],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [2.29527, 2.56276, 7.25],
+			"to": [2.79527, 3.06276, 8.75],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [2.5, 13.5, 3, 13], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [2.5, 13, 3, 13.5], "texture": "#1"},
@@ -3017,9 +3017,9 @@
 		},
 		{
 			"name": "bow_pulling_2_220",
-			"from": [3, 2.5, 6.875],
-			"to": [3.5, 3, 9.125],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [2.79527, 2.56276, 6.875],
+			"to": [3.29527, 3.06276, 9.125],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [3, 13.5, 3.5, 13], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [3, 13, 3.5, 13.5], "texture": "#1"},
@@ -3031,9 +3031,9 @@
 		},
 		{
 			"name": "bow_pulling_2_221",
-			"from": [3.5, 2.5, 7.25],
-			"to": [4, 3, 8.75],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [3.29527, 2.56276, 7.25],
+			"to": [3.79527, 3.06276, 8.75],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [3.5, 13.5, 4, 13], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [3.5, 13, 4, 13.5], "texture": "#1"},
@@ -3045,9 +3045,9 @@
 		},
 		{
 			"name": "bow_pulling_2_222",
-			"from": [8.5, 2.5, 7.75],
-			"to": [9, 3, 8.25],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [8.29527, 2.56276, 7.75],
+			"to": [8.79527, 3.06276, 8.25],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [8.5, 13.5, 9, 13], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [8.5, 13, 9, 13.5], "texture": "#1"},
@@ -3059,9 +3059,9 @@
 		},
 		{
 			"name": "bow_pulling_2_223",
-			"from": [9, 2.5, 7.75],
-			"to": [9.5, 3, 8.25],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [8.79527, 2.56276, 7.75],
+			"to": [9.29527, 3.06276, 8.25],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [9, 13.5, 9.5, 13], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [9, 13, 9.5, 13.5], "texture": "#1"},
@@ -3073,9 +3073,9 @@
 		},
 		{
 			"name": "bow_pulling_2_224",
-			"from": [9.5, 2.5, 7.75],
-			"to": [10, 3, 8.25],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [9.29527, 2.56276, 7.75],
+			"to": [9.79527, 3.06276, 8.25],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [9.5, 13.5, 10, 13], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [9.5, 13, 10, 13.5], "texture": "#1"},
@@ -3087,9 +3087,9 @@
 		},
 		{
 			"name": "bow_pulling_2_225",
-			"from": [10, 2.5, 7.75],
-			"to": [10.5, 3, 8.25],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [9.79527, 2.56276, 7.75],
+			"to": [10.29527, 3.06276, 8.25],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [10, 13.5, 10.5, 13], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [10, 13, 10.5, 13.5], "texture": "#1"},
@@ -3101,9 +3101,9 @@
 		},
 		{
 			"name": "bow_pulling_2_226",
-			"from": [10.5, 2.5, 7.75],
-			"to": [11, 3, 8.25],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [10.29527, 2.56276, 7.75],
+			"to": [10.79527, 3.06276, 8.25],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [10.5, 13.5, 11, 13], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [10.5, 13, 11, 13.5], "texture": "#1"},
@@ -3115,9 +3115,9 @@
 		},
 		{
 			"name": "bow_pulling_2_227",
-			"from": [2.5, 2, 7.25],
-			"to": [3, 2.5, 8.75],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [2.29527, 2.06276, 7.25],
+			"to": [2.79527, 2.56276, 8.75],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [2.5, 14, 3, 13.5], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [2.5, 13.5, 3, 14], "texture": "#1"},
@@ -3129,9 +3129,9 @@
 		},
 		{
 			"name": "bow_pulling_2_228",
-			"from": [3.00087, 1.5, 6.87413],
-			"to": [3.50087, 2, 9.12413],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8.00087, 7.5, 5.99913]},
+			"from": [2.79614, 1.56276, 6.87413],
+			"to": [3.29614, 2.06276, 9.12413],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [3, 14, 3.5, 13.5], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [3, 13.5, 3.5, 14], "texture": "#1"},
@@ -3143,9 +3143,9 @@
 		},
 		{
 			"name": "bow_pulling_2_229",
-			"from": [3.5, 2, 7.25],
-			"to": [4, 2.5, 8.75],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [3.29527, 2.06276, 7.25],
+			"to": [3.79527, 2.56276, 8.75],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [3.5, 14, 4, 13.5], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [3.5, 13.5, 4, 14], "texture": "#1"},
@@ -3157,9 +3157,9 @@
 		},
 		{
 			"name": "bow_pulling_2_230",
-			"from": [6.5, 2, 7.75],
-			"to": [7, 2.5, 8.25],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [6.29527, 2.06276, 7.75],
+			"to": [6.79527, 2.56276, 8.25],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [6.5, 14, 7, 13.5], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [6.5, 13.5, 7, 14], "texture": "#1"},
@@ -3171,9 +3171,9 @@
 		},
 		{
 			"name": "bow_pulling_2_231",
-			"from": [7, 2, 7.75],
-			"to": [7.5, 2.5, 8.25],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [6.79527, 2.06276, 7.75],
+			"to": [7.29527, 2.56276, 8.25],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [7, 14, 7.5, 13.5], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [7, 13.5, 7.5, 14], "texture": "#1"},
@@ -3185,9 +3185,9 @@
 		},
 		{
 			"name": "bow_pulling_2_232",
-			"from": [7.5, 2, 7.75],
-			"to": [8, 2.5, 8.25],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [7.29527, 2.06276, 7.75],
+			"to": [7.79527, 2.56276, 8.25],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [7.5, 14, 8, 13.5], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [7.5, 13.5, 8, 14], "texture": "#1"},
@@ -3199,9 +3199,9 @@
 		},
 		{
 			"name": "bow_pulling_2_233",
-			"from": [8, 2, 7.75],
-			"to": [8.5, 2.5, 8.25],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [7.79527, 2.06276, 7.75],
+			"to": [8.29527, 2.56276, 8.25],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [8, 14, 8.5, 13.5], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [8, 13.5, 8.5, 14], "texture": "#1"},
@@ -3213,9 +3213,9 @@
 		},
 		{
 			"name": "bow_pulling_2_234",
-			"from": [2.5, 1.5, 7.25],
-			"to": [3, 2, 8.75],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [2.29527, 1.56276, 7.25],
+			"to": [2.79527, 2.06276, 8.75],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [2.5, 14.5, 3, 14], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [2.5, 14, 3, 14.5], "texture": "#1"},
@@ -3227,9 +3227,9 @@
 		},
 		{
 			"name": "bow_pulling_2_235",
-			"from": [2.99913, 2, 6.87587],
-			"to": [3.49913, 2.5, 9.12587],
-			"rotation": {"angle": 0, "axis": "x", "origin": [7.99913, 8.5, 6.00087]},
+			"from": [2.7944, 2.06276, 6.87587],
+			"to": [3.2944, 2.56276, 9.12587],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [3, 14.5, 3.5, 14], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [3, 14, 3.5, 14.5], "texture": "#1"},
@@ -3241,9 +3241,9 @@
 		},
 		{
 			"name": "bow_pulling_2_236",
-			"from": [3.5, 1.5, 7.25],
-			"to": [4, 2, 8.75],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [3.29527, 1.56276, 7.25],
+			"to": [3.79527, 2.06276, 8.75],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [3.5, 14.5, 4, 14], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [3.5, 14, 4, 14.5], "texture": "#1"},
@@ -3255,9 +3255,9 @@
 		},
 		{
 			"name": "bow_pulling_2_237",
-			"from": [4.5, 1.5, 7.75],
-			"to": [5, 2, 8.25],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [4.29527, 1.56276, 7.75],
+			"to": [4.79527, 2.06276, 8.25],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [4.5, 14.5, 5, 14], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [4.5, 14, 5, 14.5], "texture": "#1"},
@@ -3269,9 +3269,9 @@
 		},
 		{
 			"name": "bow_pulling_2_238",
-			"from": [5, 1.5, 7.75],
-			"to": [5.5, 2, 8.25],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [4.79527, 1.56276, 7.75],
+			"to": [5.29527, 2.06276, 8.25],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [5, 14.5, 5.5, 14], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [5, 14, 5.5, 14.5], "texture": "#1"},
@@ -3283,9 +3283,9 @@
 		},
 		{
 			"name": "bow_pulling_2_239",
-			"from": [5.5, 1.5, 7.75],
-			"to": [6, 2, 8.25],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [5.29527, 1.56276, 7.75],
+			"to": [5.79527, 2.06276, 8.25],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [5.5, 14.5, 6, 14], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [5.5, 14, 6, 14.5], "texture": "#1"},
@@ -3297,9 +3297,9 @@
 		},
 		{
 			"name": "bow_pulling_2_240",
-			"from": [6, 1.5, 7.75],
-			"to": [6.5, 2, 8.25],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [5.79527, 1.56276, 7.75],
+			"to": [6.29527, 2.06276, 8.25],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [6, 14.5, 6.5, 14], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [6, 14, 6.5, 14.5], "texture": "#1"},
@@ -3311,9 +3311,9 @@
 		},
 		{
 			"name": "bow_pulling_2_241",
-			"from": [2.5, 1, 7.25],
-			"to": [3, 1.5, 8.75],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [2.29527, 1.06276, 7.25],
+			"to": [2.79527, 1.56276, 8.75],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [2.5, 15, 3, 14.5], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [2.5, 14.5, 3, 15], "texture": "#1"},
@@ -3325,9 +3325,9 @@
 		},
 		{
 			"name": "bow_pulling_2_242",
-			"from": [3, 1, 6.875],
-			"to": [3.5, 1.5, 9.125],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [2.79527, 1.06276, 6.875],
+			"to": [3.29527, 1.56276, 9.125],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [3, 15, 3.5, 14.5], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [3, 14.5, 3.5, 15], "texture": "#1"},
@@ -3339,9 +3339,9 @@
 		},
 		{
 			"name": "bow_pulling_2_243",
-			"from": [3.5, 1, 7.25],
-			"to": [4, 1.5, 8.75],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [3.29527, 1.06276, 7.25],
+			"to": [3.79527, 1.56276, 8.75],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [3.5, 15, 4, 14.5], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [3.5, 14.5, 4, 15], "texture": "#1"},
@@ -3353,9 +3353,9 @@
 		},
 		{
 			"name": "bow_pulling_2_244",
-			"from": [4, 1, 7.75],
-			"to": [4.5, 1.5, 8.25],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [3.79527, 1.06276, 7.75],
+			"to": [4.29527, 1.56276, 8.25],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [4, 15, 4.5, 14.5], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [4, 14.5, 4.5, 15], "texture": "#1"},
@@ -3367,9 +3367,9 @@
 		},
 		{
 			"name": "bow_pulling_2_245",
-			"from": [2.5, 0.5, 7.25],
-			"to": [3, 1, 8.75],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [2.29527, 0.56276, 7.25],
+			"to": [2.79527, 1.06276, 8.75],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [2.5, 15.5, 3, 15], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [2.5, 15, 3, 15.5], "texture": "#1"},
@@ -3381,9 +3381,9 @@
 		},
 		{
 			"name": "bow_pulling_2_246",
-			"from": [3, 0.5, 7.25],
-			"to": [3.5, 1, 8.75],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [2.79527, 0.56276, 7.25],
+			"to": [3.29527, 1.06276, 8.75],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [3, 15.5, 3.5, 15], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [3, 15, 3.5, 15.5], "texture": "#1"},
@@ -3395,9 +3395,9 @@
 		},
 		{
 			"name": "bow_pulling_2_247",
-			"from": [2.5, 0, 7.25],
-			"to": [3, 0.5, 8.75],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 6]},
+			"from": [2.29527, 0.06276, 7.25],
+			"to": [2.79527, 0.56276, 8.75],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 8.5, 8]},
 			"faces": {
 				"north": {"uv": [2.5, 16, 3, 15.5], "rotation": 180, "texture": "#1"},
 				"east": {"uv": [2.5, 15.5, 3, 16], "texture": "#1"},

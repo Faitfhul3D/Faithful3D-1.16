@@ -1,6 +1,6 @@
 {
 	"credit": "Made with Blockbench",
-	"parent": "item/bow_pulling_1",
+	"parent": "item/bow",
 	"textures": {
 		"0": "item/bow_pulling_1"
 	},

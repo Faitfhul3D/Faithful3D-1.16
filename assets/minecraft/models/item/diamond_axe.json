@@ -1,6 +1,5 @@
 {
 	"credit": "Made with Blockbench",
-	"parent": "item/handheld",
 	"textures": {
 		"0": "item/diamond_axe"
 	},
@@ -1189,7 +1188,7 @@
 			}
 		}
 	],
-		"display": {
+	"display": {
 	    "thirdperson_righthand": {
             "rotation": [ 0, -90, 55 ],
             "translation": [ 0, 4.0, 0.5 ],

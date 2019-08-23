@@ -4,7 +4,7 @@ EN :
       ### IMPORTANT INFORMATION ###
 
 ## The Faithful 3D is an addon of the Faithful : https://faithful.team/
-## You may use Faithful 3D publicly, however, please to mention it when you do.
+## You may use Faithful 3D publicly, however, please do mention it when you do.
 ## Our website : https://sites.google.com/view/faithful-3d-addon
 ## Only works on Minecraft Java Edition for 1.15.x
 

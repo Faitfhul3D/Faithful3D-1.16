@@ -1,0 +1,41 @@
+{
+	"texture": "normal.png",
+	"textureSize": [128, 128],
+	"models": [
+		{
+			"part": "base",
+			"id": "base",
+			"invertAxis": "xy",
+			"translate": [-7, -10, 7],
+			"boxes": [
+				{"coordinates": [-7, 0, -7, 14, 10, 2], "textureOffset": [10, 100]},
+				{"coordinates": [5, 0, -5, 2, 10, 10], "textureOffset": [42, 104]},
+				{"coordinates": [-7, 0, -5, 2, 10, 10], "textureOffset": [66, 104]},
+				{"coordinates": [-7, 0, 5, 14, 10, 2], "textureOffset": [10, 112]},
+				{"coordinates": [-5, 0, -5, 10, 2, 10], "textureOffset": [88, 101]}
+			]
+		},
+		{
+			"part": "knob",
+			"id": "knob",
+			"invertAxis": "xy",
+			"translate": [0, -9, -7],
+			"boxes": [
+				{"coordinates": [-1, 7, -8, 2, 4, 1], "textureOffset": [0, 86]}
+			]
+		},
+		{
+			"part": "lid",
+			"id": "lid",
+			"invertAxis": "xy",
+			"translate": [-7, -9, -7],
+			"boxes": [
+				{"coordinates": [-7, 9, -7, 14, 5, 2], "textureOffset": [10, 86]},
+				{"coordinates": [5, 9, -5, 2, 5, 10], "textureOffset": [42, 89]},
+				{"coordinates": [-7, 9, -5, 2, 5, 10], "textureOffset": [66, 89]},
+				{"coordinates": [-7, 9, 5, 14, 5, 2], "textureOffset": [10, 93]},
+				{"coordinates": [-5, 12, -5, 10, 2, 10], "textureOffset": [88, 89]}
+			]
+		}
+	]
+}

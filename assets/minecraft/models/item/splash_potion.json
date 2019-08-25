@@ -8,6 +8,7 @@
 		"3": "item/splash_potion_right",
 		"4": "item/splash_potion_tops",
 		"5": "item/splash_potion_bottoms",
+		"particle": "item/splash_potion_left",
 		"potion_overlay": "item/potion_overlay"
 	},
 	"elements": [

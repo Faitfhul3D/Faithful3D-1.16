@@ -1,6 +1,6 @@
 {
 	"credit": "Made with Blockbench by Juknum",
-	"ambientocclusion": false,
+	"ambientocclusion": true,
 	"textures": {
 		"side": "block/piston_side",
 		"bottom": "block/piston_bottom",

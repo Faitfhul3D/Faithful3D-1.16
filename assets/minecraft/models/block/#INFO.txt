@@ -62,6 +62,8 @@ Finsihed	oak_door_bottom_hinge					Progical
 Finsihed	oak_door_top						Progical
 Finsihed	oak_door_top_hinge					Progical
 	  -=P=-
+Finished	piston							Juknum				26 August 2019
+Finished	piston_extended						Juknum				26 August 2019
 Finished	powered_rail			v2			Juknum & rewrote by Progical
 Finished	powered_rail_on			v2			Juknum & rewrote by Progical
 Finished	powered_rail_raised		v2			Juknum & rewrote by Progical
@@ -76,8 +78,10 @@ Finished	red_mushroom						Juknum				20 August 2019
 Finished	redstone_torch						Juknum				22 August 2019
 Finished	redstone_wall_torch					Juknum				22 August 2019
 	  -=S=-
+Finished	sticky_piston						Juknum				26 August 2019
 Finished	stonecutter						Juknum
 	  -=T=-
+Finished	template_piston_head					Juknum				26 August 2019
 	  -=U=-
 	  -=V=-
 	  -=W=-

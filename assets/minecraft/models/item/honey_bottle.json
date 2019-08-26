@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"parent": "block/block",
 	"textures": {
-		"2": "item/potion_top",
+		"2": "item/bottle_top",
 		"texture": "item/potion",
 		"potion_overlay": "item/honey_bottle"
 	},

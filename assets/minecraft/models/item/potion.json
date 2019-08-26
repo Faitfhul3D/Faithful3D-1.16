@@ -2,12 +2,12 @@
 	"credit": "Made with Blockbench",
 	"parent": "block/block",
 	"textures": {
-		"2": "Faithful 3D Files:item/potion_bottom",
-		"3": "Faithful 3D Files:item/potion_top",
-		"4": "Faithful 3D Files:item/potion_extra",
-		"texture": "Faithful 3D Files:item/potion",
-		"particle": "Faithful 3D Files:item/potion",
-		"potion_overlay": "Downloads/potion_overlay"
+		"2": "item/potion_bottom",
+		"3": "item/potion_top",
+		"4": "item/potion_extra",
+		"texture": "item/potion",
+		"particle": "item/potion",
+		"potion_overlay": "item/potion_overlay"
 	},
 	"elements": [
 		{

@@ -48,6 +48,7 @@ Finished	iron_bars						Progical
 	  -=J=-
 Finished	jack_o_lantern			v2			Progical & Juknum
 Finished	jukebox				v2			Juknum				26 August 2019
+Finished	jukebox_record						Howler & rewrote by Juknum	27 August 2019
 Finished	jungle_trapdoor			v1.1			Progical & rewrote by Juknum
 	  -=K=-
 	  -=L=-

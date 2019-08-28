@@ -4,7 +4,7 @@
 	"textures": {
 		"2": "item/splash_potion",
 		"4": "item/splash_potion_top",
-		"5": "item/potion_bottom",
+		"5": "item/glass_bottle_bottom",
 		"6": "item/splash_potion_extra",
 		"particle": "item/splash_potion",
 		"potion_overlay": "item/potion_overlay"

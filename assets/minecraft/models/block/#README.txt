@@ -56,6 +56,7 @@ Finished	jungle_trapdoor			v1.1			Progical & rewrote by Juknum
 	  -=L=-
 Finished	ladder							Juknum
 Finsihed	lectern				v2			Progical
+May Change	loom							Juknum				30 August 2019
 	  -=M=-
 	  -=N=-
 	  -=O=-

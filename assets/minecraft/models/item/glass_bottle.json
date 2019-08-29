@@ -5,8 +5,7 @@
 		"2": "item/glass_bottle_bottom",
 		"3": "item/glass_bottle_top",
 		"4": "item/glass_bottle_extra",
-		"texture": "item/glass_bottle",
-		"particle": "item/glass_bottle"
+		"texture": "item/glass_bottle"
 	},
 	"elements": [
 		{

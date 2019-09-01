@@ -1,5 +1,6 @@
 {
 	"credit": "Made with Blockbench",
+	"particle": "item/bow"
 	"textures": {
 		"0": "item/bow"
 	},

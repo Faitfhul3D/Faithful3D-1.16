@@ -1,6 +1,6 @@
 {
 	"credit": "Made with Blockbench by Juknum",
-	"ambientocclusion": true,
+	"ambientocclusion": false,
 	"parent":"block/piston",
 	"textures": {
 		"3": "block/furnace_top",

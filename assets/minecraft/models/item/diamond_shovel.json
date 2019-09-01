@@ -2,6 +2,7 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "item/diamond_shovel"
+		"particle": "item/diamond_shovel"
 	},
 	"elements": [
 		{

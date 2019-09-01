@@ -2,6 +2,7 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"texture": "item/fishing_rod"
+		"particle": "item/fishing_rod"
 	},
 	"elements": [
 		{

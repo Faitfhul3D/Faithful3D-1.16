@@ -1,7 +1,7 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "item/diamond_sword"
+		"0": "item/diamond_sword",
 		"particle": "item/diamond_sword"
 	},
 	"elements": [

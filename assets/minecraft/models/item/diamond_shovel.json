@@ -1,7 +1,7 @@
 {
-	"credit": "Made with Blockbench",
+	"credit": "Designed by Progical",
 	"textures": {
-		"0": "item/diamond_shovel"
+		"0": "item/diamond_shovel",
 		"particle": "item/diamond_shovel"
 	},
 	"elements": [

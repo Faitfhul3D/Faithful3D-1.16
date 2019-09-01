@@ -2,6 +2,7 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "item/diamond_pickaxe"
+		"particle": "item/diamond_picaxe"
 	},
 	"elements": [
 		{

@@ -1,7 +1,7 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"texture": "item/fishing_rod"
+		"texture": "item/fishing_rod",
 		"particle": "item/fishing_rod"
 	},
 	"elements": [
@@ -1301,14 +1301,6 @@
 			"rotation": [0, 180, 0]
 		}
 	},
-	    "overrides": [
-        {
-            "predicate": {
-                "cast": 1
-            },
-            "model": "item/fishing_rod_cast"
-        }
-    ],
 	"groups": [
 		{
 			"name": "model_rod",

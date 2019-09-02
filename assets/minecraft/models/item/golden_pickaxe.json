@@ -1,7 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "item/golden_pickaxe"
+		"0": "item/golden_pickaxe",
+		"particle": "item/golden_pickaxe"
 	},
 	"elements": [
 		{

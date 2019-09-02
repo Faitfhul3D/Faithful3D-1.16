@@ -1,7 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "item/wooden_sword"
+		"0": "item/wooden_sword",
+		"particle": "item/wooden_sword"
 	},
 	"elements": [
 		{

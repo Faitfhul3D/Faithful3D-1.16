@@ -1,7 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "item/stone_hoe"
+		"0": "item/stone_hoe",
+		"particle": "item/stone_hoe"
 	},
 	"elements": [
 		{

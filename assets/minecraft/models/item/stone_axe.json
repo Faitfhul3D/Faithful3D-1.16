@@ -1,7 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "item/stone_axe"
+		"0": "item/stone_axe",
+		"particle": "item/stone_axe"
 	},
 	"elements": [
 		{

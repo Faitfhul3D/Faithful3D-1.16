@@ -1,7 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "item/wooden_axe"
+		"0": "item/wooden_axe",
+		"particle": "item/wooden_axe"
 	},
 	"elements": [
 		{

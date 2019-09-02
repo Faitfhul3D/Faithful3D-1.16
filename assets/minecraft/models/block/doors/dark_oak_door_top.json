@@ -4,8 +4,8 @@
 	"ambientocclusion": false,
 	"textures": {
 		"1": "block/dark_oak_door_special",
-		"particle": "block/dark_oak_door_special",
-		"texture": "block/dark_oak_door_top"
+		"texture": "block/dark_oak_door_top",
+		"particle": "block/dark_oak_door_top"
 	},
 	"elements": [
 		{
@@ -58,7 +58,7 @@
 			"faces": {
 				"east": {"uv": [13.5, 14.5, 2.5, 16], "texture": "#texture"},
 				"west": {"uv": [2.5, 14.5, 13.5, 16], "texture": "#texture", "cullface": "west"},
-				"up": {"uv": [2.5, 13.5, 7.5, 15], "rotation": 90, "texture": "#texture"},
+				"up": {"uv": [2.5, 14.5, 13.5, 15], "rotation": 90, "texture": "#texture"},
 				"down": {"uv": [1.25, 0, 6.75, 1.5], "rotation": 270, "texture": "#1", "cullface": "down"}
 			}
 		},

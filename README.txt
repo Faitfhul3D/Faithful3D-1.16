@@ -4,10 +4,10 @@ EN :
       ### IMPORTANT INFORMATION ###
       
 ## Our website : https://sites.google.com/view/faithful-3d-addon
-## Faithful 3D is an addon of the Faithful 32x32 texture pack and requires it to work properly : https://faithful.team/
-## You can use Faithful 3D for your own resource packs, but please mention it.
+## Faithful 3D is an addon for the Faithful 32x32 texture pack and requires it to work properly : https://faithful.team/
+## You may use Faithful 3D for your own resource packs, but please credit it and do not distribute it on any other site.
 ## Only works on Minecraft Java Edition for 1.15.x
-      - Previous versions may not be supported, download them on our web page.
+      - Previous versions may not be supported, you can download them on our web page.
 ## You can join us on our discord server: https://discordapp.com/invite/GJzgeY7 
 
       ### CONTRIBUTORS ###

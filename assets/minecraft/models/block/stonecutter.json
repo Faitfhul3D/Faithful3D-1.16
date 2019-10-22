@@ -1,5 +1,5 @@
 {
-	"credit": "Designed by Juknam",
+	"credit": "Designed by Progical",
 	"parent": "block/block",
 	"textures": {
 		"4": "block/stonecutter_top_alternative",
@@ -151,7 +151,7 @@
 				"east": {"uv": [3, 11, 13, 16], "texture": "#side"},
 				"west": {"uv": [3, 11, 13, 16], "texture": "#side"},
 				"up": {"uv": [0.5, 7.5, 1.5, 8.5], "texture": "#bottom"},
-				"down": {"uv": [14.5, 3, 15.5, 13], "texture": "#bottom", "cullface": "south"}
+				"down": {"uv": [14.5, 3, 15.5, 13], "texture": "#bottom", "cullface": "down"}
 			}
 		},
 		{
@@ -162,7 +162,7 @@
 				"east": {"uv": [3, 11, 13, 16], "texture": "#side"},
 				"west": {"uv": [3, 11, 13, 16], "texture": "#side"},
 				"up": {"uv": [14.5, 7.5, 15.5, 8.5], "texture": "#bottom"},
-				"down": {"uv": [0.5, 3, 1.5, 13], "texture": "#bottom", "cullface": "south"}
+				"down": {"uv": [0.5, 3, 1.5, 13], "texture": "#bottom", "cullface": "down"}
 			}
 		},
 		{
@@ -180,7 +180,7 @@
 			"faces": {
 				"north": {"uv": [1.5, 11, 14.5, 16], "texture": "#bottom"},
 				"south": {"uv": [1.5, 11, 14.5, 16], "texture": "#side"},
-				"down": {"uv": [1.5, 0.5, 14.5, 7.5], "texture": "#bottom", "cullface": "south"}
+				"down": {"uv": [1.5, 0.5, 14.5, 7.5], "texture": "#bottom", "cullface": "down"}
 			}
 		},
 		{
@@ -190,7 +190,7 @@
 			"faces": {
 				"north": {"uv": [1.5, 11, 14.5, 16], "texture": "#side"},
 				"south": {"uv": [1.5, 11, 14.5, 16], "texture": "#bottom"},
-				"down": {"uv": [1.5, 8.5, 14.5, 15.5], "texture": "#bottom", "cullface": "south"}
+				"down": {"uv": [1.5, 8.5, 14.5, 15.5], "texture": "#bottom", "cullface": "down"}
 			}
 		},
 		{

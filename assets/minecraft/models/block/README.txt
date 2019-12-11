@@ -84,6 +84,7 @@ Finished	redstone_wall_torch			    not needed	Juknum				22 August 2019
 	  -=S=-
 Finished	smoker						NO	Juknum idea from Saarlodrie_ 	04 November 2019
 Finished	smoker_on					NO	Juknum idea from Saarlodrie_ 	04 November 2019
+Finished	sugar_cane					NO	Juknum				11 December 2019
 Finished	sticky_piston					yes	Juknum				26 August 2019
 Finished	stonecutter					yes	Juknum
 	  -=T=-

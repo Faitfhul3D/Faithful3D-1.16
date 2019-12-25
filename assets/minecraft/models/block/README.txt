@@ -22,7 +22,7 @@ Finsnhed	birch_door_bottom_hinge			    not needed	Progical
 Finished	birch_door_top					yes	Progical
 Finished	birch_door_top_hinge		            not needed	Progical
 Finsihed	blast_furncae					yes	Progical
-Finished	brewing_stand					NO	Nekzuris (community)		25 December 2019
+Finished	brewing_stand					yes	Nekzuris (community)		25 December 2019
 Finished	brown_mushroom					yes	Juknum
 	  -=C=-
 Finished	carved_pumpkin			v2		yes	Progical & Juknum
@@ -79,14 +79,14 @@ Finished	pumpkin				v1		yes	Juknum
 Finished	rail				v2		yes	Juknum & rewrote by Progical
 Finished	rail_corner			v2	    not needed	Juknam & rewrote by Progical
 Finished	rail_raised			v2	    not needed	Juknum & rewrote by Progical
-Finished	redstone_lamp					NO	Bubminer (community)		25 December 2019
+Finished	redstone_lamp					yes	Bubminer (community)		25 December 2019
 Finished	red_mushroom					yes	Juknum				20 August 2019
 Finished	redstone_torch					yes	Juknum				22 August 2019
 Finished	redstone_wall_torch			    not needed	Juknum				22 August 2019
 	  -=S=-
-Finished	smoker						NO	Juknum idea from Saarlodrie_ 	04 November 2019
-Finished	smoker_on					NO	Juknum idea from Saarlodrie_ 	04 November 2019
-Finished	sugar_cane					NO	Juknum				11 December 2019
+Finished	smoker						yes	Juknum idea from Saarlodrie_ 	04 November 2019
+Finished	smoker_on					yes	Juknum idea from Saarlodrie_ 	04 November 2019
+Finished	sugar_cane					yes	Juknum				11 December 2019
 Finished	sticky_piston					yes	Juknum				26 August 2019
 Finished	stonecutter					yes	Juknum
 	  -=T=-

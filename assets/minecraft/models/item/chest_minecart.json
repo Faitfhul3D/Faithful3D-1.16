@@ -2,7 +2,7 @@
 	"credit": "Made by Juknum",
 	"textures": {
 		"texture": "block/minecart",
-		"down": "entity/chest/normal"
+		"down": "block/chest"
 	},
 	"elements": [
 		{

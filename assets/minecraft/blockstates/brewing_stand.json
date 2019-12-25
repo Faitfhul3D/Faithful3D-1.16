@@ -1,0 +1,30 @@
+{
+    "__comment": "Designed by Nekzuris",
+    "multipart": [
+        {   "apply": { "model": "block/brewing_stand/brewing_stand_empty" }},
+        {   "when": { "has_bottle_0": "true" },
+            "apply": [
+                { "model": "block/brewing_stand/bottle_1"}
+            ]
+        },
+        {   "when": { "has_bottle_1": "true" },
+            "apply": [
+                { "model": "block/brewing_stand/bottle_2"}
+            ]
+        },
+        {   "when": { "has_bottle_2": "true" },
+            "apply": [
+                { "model": "block/brewing_stand/bottle_2", "y": 270}
+            ]
+        },
+        {   "when": { "has_bottle_0": "false" },
+            "apply": { "model": "block/brewing_stand/bottle_1_empty" }
+        },
+        {   "when": { "has_bottle_1": "false" },
+            "apply": { "model": "block/brewing_stand/bottle_2_empty" }
+        },
+        {   "when": { "has_bottle_2": "false" },
+            "apply": { "model": "block/brewing_stand/bottle_2_empty", "y": 270 }
+        }
+    ]
+}

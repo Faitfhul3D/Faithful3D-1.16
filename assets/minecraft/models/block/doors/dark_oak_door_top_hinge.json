@@ -4,8 +4,8 @@
 	"ambientocclusion": false,
 	"textures": {
 		"1": "block/dark_oak_door_special",
-		"texture": "block/dark_oak_door_top",
-		"particle": "block/dark_oak_door_top"
+		"particle": "block/dark_oak_door_top",
+		"texture": "block/dark_oak_door_top"
 	},
 	"elements": [
 		{
@@ -14,7 +14,7 @@
 			"faces": {
 				"north": {"uv": [2.5, 0, 2, 16], "texture": "#texture"},
 				"east": {"uv": [0, 0, 2.5, 16], "texture": "#texture"},
-				"south": {"uv": [0, 6.5, 8, 5], "rotation": 270, "texture": "#1", "cullface": "north"},
+				"south": {"uv": [0, 6.5, 8, 5], "rotation": 270, "texture": "#1", "cullface": "south"},
 				"west": {"uv": [2.5, 0, 0, 16], "texture": "#texture", "cullface": "west"},
 				"up": {"uv": [1.5, 0, 0, 1.5], "rotation": 90, "texture": "#1", "cullface": "up"},
 				"down": {"uv": [1.25, 0, 0, 1.5], "rotation": 270, "texture": "#1", "cullface": "down"}
@@ -34,7 +34,7 @@
 			"from": [0, 0, 0],
 			"to": [3, 16, 2.5],
 			"faces": {
-				"north": {"uv": [0, 3.25, 8, 1.75], "rotation": 270, "texture": "#1", "cullface": "south"},
+				"north": {"uv": [0, 3.25, 8, 1.75], "rotation": 270, "texture": "#1", "cullface": "north"},
 				"east": {"uv": [13.5, 0, 16, 16], "texture": "#texture"},
 				"south": {"uv": [14, 0, 13.5, 16], "texture": "#texture"},
 				"west": {"uv": [16, 0, 13.5, 16], "texture": "#texture", "cullface": "west"},

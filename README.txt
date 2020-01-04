@@ -20,7 +20,7 @@ EN :
       - Twitter: https://twitter.com/UnlikeHowler
 
 ______________________________________________________________________________________________________________
-FR : ceci est un test
+FR :
 
       ### INFORMATIONS IMPORTANTES ###
 

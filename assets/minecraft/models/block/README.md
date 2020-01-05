@@ -2,7 +2,7 @@
 - Date : 15th January 2020 -> 15/01/20 (date of publication)
 - Finished : cc -> could change
 
-##A
+# A
 _!!!!	Finished	Name						Version		Display		Date 		Creator(s)_
 
 		yes		acacia_door_bottom			-			yes			-			Juknum
@@ -19,7 +19,7 @@ _!!!!	Finished	Name						Version		Display		Date 		Creator(s)_
 		yes		activator_rail_raised		-			not need	-			Progical
 		yes		activator_rail_on_raised	-			not need	-			Progical
 	
-##B
+# B
 _!!!!	Finished	Name						Version		Display		Date 		Creator(s)_
 
 		yes 	bee_nest					v2			yes			27/08/19	Juknum
@@ -47,7 +47,7 @@ _!!!!	Finished	Name						Version		Display		Date 		Creator(s)_
 		
 		yes		brown_mushroom				-			yes			-			Juknum
 
-##C
+# C
 _!!!!	Finished	Name						Version		Display		Date 		Creator(s)_
 
 		yes		cartography_table			-			yes			-			Progical
@@ -56,7 +56,7 @@ _!!!!	Finished	Name						Version		Display		Date 		Creator(s)_
 		
 		yes		composter					v1.1		yes			-			Juknum
 
-##D
+# D
 _!!!!	Finished	Name						Version		Display		Date 		Creator(s)_
 
 		yes		dark_oak_trapdoor			v1.1		yes			-			Progical & Juknum
@@ -73,18 +73,18 @@ _!!!!	Finished	Name						Version		Display		Date 		Creator(s)_
 		yes		dropper						v1.1		yes			-			Juknum & Progical
 		yes		dropper_vertical			v1.1		yes			-			Juknum & Progical
 
-##F
+# F
 _!!!!	Finished	Name						Version		Display		Date 		Creator(s)_
 
 	@	cc		furnace						-			yes			-			Progical & Juknum						
 	@	cc		furnace_on					-			yes			-			Progical & Juknum						
 
-##H
+# H
 _!!!!	Finished	Name						Version		Display		Date 		Creator(s)_
 	
 		yes		hanging_lantern				-			yes			-			Progical
 
-##I
+# I
 _!!!!	Finished	Name						Version		Display		Date 		Creator(s)_
 
 		yes		iron_door_bottom			-			yes			-			Progical
@@ -97,7 +97,7 @@ _!!!!	Finished	Name						Version		Display		Date 		Creator(s)_
 		
 		yes		iron_bars					-			yes			-			Progical
 
-##J
+# J
 _!!!!	Finished	Name						Version		Display		Date 		Creator(s)_
 
 		yes		jack_o_lantern				v2			yes			-			Progical & Juknum
@@ -107,7 +107,7 @@ _!!!!	Finished	Name						Version		Display		Date 		Creator(s)_
 		
 		yes		jungle_trapdoor				v1.1		yes			-			Progical & Juknum
 
-##L
+# L
 _!!!!	Finished	Name						Version		Display		Date 		Creator(s)_
 
 		yes		ladder						-			yes			-			Juknum
@@ -116,7 +116,7 @@ _!!!!	Finished	Name						Version		Display		Date 		Creator(s)_
 		
 	@	cc		loom						-			yes			30/08/19	Juknum
 
-##O
+# O
 _!!!!	Finished	Name						Version		Display		Date 		Creator(s)_
 
 		yes		oak_trapdoor				v1.1		yes			-			Progical & Juknum
@@ -127,7 +127,7 @@ _!!!!	Finished	Name						Version		Display		Date 		Creator(s)_
 		yes		oak_door_top				-			yes			-			Progical
 		yes		oak_door_top_hinge			-   		not need	-			Progical
 
-##P
+# P
 _!!!!	Finished	Name						Version		Display		Date 		Creator(s)_
 
 		yes		piston						-			yes			26/08/19	Juknum
@@ -141,7 +141,7 @@ _!!!!	Finished	Name						Version		Display		Date 		Creator(s)_
 		
 		yes		pumpkin						v1			yes			-			Juknum
 
-##R
+# R
 _!!!!	Finished	Name						Version		Display		Date 		Creator(s)_
 
 		yes		rail						v2			yes			-			Juknum & Progical
@@ -156,7 +156,7 @@ _!!!!	Finished	Name						Version		Display		Date 		Creator(s)_
 		yes		redstone_torch				-			yes			22/08/19	Juknum				
 		yes		redstone_wall_torch			-    		not need	22/08/19	Juknum				
 
-##S
+# S
 _!!!!	Finished	Name						Version		Display		Date 		Creator(s)_
 
 		yes 	smithing_table				-			no			05/01/20	Saarlodrie (community) & Juknum
@@ -170,7 +170,7 @@ _!!!!	Finished	Name						Version		Display		Date 		Creator(s)_
 		
 		yes		stonecutter					-			yes			-			Juknum
 
-##T
+# T
 _!!!!	Finished	Name						Version		Display		Date 		Creator(s)_
 
 		yes		template_piston_head		-	    	not need	26/08/19	Juknum

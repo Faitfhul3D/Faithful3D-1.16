@@ -25,7 +25,7 @@
 		yes 	bee_nest					v2			yes			27/08/19	Juknum
 		yes 	bee_nest_honey				v2			yes			27/08/19	Juknum
 		
-		yes		beehive						v2			yes			23/08/19	Juknum
+		yes		beehive                     v2			yes			23/08/19	Juknum
 		yes		beehive_honey				v2			yes			23/08/19	Juknum
 		
 		yes		birch_trapdoor				v1.1 		yes			-			Progical & Juknum
@@ -59,9 +59,9 @@
 # D
 **!<>! Finished Name                        Version     Displayed   Date        Creator(s)**
 
-		yes		dark_oak_trapdoor			v1.1		yes			-			Progical & Juknum
+        yes		dark_oak_trapdoor			v1.1		yes			-			Progical & Juknum
 		
-		yes		dispenser					v1.1		yes			-			Juknum & Progical
+        yes     dispenser                   v1.1		yes			-			Juknum & Progical
 		yes		dispenser_vertical			v1.1		yes			-			Juknum & Progical
 		
 		yes		detector_rail				-			yes			-			Progical
@@ -70,14 +70,14 @@
 		yes		detector_rail_raised		-	    	not need	-			Progical
 		yes		detector_rail_on_raised		-           not need	-			Progical
 		
-		yes		dropper						v1.1		yes			-			Juknum & Progical
+		yes		dropper                     v1.1		yes			-			Juknum & Progical
 		yes		dropper_vertical			v1.1		yes			-			Juknum & Progical
 
 # F
 **!<>! Finished Name                        Version     Displayed   Date        Creator(s)**
 
-	@	cc		furnace						-			yes			-			Progical & Juknum						
-	@	cc		furnace_on					-			yes			-			Progical & Juknum						
+	@	cc		furnace                    -			yes			-			Progical & Juknum                    
+	@	cc		furnace_on					-			yes			-			Progical & Juknum                    
 
 # H
 **!<>! Finished Name                        Version     Displayed   Date        Creator(s)**
@@ -90,7 +90,7 @@
 		yes		iron_door_bottom			-			yes			-			Progical
 		yes		iron_door_bottom_hinge		-	    	not need	-			Progical
 		
-		yes		iron_door_top				-			yes						Progical
+		yes		iron_door_top				-			yes                     Progical
 		yes		iron_doortop_hinge			-    		not need	-			Progical
 		
 		yes		iron_trapdoor				v1.1		yes			-			Progical & Juknum
@@ -102,7 +102,7 @@
 
 		yes		jack_o_lantern				v2			yes			-			Progical & Juknum
 		
-		yes		jukebox						v2			yes			26/08/19	Juknum
+		yes		jukebox                     v2			yes			26/08/19	Juknum
 		yes		jukebox_record				-			yes			27/08/19	Howler & Juknum
 		
 		yes		jungle_trapdoor				v1.1		yes			-			Progical & Juknum
@@ -110,11 +110,11 @@
 # L
 **!<>! Finished Name                        Version     Displayed   Date        Creator(s)**
 
-		yes		ladder						-			yes			-			Juknum
+		yes		ladder                      -			yes			-			Juknum
 		
-		yes		lectern						v2			yes			-			Progical
+		yes		lectern                     v2			yes			-			Progical
 		
-	@	cc		loom						-			yes			30/08/19	Juknum
+	@	cc		loom                        -			yes			30/08/19	Juknum
 
 # O
 **!<>! Finished Name                        Version     Displayed   Date        Creator(s)**
@@ -130,7 +130,7 @@
 # P
 **!<>! Finished Name                        Version     Displayed   Date        Creator(s)**
 
-		yes		piston						-			yes			26/08/19	Juknum
+		yes		piston                      -			yes			26/08/19	Juknum
 		yes		piston_extended				-    		not need	26/08/19	Juknum
 		
 		yes		powered_rail				v2			yes			-			Juknum & Progical
@@ -139,12 +139,12 @@
 		yes		powered_rail_raised			v2          not need	-			Juknum & Progical
 		yes		powered_rail_on_raised		v2	    	not need	-			Juknum & Progical
 		
-		yes		pumpkin						v1			yes			-			Juknum
+		yes		pumpkin                     v1			yes			-			Juknum
 
 # R
 **!<>! Finished Name                        Version     Displayed   Date        Creator(s)**
 
-		yes		rail						v2			yes			-			Juknum & Progical
+		yes		rail                        v2			yes			-			Juknum & Progical
 		yes		rail_corner					v2	    	not need	-			Juknam & Progical
 		yes		rail_raised					v2	    	not need	-			Juknum & Progical
 		
@@ -161,7 +161,7 @@
 
 		yes 	smithing_table				-			no			05/01/20	Saarlodrie (community) & Juknum
 		
-		yes		smoker						-			yes			04/11/19	Juknum & Saarlodrie (community)	
+		yes		smoker                      -			yes			04/11/19	Juknum & Saarlodrie (community)	
 		yes		smoker_on					-			yes			04/11/19	Juknum & Saarlodrie (community)
 		
 		yes		sugar_cane					-			no			11/12/19	Juknum

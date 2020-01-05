@@ -45,7 +45,7 @@
 		yes		bottle_2_empty				-			yes			25/12/19	Nekzuris (community)
 		yes		brewing_stand				-			yes			25/12/19	Nekzuris (community)
 		
-		yes		brown_mushroom				-			yes			-			Juknum
+		yes		brown_mushroom				v2			yes			-			Juknum
 
 # C
 **!<>!|Finished |Name                       |Version    |Displayed  |Date       |Creator(s)**
@@ -148,7 +148,7 @@
 		yes		rail_corner					v2	    	not need	-			Juknam & Progical
 		yes		rail_raised					v2	    	not need	-			Juknum & Progical
 		
-		yes		red_mushroom				-			yes			20/08/19	Juknum
+		yes		red_mushroom				v2			yes			20/08/19	Juknum
 		
 		yes		redstone_lamp				-			yes			25/12/19	Bubminer (community)
 		yes		redstone_lamp_on			-			yes			25/12/19	Bubminer (community)

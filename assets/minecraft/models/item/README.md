@@ -1,11 +1,11 @@
 # A
-**!<>! Finished Name                        Version     Displayed   Date        Creator(s)**
+**!<>!|Finished |Name                       |Version    |Displayed  |Date       |Creator(s)**
 
 		yes		acacia_trapdoor				-			no			-			Progical
 		yes		acacia_boat					-			no			28/10/19	Juknum	
 
 # B
-**!<>! Finished Name                        Version     Displayed   Date        Creator(s)**
+**!<>!|Finished |Name                       |Version    |Displayed  |Date       |Creator(s)**
 
 		yes		birch_boat					- 			yes			28/10/19	Juknum
 
@@ -17,7 +17,7 @@
 		yes		bow_pulling_2				- 			not need	-			Howler
 
 # C
-**!<>! Finished Name                        Version     Displayed   Date        Creator(s)**
+**!<>!|Finished |Name                       |Version    |Displayed  |Date       |Creator(s)**
 
 		yes		cauldron					- 			yes			- 			Juknum
 
@@ -28,7 +28,7 @@
 		yes		composter					- 			no			- 			Juknum
 
 # D
-**!<>! Finished Name                        Version     Displayed   Date        Creator(s)**
+**!<>!|Finished |Name                       |Version    |Displayed  |Date       |Creator(s)**
 
 		yes		dark_oak_trapdoor			- 			no  		- 			Progical
 
@@ -43,12 +43,12 @@
 		yes		dragon_breath				- 			yes 		- 			Juknum
 
 # E
-**!<>! Finished Name                        Version     Displayed   Date        Creator(s)**
+**!<>!|Finished |Name                       |Version    |Displayed  |Date       |Creator(s)**
 
 		yes		experience_bottle			-			yes			-			Juknum
 
 # F
-**!<>! Finished Name                        Version     Displayed   Date        Creator(s)**
+**!<>!|Finished |Name                       |Version    |Displayed  |Date       |Creator(s)**
 
 		yes		farmland					- 			yes 		30/08/19	Juknum
 
@@ -60,7 +60,7 @@
 		yes		furnace_minecart			- 			yes 		28/10/19	Juknum
 
 # G
-**!<>! Finished Name                        Version     Displayed   Date        Creator(s)**
+**!<>!|Finished |Name                       |Version    |Displayed  |Date       |Creator(s)**
 
 		yes		glass_bottle				-			-			-			Juknum
 
@@ -71,7 +71,7 @@
 		yes		golden_sword				-			yes 		-			Howler
 
 # H
-**!<>! Finished Name                        Version     Displayed   Date        Creator(s)**
+**!<>!|Finished |Name                       |Version    |Displayed  |Date       |Creator(s)**
 
 		yes		honey_bottle				-									Juknum
 
@@ -79,7 +79,7 @@
 		yes		hopper_minecart				-						28/10/19	Juknum
 
 # I
-**!<>! Finished Name                        Version     Displayed   Date        Creator(s)**
+**!<>!|Finished |Name                       |Version    |Displayed  |Date       |Creator(s)**
 
 		yes		iron_axe					-			yes			-			Howler
 		yes		iron_hoe					-			yes			-			Howler
@@ -90,40 +90,40 @@
 		yes		iron_trapdoor				-			no			-			Progical
 
 # J
-**!<>! Finished Name                        Version     Displayed   Date        Creator(s)**
+**!<>!|Finished |Name                       |Version    |Displayed  |Date       |Creator(s)**
 
 		yes		jungle_trapdoor				-			no			-			Progical
 
 		yes		jungle_boat					-			no			28/10/19	Juknum				
 
 # L
-**!<>! Finished Name                        Version     Displayed   Date        Creator(s)**
+**!<>!|Finished |Name                       |Version    |Displayed  |Date       |Creator(s)**
 
 		yes		lantern						-			no			-			Juknum
 
 		yes		lingering_potion			-			no			-			Juknum
 
 # M
-**!<>! Finished Name                        Version     Displayed   Date        Creator(s)**
+**!<>!|Finished |Name                       |Version    |Displayed  |Date       |Creator(s)**
 
 		yes		minecart					-			no			28/10/19	Juknum
 
 # O
-**!<>! Finished Name                        Version     Displayed   Date        Creator(s)**
+**!<>!|Finished |Name                       |Version    |Displayed  |Date       |Creator(s)**
 
 		yes		oak_trapdoor				-			not need	-			Progical
 
 		yes		oak_boat					-			no			28/10/19	Juknum
 
 # P
-**!<>! Finished Name                        Version     Displayed   Date        Creator(s)**
+**!<>!|Finished |Name                       |Version    |Displayed  |Date       |Creator(s)**
 
 		yes		piston						-			not need	26/08/19	Juknum
 
 		yes		potion						-			yes			-			Juknum
 
 # S
-**!<>! Finished Name                        Version     Displayed   Date        Creator(s)**
+**!<>!|Finished |Name                       |Version    |Displayed  |Date       |Creator(s)**
 
 		yes		shears						-			yes			-			Howler
 
@@ -142,12 +142,12 @@
 		yes		stonecutter					-			yes			-			Juknum
 
 # T
-**!<>! Finished Name                        Version     Displayed   Date        Creator(s)**
+**!<>!|Finished |Name                       |Version    |Displayed  |Date       |Creator(s)**
 
 		yes		tnt_minecart				-			no			28/08/19	Juknum
 
 # W
-**!<>! Finished Name                        Version     Displayed   Date        Creator(s)**
+**!<>!|Finished |Name                       |Version    |Displayed  |Date       |Creator(s)**
 
 		yes		wooden_axe					-			yes			-			Howler
 		yes		wooden_hoe					-			yes			-			Howler

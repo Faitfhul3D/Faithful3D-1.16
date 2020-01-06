@@ -5,13 +5,15 @@
 
 > Last update : 6th January 2020
 
-# A
+-------------------------------------------------
+
+## A
 |**!<>!**|**Finished**|**Name**              |**Version**|**Displayed**|**Date**  |**Creator(s)**|
 |:------:|:----------:|:---------------------|:---------:|:-----------:|:--------:|:-------------|
 |        |yes         |acacia_trapdoor       |           |no           |          |Progical      |
 |**@**   |yes         |acacia_boat           |           |no           |28/10/19  |Juknum        |
 
-# B
+## B
 |**!<>!**|**Finished**|**Name**              |**Version**|**Displayed**|**Date**  |**Creator(s)**|
 |:------:|:----------:|:---------------------|:---------:|:-----------:|:--------:|:-------------|
 |**@**   |yes         |birch_boat            |           |yes          | 28/10/19 |Juknum        |
@@ -21,7 +23,7 @@
 |        |yes         |bow_pulling_1		 | 	         |not needed   |          |Howler        |
 |        |yes         |bow_pulling_2		 | 			 |not needed   |          |Howler        |
 
-# C
+## C
 |**!<>!**|**Finished**|**Name**              |**Version**|**Displayed**|**Date**  |**Creator(s)**|
 |:------:|:----------:|:---------------------|:---------:|:-----------:|:--------:|:-------------|
 |        |yes         |cauldron				 |           |yes          | 		  |Juknum 		 |
@@ -29,7 +31,7 @@
 |        |yes         |command_block_minecart|           |no           |28/10/19  |Juknum 		 |
 |        |yes         |composter			 |           |no           | 		  |Juknum 		 |
 
-# D
+## D
 |**!<>!**|**Finished**|**Name**              |**Version**|**Displayed**|**Date**  |**Creator(s)**|
 |:------:|:----------:|:---------------------|:---------:|:-----------:|:--------:|:-------------|
 |        |yes         |dark_oak_trapdoor     |		 	 |no  		   |		  |Progical      |
@@ -41,12 +43,12 @@
 |        |yes         |diamond_sword		 | 		  	 |yes 		   | 		  |Howler        |
 |        |yes         |dragon_breath		 |		 	 |yes 		   | 		  |Juknum        |
 
-# E
+## E
 |**!<>!**|**Finished**|**Name**              |**Version**|**Displayed**|**Date**  |**Creator(s)**|
 |:------:|:----------:|:---------------------|:---------:|:-----------:|:--------:|:-------------|
 |        |yes         |experience_bottle 	 |		 	 |yes          |		  |Juknum        |
 
-# F
+## F
 |**!<>!**|**Finished**|**Name**              |**Version**|**Displayed**|**Date**  |**Creator(s)**|
 |:------:|:----------:|:---------------------|:---------:|:-----------:|:--------:|:-------------|
 |        |yes         |farmland				 |		 	 |yes		   | 30/08/19 |Juknum	 	 |
@@ -55,7 +57,7 @@
 |        |yes         |flower_pot			 |		 	 |yes		   | 28/10/19 |Juknum	 	 |
 |        |yes         |furnace_minecart		 |		 	 |yes		   | 28/10/19 |Juknum		 |
 
-# G
+## G
 |**!<>!**|**Finished**|**Name**              |**Version**|**Displayed**|**Date**  |**Creator(s)**|
 |:------:|:----------:|:---------------------|:---------:|:-----------:|:--------:|:-------------|
 |        |yes         |glass_bottle			 |		 	 |yes	 	   |		  |Juknum 		 |
@@ -65,14 +67,14 @@
 |        |yes         |golden_shovel		 |		 	 |yes 		   |		  |Howler		 |
 |        |yes         |golden_sword			 |		 	 |yes 		   |		  |Howler		 |
 
-# H
+## H
 |**!<>!**|**Finished**|**Name**              |**Version**|**Displayed**|**Date**  |**Creator(s)**|
 |:------:|:----------:|:---------------------|:---------:|:-----------:|:--------:|:-------------|
 |        |yes         |honey_bottle			 |		 	 |		 	   |		  |Juknum		 |
 |        |yes         |hopper				 |		 	 |		 	   | 26/08/19 |Juknum		 |
 |        |yes         |hopper_minecart		 |		 	 |		 	   | 28/10/19 |Juknum		 |
 
-# I
+## I
 |**!<>!**|**Finished**|**Name**              |**Version**|**Displayed**|**Date**  |**Creator(s)**|
 |:------:|:----------:|:---------------------|:---------:|:-----------:|:--------:|:-------------|
 |        |yes         |iron_axe				 |           |yes          |		  |Howler        |
@@ -82,36 +84,36 @@
 |        |yes         |iron_sword			 |		 	 |yes	 	   | 		  |Howler        |
 |        |yes         |iron_trapdoor		 |		 	 |no		   |	      |Progical      |
 
-# J
+## J
 |**!<>!**|**Finished**|**Name**              |**Version**|**Displayed**|**Date**  |**Creator(s)**|
 |:------:|:----------:|:---------------------|:---------:|:-----------:|:--------:|:-------------|
 |        |yes         |jungle_trapdoor		 |		 	 |no		   |          |Progical	     |
 |**@**   |yes         |jungle_boat			 |		 	 |no		   | 28/10/19 |Juknum	     |				
 
-# L
+## L
 |**!<>!**|**Finished**|**Name**              |**Version**|**Displayed**|**Date**  |**Creator(s)**|
 |:------:|:----------:|:---------------------|:---------:|:-----------:|:--------:|:-------------|
 |        |yes         |lantern				 |		 	 |no		   |		  |Juknum		 |
 |        |yes         |lingering_potion		 |		 	 |no		   |		  |Juknum		 |
 
-# M
+## M
 |**!<>!**|**Finished**|**Name**              |**Version**|**Displayed**|**Date**  |**Creator(s)**|
 |:------:|:----------:|:---------------------|:---------:|:-----------:|:--------:|:-------------|
 |        |yes         |minecart				 |		 	 |no		   | 28/10/19 |Juknum        |
 
-# O
+## O
 |**!<>!**|**Finished**|**Name**              |**Version**|**Displayed**|**Date**  |**Creator(s)**|
 |:------:|:----------:|:---------------------|:---------:|:-----------:|:--------:|:-------------|
 |        |yes         |oak_trapdoor			 |		 	|not needed   |	         |Progical      |
 |**@**   |yes         |oak_boat				 |		 	|no			  | 28/10/19 |Juknum		|
 
-# P
+## P
 |**!<>!**|**Finished**|**Name**              |**Version**|**Displayed**|**Date**  |**Creator(s)**|
 |:------:|:----------:|:---------------------|:---------:|:-----------:|:--------:|:-------------|
 |        |yes         |piston				|		    |not needed	  | 26/08/19 |Juknum		|
 |        |yes         |potion				|        	|yes          |			 |Juknum		|
 
-# S
+## S
 |**!<>!**|**Finished**|**Name**              |**Version**|**Displayed**|**Date**  |**Creator(s)**|
 |:------:|:----------:|:---------------------|:---------:|:-----------:|:--------:|:-------------|
 |        |yes         |shears				|		 	|yes          |			 |Howler        |
@@ -125,12 +127,12 @@
 |        |yes         |stone_sword			|		 	|yes          |			 |Howler        |
 |        |yes         |stonecutter			|		 	|yes          |			 |Juknum		|
 
-# T
+## T
 |**!<>!**|**Finished**|**Name**              |**Version**|**Displayed**|**Date**  |**Creator(s)**|
 |:------:|:----------:|:---------------------|:---------:|:-----------:|:--------:|:-------------|
 |        |yes         |tnt_minecart			|           |no 		  | 28/08/19 |Juknum		|
 
-# W
+## W
 |**!<>!**|**Finished**|**Name**              |**Version**|**Displayed**|**Date**  |**Creator(s)**|
 |:------:|:----------:|:---------------------|:---------:|:-----------:|:--------:|:-------------|
 |        |yes         |wooden_axe			|           |yes          |			 |Howler        |

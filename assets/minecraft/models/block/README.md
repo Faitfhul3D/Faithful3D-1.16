@@ -1,11 +1,9 @@
-
 # How it works :
-|**!<>!**       |**Finished**                    |**Name**          |**Version**                               |**Displayed**|**Date**|**Creator(s)**|
-|:--------------|:-------------------------------|:-----------------|:----------                               |:------------|:-------|:-------------|
-|Warn with **@**|yes<br/>no<br/>could change : cc|Name of your model|vX.Y<br/>X : big change<br/>Y small change|On site?     |MM/DD/YY|Creators :)   |
+|**!<>!**       |**Finished**                    |**Name**          |**Version**                               |**Displayed**|**Date**  |**Creator(s)**|
+|:--------------|:-------------------------------|:-----------------|:-----------------------------------------|:------------|:--------:|:-------------|
+|Warn with **@**|yes<br/>no<br/>could change : cc|Name of your model|vX.Y<br/>X : big change<br/>Y small change|On site?     | MM/DD/YY |Creators :)   |
 
-- Date : 15th January 2020 -> 15/01/20 (date of publication)
-- Finished : cc -> could change
+- Last update : 6th January 2020
 
 # A
 |**!<>!**|**Finished**|**Name**                   |**Version**|**Displayed**|**Date**  |**Creator(s)**|

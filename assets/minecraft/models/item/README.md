@@ -1,13 +1,20 @@
+# How it works :
+|**!<>!**       |**Finished**                    |**Name**          |**Version**                               |**Displayed**|**Date**  |**Creator(s)**|
+|:--------------|:-------------------------------|:-----------------|:-----------------------------------------|:------------|:--------:|:-------------|
+|Warn with **@**|yes<br/>no<br/>could change : cc|Name of your model|vX.Y<br/>X : big change<br/>Y small change|On site?     | MM/DD/YY |Creators :)   |
+
+- Last update : 6th January 2020
+
 # A
 |**!<>!**|**Finished**|**Name**              |**Version**|**Displayed**|**Date**  |**Creator(s)**|
 |:------:|:----------:|:---------------------|:---------:|:-----------:|:--------:|:-------------|
 |        |yes         |acacia_trapdoor       |           |no           |          |Progical      |
-|@       |yes         |acacia_boat           |           |no           |28/10/19  |Juknum        |
+|**@**   |yes         |acacia_boat           |           |no           |28/10/19  |Juknum        |
 
 # B
 |**!<>!**|**Finished**|**Name**              |**Version**|**Displayed**|**Date**  |**Creator(s)**|
 |:------:|:----------:|:---------------------|:---------:|:-----------:|:--------:|:-------------|
-|@       |yes         |birch_boat            |           |yes          | 28/10/19 |Juknum        |
+|**@**   |yes         |birch_boat            |           |yes          | 28/10/19 |Juknum        |
 |        |yes         |birch_trapdoor        |           |yes          |          |Progical      |
 |        |yes         |bow					 |           |yes          |          |Howler        |
 |        |yes         |bow_pulling_0		 |           |not needed   |          |Howler        |
@@ -26,7 +33,7 @@
 |**!<>!**|**Finished**|**Name**              |**Version**|**Displayed**|**Date**  |**Creator(s)**|
 |:------:|:----------:|:---------------------|:---------:|:-----------:|:--------:|:-------------|
 |        |yes         |dark_oak_trapdoor     |		 	 |no  		   |		  |Progical      |
-|@       |yes         |dark_oak_boat		 |		 	 |no  		   | 28/08/19 |Juknum        |
+|**@**   |yes         |dark_oak_boat		 |		 	 |no  		   | 28/08/19 |Juknum        |
 |        |yes         |diamond_axe			 |		 	 |yes 		   | 		  |Howler        |
 |        |yes         |diamond_hoe			 |		 	 |yes 		   | 		  |Howler        |
 |        |yes         |diamond_pickaxe		 | 		 	 |yes 		   | 		  |Howler        |
@@ -79,7 +86,7 @@
 |**!<>!**|**Finished**|**Name**              |**Version**|**Displayed**|**Date**  |**Creator(s)**|
 |:------:|:----------:|:---------------------|:---------:|:-----------:|:--------:|:-------------|
 |        |yes         |jungle_trapdoor		 |		 	 |no		   |          |Progical	     |
-|@       |yes         |jungle_boat			 |		 	 |no		   | 28/10/19 |Juknum	     |				
+|**@**   |yes         |jungle_boat			 |		 	 |no		   | 28/10/19 |Juknum	     |				
 
 # L
 |**!<>!**|**Finished**|**Name**              |**Version**|**Displayed**|**Date**  |**Creator(s)**|
@@ -96,7 +103,7 @@
 |**!<>!**|**Finished**|**Name**              |**Version**|**Displayed**|**Date**  |**Creator(s)**|
 |:------:|:----------:|:---------------------|:---------:|:-----------:|:--------:|:-------------|
 |        |yes         |oak_trapdoor			 |		 	|not needed   |	         |Progical      |
-|@       |yes         |oak_boat				 |		 	|no			  | 28/10/19 |Juknum		|
+|**@**   |yes         |oak_boat				 |		 	|no			  | 28/10/19 |Juknum		|
 
 # P
 |**!<>!**|**Finished**|**Name**              |**Version**|**Displayed**|**Date**  |**Creator(s)**|

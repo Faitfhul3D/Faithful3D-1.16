@@ -68,29 +68,29 @@
 # I
 |**!<>!**|**Finished**|**Name**              |**Version**|**Displayed**|**Date**  |**Creator(s)**|
 |:------:|:----------:|:---------------------|:---------:|:-----------:|:--------:|:-------------|
-|        |yes         |iron_axe				 |           |yes          |		 	 |Howler        |
-|        |yes         |iron_hoe				 |           |yes          |		 	 |Howler        |
-|        |yes         |iron_pickaxe			 |           |yes          |		 	 |Howler        |
-|        |yes         |iron_shovel			 |		 	|yes 		  |		 	 |Howler        |
-|        |yes         |iron_sword			 |		 	|yes	 	  | 		 |Howler        |
-|        |yes         |iron_trapdoor		 |		 	|no		 	  |			 |Progical      |
+|        |yes         |iron_axe				 |           |yes          |		  |Howler        |
+|        |yes         |iron_hoe				 |           |yes          |		  |Howler        |
+|        |yes         |iron_pickaxe			 |           |yes          |		  |Howler        |
+|        |yes         |iron_shovel			 |		 	 |yes 		   |		  |Howler        |
+|        |yes         |iron_sword			 |		 	 |yes	 	   | 		  |Howler        |
+|        |yes         |iron_trapdoor		 |		 	 |no		   |	      |Progical      |
 
 # J
 |**!<>!**|**Finished**|**Name**              |**Version**|**Displayed**|**Date**  |**Creator(s)**|
 |:------:|:----------:|:---------------------|:---------:|:-----------:|:--------:|:-------------|
-|        |yes         |jungle_trapdoor		 |		 	|no		 	  |          |Progical		|
-|@       |yes         |jungle_boat			 |		 	|no			  | 28/10/19 |Juknum		|				
+|        |yes         |jungle_trapdoor		 |		 	 |no		   |          |Progical	     |
+|@       |yes         |jungle_boat			 |		 	 |no		   | 28/10/19 |Juknum	     |				
 
 # L
 |**!<>!**|**Finished**|**Name**              |**Version**|**Displayed**|**Date**  |**Creator(s)**|
 |:------:|:----------:|:---------------------|:---------:|:-----------:|:--------:|:-------------|
-|        |yes         |lantern				 |		 	|no		 	  |		 	 |Juknum		|
-|        |yes         |lingering_potion		 |		 	|no		 	  |		 	 |Juknum		|
+|        |yes         |lantern				 |		 	 |no		   |		  |Juknum		 |
+|        |yes         |lingering_potion		 |		 	 |no		   |		  |Juknum		 |
 
 # M
 |**!<>!**|**Finished**|**Name**              |**Version**|**Displayed**|**Date**  |**Creator(s)**|
 |:------:|:----------:|:---------------------|:---------:|:-----------:|:--------:|:-------------|
-|        |yes         |minecart				 |		 	|no		 	  | 28/10/19 |Juknum		|
+|        |yes         |minecart				 |		 	 |no		   | 28/10/19 |Juknum        |
 
 # O
 |**!<>!**|**Finished**|**Name**              |**Version**|**Displayed**|**Date**  |**Creator(s)**|

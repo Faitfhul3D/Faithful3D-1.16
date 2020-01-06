@@ -3,7 +3,7 @@
 |:--------------|:-------------------------------|:-----------------|:-----------------------------------------|:------------|:--------:|:-------------|
 |Warn with **@**|yes<br/>no<br/>could change : cc|Name of your model|vX.Y<br/>X : big change<br/>Y small change|On site?     | MM/DD/YY |Creators :)   |
 
-- Last update : 6th January 2020
+> Last update : 6th January 2020
 
 # A
 |**!<>!**|**Finished**|**Name**              |**Version**|**Displayed**|**Date**  |**Creator(s)**|

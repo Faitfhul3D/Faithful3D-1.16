@@ -8,44 +8,36 @@
 |**!<>!**|**Finished**|**Name**             |**Version**|**Displayed**|**Date**  |**Creator(s)**|
 |:------:|:----------:|:--------------------|:---------:|:-----------:|:--------:|:-------------|
 |        |yes         |birch_boat           |           |yes          | 28/10/19 |Juknum        |
-
-|        |yes         |birch_trapdoor				- 	|        |yes         |	-			Progical
-
-|        |yes         |bow							- 	|        |yes         |	-			Howler
-|        |yes         |bow_pulling_0				- 			not need	-			Howler
-|        |yes         |bow_pulling_1				- 			not need	-			Howler
-|        |yes         |bow_pulling_2				- 			not need	-			Howler
+|        |yes         |birch_trapdoor       |           |yes          |          |Progical      |
+|        |yes         |bow					|       	|yes          |          |Howler        |
+|        |yes         |bow_pulling_0		| 		    |not need     |          |Howler        |
+|        |yes         |bow_pulling_1		| 			|not need	  |          |Howler        |
+|        |yes         |bow_pulling_2		| 			|not need	  |          |Howler        |
 
 # C
-|**!<>!**|**Finished**|**Name**             |**Version**|**Displayed**|**Date**  |**Creator(s)**|
-|:------:|:----------:|:--------------------|:---------:|:-----------:|:--------:|:-------------|
-|        |yes         |cauldron					- 	|        |yes         |	- 			Juknum
-
-|        |yes         |chest_minecart				- 			no			28/10/19	Juknum
-
-|        |yes         |command_block_minecart		- 			no			28/10/19	Juknum
-
-|        |yes         |composter					- 			no			- 			Juknum
+|**!<>!**|**Finished**|**Name**              |**Version**|**Displayed**|**Date**  |**Creator(s)**|
+|:------:|:----------:|:---------------------|:---------:|:-----------:|:--------:|:-------------|
+|        |yes         |cauldron				 |           |yes          | 		  |Juknum 		 |
+|        |yes         |chest_minecart		 |           |no           |28/10/19  |Juknum 		 |
+|        |yes         |command_block_minecart|           |no           |28/10/19  |Juknum 		 |
+|        |yes         |composter			 |           |no           | 		  |Juknum 		 |
 
 # D
 |**!<>!**|**Finished**|**Name**             |**Version**|**Displayed**|**Date**  |**Creator(s)**|
 |:------:|:----------:|:--------------------|:---------:|:-----------:|:--------:|:-------------|
-|        |yes         |dark_oak_trapdoor			- 			no  		- 			Progical
-
-|        |yes         |dark_oak_boat				- 			no  		28/08/19	Juknum
-
-|        |yes         |diamond_axe					- 			yes 		- 			Howler
-|        |yes         |diamond_hoe					- 			yes 		- 			Howler
-|        |yes         |diamond_pickaxe				- 			yes 		- 			Howler
-|        |yes         |diamond_shovel				- 			yes 		- 			Howler
-|        |yes         |diamond_sword				- 			yes 		- 			Howler
-
-|        |yes         |dragon_breath				- 			yes 		- 			Juknum
+|        |yes         |dark_oak_trapdoor	|		 	|no  		  |			 |Progical      |
+|        |yes         |dark_oak_boat		|		 	|no  		  | 28/08/19 |Juknum        |
+|        |yes         |diamond_axe			|		 	|yes 		  | 		 |Howler        |
+|        |yes         |diamond_hoe			|		 	|yes 		  | 		 |Howler        |
+|        |yes         |diamond_pickaxe		|		 	|yes 		  | 		 |Howler        |
+|        |yes         |diamond_shovel		|		 	|yes 		  | 		 |Howler        |
+|        |yes         |diamond_sword		|		  	|yes 		  | 		 |Howler        |
+|        |yes         |dragon_breath		|		 	|yes 		  | 		 |Juknum        |
 
 # E
 |**!<>!**|**Finished**|**Name**             |**Version**|**Displayed**|**Date**  |**Creator(s)**|
 |:------:|:----------:|:--------------------|:---------:|:-----------:|:--------:|:-------------|
-|        |yes         |experience_bottle			-	|        |yes         |	-			Juknum
+|        |yes         |experience_bottle	|		 	|yes          |		     |Juknum        |
 
 # F
 **!<>!|Finished |Name                       |Version    |Displayed  |Date       |Creator(s)**

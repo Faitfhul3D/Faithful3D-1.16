@@ -4,6 +4,7 @@
 		"texture": "item/fishing_rod",
 		"particle": "item/fishing_rod"
 	},
+	"gui_light": "front",
 	"elements": [
 		{
 			"from": [13.76852, 7.32639, 7.75],

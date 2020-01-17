@@ -4,6 +4,7 @@
 	"textures": {
 		"0": "item/bow_pulling_0"
 	},
+	"gui_light": "front",
 	"elements": [
 		{
 			"from": [2.93798, 5.11822, 6.875],

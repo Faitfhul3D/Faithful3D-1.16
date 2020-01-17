@@ -4,6 +4,7 @@
 		"0": "item/iron_pickaxe",
 		"particle": "item/iron_pickaxe"
 	},
+	"gui_light": "front",
 	"elements": [
 		{
 			"from": [4.54775, 13.54775, 7.75],

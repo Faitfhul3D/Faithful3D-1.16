@@ -4,6 +4,7 @@
 		"0": "item/wooden_axe",
 		"particle": "item/wooden_axe"
 	},
+	"gui_light": "front",
 	"elements": [
 		{
 			"from": [9.45604, 14.24725, 7.75],

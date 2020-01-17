@@ -4,6 +4,7 @@
 		"texture": "item/shears",
 		"particle": "item/shears"
 	},
+	"gui_light": "front",
 	"elements": [
 		{
 			"from": [11.64706, 8.63971, 7.25],

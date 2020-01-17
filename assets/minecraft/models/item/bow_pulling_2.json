@@ -4,6 +4,7 @@
 	"textures": {
 		"1": "item/bow_pulling_2"
 	},
+	"gui_light": "front",
 	"elements": [
 		{
 			"name": "bow_pulling_2_0",

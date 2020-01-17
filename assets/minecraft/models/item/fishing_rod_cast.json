@@ -4,6 +4,7 @@
 	"textures": {
 		"texture": "item/fishing_rod_cast"
 	},
+	"gui_light": "front",
 	"elements": [
 		{
 			"from": [1.2797, 1.80693, 7.375],

@@ -4,6 +4,7 @@
 		"0": "item/stone_hoe",
 		"particle": "item/stone_hoe"
 	},
+	"gui_light": "front",
 	"elements": [
 		{
 			"from": [5.85714, 13.07692, 7.75],

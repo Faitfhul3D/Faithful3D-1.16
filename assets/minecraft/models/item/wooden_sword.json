@@ -4,6 +4,7 @@
 		"0": "item/wooden_sword",
 		"particle": "item/wooden_sword"
 	},
+	"gui_light": "front",
 	"elements": [
 		{
 			"from": [14.10135, 15.58378, 7.875],

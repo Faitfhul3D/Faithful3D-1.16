@@ -4,6 +4,7 @@
 		"0": "item/wooden_shovel",
 		"particle": "item/wooden_shovel"
 	},
+	"gui_light": "front",
 	"elements": [
 		{
 			"from": [2.83025, 3.33951, 7.21296],

@@ -4,6 +4,7 @@
 		"0": "item/golden_hoe",
 		"particle": "item/golden_hoe"
 	},
+	"gui_light": "front",
 	"elements": [
 		{
 			"from": [5.85714, 13.07692, 7.75],

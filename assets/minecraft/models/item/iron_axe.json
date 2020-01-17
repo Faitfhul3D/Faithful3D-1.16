@@ -4,6 +4,7 @@
 		"0": "item/iron_axe",
 		"particle": "item/iron_axe"
 	},
+	"gui_light": "front",
 	"elements": [
 		{
 			"from": [9.45604, 14.24725, 7.75],

@@ -4,6 +4,7 @@
 		"0": "item/stone_sword",
 		"particle": "item/stone_sword"
 	},
+	"gui_light": "front",
 	"elements": [
 		{
 			"from": [14.10135, 15.58378, 7.875],

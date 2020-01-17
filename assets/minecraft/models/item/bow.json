@@ -4,6 +4,7 @@
 		"0": "item/bow",
 		"particle": "item/bow"
 	},
+	"gui_light": "front",
 	"elements": [
 		{
 			"from": [4.39189, 8.60811, 6.875],

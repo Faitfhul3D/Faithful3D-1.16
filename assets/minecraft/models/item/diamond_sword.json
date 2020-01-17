@@ -4,6 +4,7 @@
 		"0": "item/diamond_sword",
 		"particle": "item/diamond_sword"
 	},
+	"gui_light": "front",
 	"elements": [
 		{
 			"from": [14.10135, 15.58378, 7.875],

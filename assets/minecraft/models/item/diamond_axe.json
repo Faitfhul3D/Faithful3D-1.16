@@ -1,9 +1,10 @@
 {
-	"credit": "Made in Blockbench",
+	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "item/diamond_axe",
 		"particle": "item/diamond_axe"
 	},
+	"gui_light": "front",
 	"elements": [
 		{
 			"from": [9.45604, 14.24725, 7.75],

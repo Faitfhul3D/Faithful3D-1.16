@@ -26,6 +26,7 @@
 ## C
 |**!<>!**|**Finished**|**Name**              |**Version**|**Displayed**|**Date**  |**Creator(s)**|
 |:------:|:----------:|:---------------------|:---------:|:-----------:|:--------:|:-------------|
+|        |yes         |campfire              |           |no           |31/01/20  |Juknum        |
 |        |yes         |cauldron				 |           |yes          | 		  |Juknum 		 |
 |        |yes         |chest_minecart		 |           |no           |28/10/19  |Juknum 		 |
 |        |yes         |command_block_minecart|           |no           |28/10/19  |Juknum 		 |

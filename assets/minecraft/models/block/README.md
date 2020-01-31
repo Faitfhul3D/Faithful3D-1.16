@@ -64,8 +64,8 @@
 ## F
 |**!<>!**|**Finished**|**Name**                   |**Version**|**Displayed**|**Date**  |**Creator(s)**|
 |:------:|:----------:|:--------------------------|:---------:|:-----------:|:--------:|:-------------|
-|**@**	 |cc		  |furnace                    |           |yes          |	       |Progical *&* Juknum|
-|**@**	 |cc		  |furnace_on				  |           |yes          |		   |Progical *&* Juknum|
+|**@**	 |cc		  |furnace                    |v2         |yes          |	       |Progical *&* Juknum|
+|**@**	 |cc		  |furnace_on				  |v2         |yes          |		   |Progical *&* Juknum|
 
 ## H
 |**!<>!**|**Finished**|**Name**                   |**Version**|**Displayed**|**Date**  |**Creator(s)**|

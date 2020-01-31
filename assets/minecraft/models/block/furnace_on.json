@@ -1,7 +1,7 @@
 {
 	"credit": "Made with Blockbench by Juknum",
 	"parent": "block/block",
-	"ambientocclusion": false,
+	"ambientocclusion": true,
 	"textures": {
 		"0": "block/furnace_front",
 		"2": "block/furnace_side",

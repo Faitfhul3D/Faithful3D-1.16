@@ -1,5 +1,5 @@
 {
-    "Credit": "Made by Juknum with hands",
+    "credit": "Made by Juknum with hands",
     "parent": "block/block",
     "gui_light": "front",
     "display": {

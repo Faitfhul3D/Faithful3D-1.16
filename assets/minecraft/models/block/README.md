@@ -61,11 +61,17 @@
 |        |yes         |dropper                    |v1.1       |yes          |		   |Juknum *&* Progical|
 |        |yes         |dropper_vertical			  |v1.1       |yes          |		   |Juknum *&* Progical|
 
+## E
+|**!<>!**|**Finished**|**Name**                   |**Version**|**Displayed**|**Date**  |**Creator(s)**|
+|:------:|:----------:|:--------------------------|:---------:|:-----------:|:--------:|:-------------|
+|   	 |yes		  |end_portal_frame           |v1         |no           | 01/02/20 |Juknum        |
+|   	 |yes		  |end_portal_frame_filled    |v1         |no           | 01/02/20 |Juknum        |
+
 ## F
 |**!<>!**|**Finished**|**Name**                   |**Version**|**Displayed**|**Date**  |**Creator(s)**|
 |:------:|:----------:|:--------------------------|:---------:|:-----------:|:--------:|:-------------|
-|**@**	 |cc		  |furnace                    |v2         |yes          |	       |Progical *&* Juknum|
-|**@**	 |cc		  |furnace_on				  |v2         |yes          |		   |Progical *&* Juknum|
+|    	 |yes		  |furnace                    |v2         |yes          |	       |Progical *&* Juknum|
+|    	 |yes		  |furnace_on				  |v2         |yes          |		   |Progical *&* Juknum|
 
 ## H
 |**!<>!**|**Finished**|**Name**                   |**Version**|**Displayed**|**Date**  |**Creator(s)**|

@@ -11,12 +11,12 @@
 |**!<>!**|**Finished**|**Name**              |**Version**|**Displayed**|**Date**  |**Creator(s)**|
 |:------:|:----------:|:---------------------|:---------:|:-----------:|:--------:|:-------------|
 |        |yes         |acacia_trapdoor       |           |no           |          |Progical      |
-|**@**   |yes         |acacia_boat           |           |no           |28/10/19  |Juknum        |
+|**@**   |yes         |acacia_boat           |v1.1       |no           |28/10/19  |Juknum        |
 
 ## B
 |**!<>!**|**Finished**|**Name**              |**Version**|**Displayed**|**Date**  |**Creator(s)**|
 |:------:|:----------:|:---------------------|:---------:|:-----------:|:--------:|:-------------|
-|**@**   |yes         |birch_boat            |           |yes          | 28/10/19 |Juknum        |
+|**@**   |yes         |birch_boat            |v1.1       |yes          | 28/10/19 |Juknum        |
 |        |yes         |birch_trapdoor        |           |yes          |          |Progical      |
 |        |yes         |bow					 |           |yes          |          |Howler        |
 |        |yes         |bow_pulling_0		 |           |not needed   |          |Howler        |
@@ -27,6 +27,7 @@
 |**!<>!**|**Finished**|**Name**              |**Version**|**Displayed**|**Date**  |**Creator(s)**|
 |:------:|:----------:|:---------------------|:---------:|:-----------:|:--------:|:-------------|
 |        |yes         |campfire              |v1         |no           | 31/01/20 |Juknum        |
+|        |yes         |carrot_on_a_stick     |v1         |no           | 01/02/20 |Juknum        |
 |        |yes         |cauldron				 |           |yes          | 		  |Juknum 		 |
 |        |yes         |chest_minecart		 |           |no           | 28/10/19 |Juknum 		 |
 |        |yes         |command_block_minecart|           |no           | 28/10/19 |Juknum 		 |
@@ -36,7 +37,7 @@
 |**!<>!**|**Finished**|**Name**              |**Version**|**Displayed**|**Date**  |**Creator(s)**|
 |:------:|:----------:|:---------------------|:---------:|:-----------:|:--------:|:-------------|
 |        |yes         |dark_oak_trapdoor     |		 	 |no  		   |		  |Progical      |
-|**@**   |yes         |dark_oak_boat		 |		 	 |no  		   | 28/08/19 |Juknum        |
+|**@**   |yes         |dark_oak_boat		 |v1.1       |no  		   | 28/08/19 |Juknum        |
 |        |yes         |diamond_axe			 |		 	 |yes 		   | 		  |Howler        |
 |        |yes         |diamond_hoe			 |		 	 |yes 		   | 		  |Howler        |
 |        |yes         |diamond_pickaxe		 | 		 	 |yes 		   | 		  |Howler        |
@@ -90,7 +91,7 @@
 |**!<>!**|**Finished**|**Name**              |**Version**|**Displayed**|**Date**  |**Creator(s)**|
 |:------:|:----------:|:---------------------|:---------:|:-----------:|:--------:|:-------------|
 |        |yes         |jungle_trapdoor		 |		 	 |no		   |          |Progical	     |
-|**@**   |yes         |jungle_boat			 |		 	 |no		   | 28/10/19 |Juknum	     |				
+|**@**   |yes         |jungle_boat			 |v1.1       |no		   | 28/10/19 |Juknum	     |				
 
 ## L
 |**!<>!**|**Finished**|**Name**              |**Version**|**Displayed**|**Date**  |**Creator(s)**|
@@ -106,31 +107,31 @@
 ## O
 |**!<>!**|**Finished**|**Name**              |**Version**|**Displayed**|**Date**  |**Creator(s)**|
 |:------:|:----------:|:---------------------|:---------:|:-----------:|:--------:|:-------------|
-|        |yes         |oak_trapdoor			 |		 	|not needed   |	         |Progical      |
-|**@**   |yes         |oak_boat				 |		 	|no			  | 28/10/19 |Juknum		|
+|        |yes         |oak_trapdoor			 |		 	 |not needed   |	      |Progical      |
+|**@**   |yes         |oak_boat				 |v1.1       |no		   | 28/10/19 |Juknum	     |
 
 ## P
 |**!<>!**|**Finished**|**Name**              |**Version**|**Displayed**|**Date**  |**Creator(s)**|
 |:------:|:----------:|:---------------------|:---------:|:-----------:|:--------:|:-------------|
-|        |yes         |piston				|		    |not needed	  | 26/08/19 |Juknum		|
-|        |yes         |potion				|        	|yes          |			 |Juknum		|
+|        |yes         |piston				 |		     |not needed   | 26/08/19 |Juknum		 |
+|        |yes         |potion				 |        	 |yes          |		  |Juknum	     |
 
 ## S
 |**!<>!**|**Finished**|**Name**              |**Version**|**Displayed**|**Date**  |**Creator(s)**|
 |:------:|:----------:|:---------------------|:---------:|:-----------:|:--------:|:-------------|
-|        |yes         |shears				|		 	|yes          |			 |Howler         |
-|        |yes         |shield				|		 	|no           |			 |?              |
-|        |yes         |shield_blocking   	|		 	|no           |			 |?              |
-|        |yes         |shulker_shell    	|		 	|no           |	31/01/20 |Juknum         |
-|        |yes         |splash_potion		|		 	|yes          |			 |Howler         |
-|        |yes         |spruce_boat			|		 	|yes          |	28/10/19 |Juknum	  	 |
-|        |yes         |sticky_piston		|		 	|not needed	  | 26/08/19 |Juknum	     |
-|        |yes         |stone_axe			|		 	|yes          |			 |Howler         |
-|        |yes         |stone_hoe			|		 	|yes          |			 |Howler         |
-|        |yes         |stone_pickaxe		|		 	|yes          |			 |Howler         |
-|        |yes         |stone_shovel			|		 	|yes          |			 |Howler         |
-|        |yes         |stone_sword			|		 	|yes          |			 |Howler         |
-|        |yes         |stonecutter			|		 	|yes          |			 |Juknum	 	 |
+|        |yes         |shears				 |		 	|yes          |			 |Howler         |
+|        |yes         |shield				 |		 	|no           |			 |?              |
+|        |yes         |shield_blocking   	 |		 	|no           |			 |?              |
+|        |yes         |shulker_shell    	 |		 	|no           |	31/01/20 |Juknum         |
+|        |yes         |splash_potion		 |		 	|yes          |			 |Howler         |
+|        |yes         |spruce_boat			 |v1.1      |yes          |	28/10/19 |Juknum	  	 |
+|        |yes         |sticky_piston		 |		 	|not needed	  | 26/08/19 |Juknum	     |
+|        |yes         |stone_axe			 |		 	|yes          |			 |Howler         |
+|        |yes         |stone_hoe			 |		 	|yes          |			 |Howler         |
+|        |yes         |stone_pickaxe		 |		 	|yes          |			 |Howler         |
+|        |yes         |stone_shovel			 |		 	|yes          |			 |Howler         |
+|        |yes         |stone_sword			 |		 	|yes          |			 |Howler         |
+|        |yes         |stonecutter			 |		 	|yes          |			 |Juknum	 	 |
 
 ## T
 |**!<>!**|**Finished**|**Name**              |**Version**|**Displayed**|**Date**  |**Creator(s)**|

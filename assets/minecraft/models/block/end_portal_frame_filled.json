@@ -1,5 +1,5 @@
 {
-	"credit": "Made with Blockbench by Juknum",
+	"credit": "Made with Blockbench by Juknum, idea taken from MushirMickeyJoe on Reddit",
 	"ambientocclusion": false,
 	"textures": {
 		"3": "block/end_portal_frame_eye",

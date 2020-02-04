@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "": [
+            { "model": "block/bookshelf" },
+            { "model": "block/bookshelf_90", "y": 90 },
+            { "model": "block/bookshelf", "y": 180 },
+            { "model": "block/bookshelf_90", "y": 270 }
+		]
+    }
+}

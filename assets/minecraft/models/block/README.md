@@ -38,6 +38,8 @@
 |        |yes         |bottle_1_empty			  |	          |not needed	| 25/12/19 |Nekzuris **community**|
 |        |yes         |bottle_2					  |           |yes          | 25/12/19 |Nekzuris **community**|
 |        |yes         |bottle_2_empty		      |           |yes          | 25/12/19 |Nekzuris **community**|
+|        |yes         |bookshelf    		      |           |no           | 04/02/19 |bentogamin **community** & Juknum|
+|        |yes         |bookshelf_90    		      |           |no           | 04/02/19 |bentogamin **community** & Juknum|
 |        |yes         |brewing_stand			  |           |yes          | 25/12/19 |Nekzuris **community**|
 |        |yes         |brown_mushroom			  |v2      	  |yes          |	       |Juknum|
 

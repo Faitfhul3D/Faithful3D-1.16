@@ -12,6 +12,7 @@
 |:------:|:----------:|:---------------------|:---------:|:-----------:|:--------:|:-------------|
 |        |yes         |acacia_trapdoor       |           |no           |          |Progical      |
 |**@**   |yes         |acacia_boat           |v1.1       |no           |28/10/19  |Juknum        |
+|        |yes         |armor_stand           |v1         |no           |07/02/19  |Juknum        |
 
 ## B
 |**!<>!**|**Finished**|**Name**              |**Version**|**Displayed**|**Date**  |**Creator(s)**|

@@ -130,9 +130,9 @@
 |**!<>!**|**Finished**|**Name**                   |**Version**|**Displayed**|**Date**  |**Creator(s)**|
 |:------:|:----------:|:--------------------------|:---------:|:-----------:|:--------:|:-------------|
 |        |yes         |rail                       |v2	      |yes          |	       |Juknum *&* Progical|
-|        |yes         |rail_corner		  |v2	      |not needed   |	       |Juknam *&* Progical|
-|        |yes         |rail_raised	          |v2	      |not needed   |	       |Juknum *&* Progical|
-|        |yes         |red_mushroom	          |v2	      |yes          | 20/08/19 |Juknum|
+|        |yes         |rail_corner		          |v2	      |not needed   |	       |Juknam *&* Progical|
+|        |yes         |rail_raised	              |v2	      |not needed   |	       |Juknum *&* Progical|
+|        |yes         |red_mushroom	              |v2	      |yes          | 20/08/19 |Juknum|
 |        |yes         |redstone_lamp	          |           |yes          | 25/12/19 |Bubminer **community**|
 |        |yes         |redstone_lamp_on	          |           |yes          | 25/12/19 |Bubminer **community**|
 |        |yes         |redstone_torch	          |v2         |yes          | 22/08/19 |Juknum *&* Progical|
@@ -144,6 +144,7 @@
 |**@**   |yes         |smithing_table			  |           |no			| 05/01/20 |Saarlodrie **community** *&* Juknum|
 |        |yes         |smoker                     |           |yes          | 04/11/19 |Juknum *&* Saarlodrie **community**|
 |        |yes         |smoker_on				  |           |yes          | 04/11/19 |Juknum *&* Saarlodrie **community**|
+|        |yes         |spwaner  				  |           |no           | 06/02/19 |Juknum|
 |**@**   |yes         |sugar_cane				  |		      |no			| 11/12/19 |Juknum|
 |        |yes         |sticky_piston		   	  |           |yes          | 26/08/19 |Juknum|
 |        |yes         |stonecutter				  |           |yes          |		   |Juknum|

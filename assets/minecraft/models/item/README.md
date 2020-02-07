@@ -11,6 +11,7 @@
 |**!<>!**|**Finished**|**Name**              |**Version**|**Displayed**|**Date**  |**Creator(s)**|
 |:------:|:----------:|:---------------------|:---------:|:-----------:|:--------:|:-------------|
 |        |yes         |acacia_trapdoor       |           |no           |          |Progical      |
+|        |yes         |acacia_door           |v1         |no           |07/02/19  |Juknum        |
 |**@**   |yes         |acacia_boat           |v1.1       |no           |28/10/19  |Juknum        |
 |        |yes         |armor_stand           |v1         |no           |07/02/19  |Juknum        |
 
@@ -19,6 +20,7 @@
 |:------:|:----------:|:---------------------|:---------:|:-----------:|:--------:|:-------------|
 |**@**   |yes         |birch_boat            |v1.1       |yes          | 28/10/19 |Juknum        |
 |        |yes         |birch_trapdoor        |           |yes          |          |Progical      |
+|        |yes         |birch_door           |v1         |no           |07/02/19  |Juknum        |
 |        |yes         |bow					 |           |yes          |          |Howler        |
 |        |yes         |bow_pulling_0		 |           |not needed   |          |Howler        |
 |        |yes         |bow_pulling_1		 | 	         |not needed   |          |Howler        |
@@ -38,7 +40,9 @@
 |**!<>!**|**Finished**|**Name**              |**Version**|**Displayed**|**Date**  |**Creator(s)**|
 |:------:|:----------:|:---------------------|:---------:|:-----------:|:--------:|:-------------|
 |        |yes         |dark_oak_trapdoor     |		 	 |no  		   |		  |Progical      |
+|        |yes         |dark_oak_door         |v1         |no           |07/02/19  |Juknum        |
 |**@**   |yes         |dark_oak_boat		 |v1.1       |no  		   | 28/08/19 |Juknum        |
+|        |yes         |door_display          |v1         |no           |07/02/19  |Juknum        |
 |        |yes         |diamond_axe			 |		 	 |yes 		   | 		  |Howler        |
 |        |yes         |diamond_hoe			 |		 	 |yes 		   | 		  |Howler        |
 |        |yes         |diamond_pickaxe		 | 		 	 |yes 		   | 		  |Howler        |
@@ -87,11 +91,13 @@
 |        |yes         |iron_shovel			 |		 	 |yes 		   |		  |Howler        |
 |        |yes         |iron_sword			 |		 	 |yes	 	   | 		  |Howler        |
 |        |yes         |iron_trapdoor		 |		 	 |no		   |	      |Progical      |
+|        |yes         |iron_door             |v1         |no           |07/02/19  |Juknum        |
 
 ## J
 |**!<>!**|**Finished**|**Name**              |**Version**|**Displayed**|**Date**  |**Creator(s)**|
 |:------:|:----------:|:---------------------|:---------:|:-----------:|:--------:|:-------------|
 |        |yes         |jungle_trapdoor		 |		 	 |no		   |          |Progical	     |
+|        |yes         |jungle_door           |v1         |no           |07/02/19  |Juknum        |
 |**@**   |yes         |jungle_boat			 |v1.1       |no		   | 28/10/19 |Juknum	     |				
 
 ## L
@@ -109,6 +115,7 @@
 |**!<>!**|**Finished**|**Name**              |**Version**|**Displayed**|**Date**  |**Creator(s)**|
 |:------:|:----------:|:---------------------|:---------:|:-----------:|:--------:|:-------------|
 |        |yes         |oak_trapdoor			 |		 	 |not needed   |	      |Progical      |
+|        |yes         |oak_door              |v1         |no           |07/02/19  |Juknum        |
 |**@**   |yes         |oak_boat				 |v1.1       |no		   | 28/10/19 |Juknum	     |
 
 ## P

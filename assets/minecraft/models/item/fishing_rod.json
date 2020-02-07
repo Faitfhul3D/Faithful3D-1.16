@@ -1972,6 +1972,14 @@
 			}
 		}
 	],
+	"overrides": [
+        {
+            "predicate": {
+                "cast": 1
+            },
+            "model": "item/fishing_rod_cast"
+        }
+    ],
 	"groups": [
 		{
 			"name": "fishing_rod",

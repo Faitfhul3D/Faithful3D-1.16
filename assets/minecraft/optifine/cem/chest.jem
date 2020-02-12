@@ -1,0 +1,29 @@
+{
+  "credit": "Made with Blockbench by Juknum",
+  "textureSize": [48,32],
+  "shadowSize": 0.75,
+  "models": 
+  [
+    {
+      "model": "chest_knob.jpm",
+      "part": "knob", 
+	  "attach": false,
+      "translate": [ 8, 9, -14.5],
+      "rotate": [0, 0, 0]
+    },
+    {
+      "model": "chest_base.jpm",
+      "part": "base", 
+	  "attach": false,
+      "translate": [ 15, 10, -1],
+      "rotate": [0, 0, 0]
+    },
+    {
+      "model": "chest_lid.jpm",
+      "part": "lid", 
+	  "attach": false,
+      "translate": [ 15, 0, -15],
+      "rotate": [0, 0, 0]
+    }
+  ]
+}

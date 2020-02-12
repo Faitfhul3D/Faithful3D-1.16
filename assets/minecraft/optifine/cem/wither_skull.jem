@@ -1,0 +1,15 @@
+{
+  "credit": "Made with Blockbench by Juknum",
+  "textureSize": [64,32],
+  "models": 
+  [
+    {
+      "model": "wither_skeleton_head.jpm",
+      "id": "head",
+      "part": "head", 
+      "attach": false,
+      "translate": [ 8, 0, -8],
+      "rotate": [0, 0, 0]
+    }
+  ]
+}

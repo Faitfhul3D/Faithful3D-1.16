@@ -1,4 +1,4 @@
-# How to make entity models ?
+# How to make entity models ? [OPTIFINE]
 
 - Install Optifine, (just in case)
 - Choose an entity from this list : https://github.com/sp614x/optifine/blob/master/OptiFineDoc/doc/cem_model.txt (those that are not in it will not be editable)

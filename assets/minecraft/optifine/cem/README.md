@@ -4,9 +4,9 @@
 - Choose an entity from this list : https://github.com/sp614x/optifine/blob/master/OptiFineDoc/doc/cem_model.txt \n(those that are not in it will not be editable)
 - Make a 'entity_name.jpem' like this one :
 
-```json
+```
 {
-  "texture": "skeleton",			  /* default texture (used for parts not mentioned below) */
+  "texture": "skeleton",			  // default texture (used for parts not mentioned below)
   "credit": "Made with Blockbench by Juknum",     // just what you want (can be unused)
   "textureSize": [48,32],			  // size of the default texture [width,height]
   "shadowSize": 0.75,                             // shadow of the entity
@@ -31,7 +31,7 @@
 ```
 
 Then create `skeleton_head.jpm` and `skeleton_body.jpm` with BlockBench, at the end it looks like this :
-```json
+```
 {
 	"texture": "skeleton_head",
 	"textureSize": [128, 64],

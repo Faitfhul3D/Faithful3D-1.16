@@ -15,7 +15,7 @@
     {
       "model": "skeleton_head.jpm",
       "part": "head",                             // you need to specifie this part in accordance with the list of the entity
-      "attach": true,                             // if false : replace the default model
+      "attach": true,                             **// if false : replace the default model**
       "translate": [ 8, 0, -8],
       "rotate": [0, 0, 0]
     },
@@ -54,8 +54,8 @@ Then create `skeleton_head.jpm` and `skeleton_body.jpm` with BlockBench, at the 
 			"uvWest": [0, 0, 0, 0],
 			"uvUp": [0, 0, 0, 0],
 			"uvDown": [0, 0, 0, 0]
-		}
-		// (the entire file isn't shown [this is the same])
+		},
+		... **// (the entire file isn't shown [this is the same])**
 	]
 }
 ```

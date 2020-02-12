@@ -6,7 +6,7 @@
 
 ```json
 {
-  "texture": "skeleton",			  // default texture (used for parts not mentioned below)
+  "texture": "skeleton",			  /* default texture (used for parts not mentioned below) */
   "credit": "Made with Blockbench by Juknum",     // just what you want (can be unused)
   "textureSize": [48,32],			  // size of the default texture [width,height]
   "shadowSize": 0.75,                             // shadow of the entity

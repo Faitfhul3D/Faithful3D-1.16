@@ -59,3 +59,10 @@ Then create `skeleton_head.jpm` and `skeleton_body.jpm` with BlockBench, at the 
 	]
 }
 ```
+BTW : 
+# Textures can be specified as:
+#   "texture" - (no '/' in name), look in current folder
+#   "./folder/texture" - relative to current folder
+#   "~/folder/texture" - relative to folder "assets/minecraft/optifine/"
+#   "folder/texture" - relative to folder "assets/minecraft/"
+#   "mod:folder/texture - resolves as "assets/mod/folder/texture.png"

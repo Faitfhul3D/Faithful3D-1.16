@@ -1,7 +1,7 @@
 # How to make entity models ?
 
 - Install Optifine, (just in case)
-- Choose an entity from this list : https://github.com/sp614x/optifine/blob/master/OptiFineDoc/doc/cem_model.txt \n(those that are not in it will not be editable)
+- Choose an entity from this list : https://github.com/sp614x/optifine/blob/master/OptiFineDoc/doc/cem_model.txt (those that are not in it will not be editable)
 - Make a 'entity_name.jpem' like this one :
 
 ```

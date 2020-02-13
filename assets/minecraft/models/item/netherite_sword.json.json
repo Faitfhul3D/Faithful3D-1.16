@@ -1,0 +1,7 @@
+{
+    "parent": "item/wooden_sword",
+    "textures": {
+        "layer0": "item/netherite_sword",
+		"particle": "item/netherite_sword"
+    }
+}

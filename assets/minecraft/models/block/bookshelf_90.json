@@ -1,12 +1,11 @@
 {
-	"credit": "Made with Blockbench by bentogambin, tweaked by Juknum",
+	"credit": "Made with Blockbench by Juknum",
 	"parent": "block/block",
-	"ambientocclusion": true,
 	"textures": {
 		"3": "block/bookshelf_empty",
 		"4": "block/bookshelf_3d",
-		"end": "block/oak_planks",
-		"particle": "block/oak_planks"
+		"particle": "block/oak_planks",
+		"end": "block/oak_planks"
 	},
 	"elements": [
 		{
@@ -29,7 +28,7 @@
 				"east": {"uv": [0, 6.5, 16, 7], "texture": "#end"},
 				"south": {"uv": [0, 5, 16, 5.5], "texture": "#end"},
 				"west": {"uv": [0, 0.5, 16, 1], "texture": "#end"},
-				"up": {"uv": [0, 0, 16, 16], "rotation": 90, "texture": "#end"},
+				"up": {"uv": [0, 0, 16, 16], "rotation": 180, "texture": "#end"},
 				"down": {"uv": [0, 0, 16, 16], "texture": "#end"}
 			}
 		},

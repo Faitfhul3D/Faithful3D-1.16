@@ -2,11 +2,11 @@
 
 # IMPORTANT INFORMATION
       
-- Our website : https://sites.google.com/view/faithful-3d-addon
-- Our Curse Forge : https://www.curseforge.com/minecraft/texture-packs/faithful-3d
+- Official Website : https://sites.google.com/view/faithful-3d-addon
+- Official CurseForge Page : https://www.curseforge.com/minecraft/texture-packs/faithful-3d
 - Faithful 3D is an addon for the Faithful 32x32 texture pack and requires it to work properly : https://faithful.team/
-- You may use Faithful 3D for your own resource packs, but please credit it and do not distribute it on any other site.
-- Only works on Minecraft Java Edition for 1.15.x (Previous versions may not be supported, you can download them on our Curse).
+- You may use Faithful 3D for your own resource packs, but please provide credit and do not distribute it on any other site.
+- Only works on Minecraft Java Edition for 1.15.x (Previous versions may not be supported, you can download them on our CurseForge page).
 - You can join us on our discord server: https://discordapp.com/invite/GJzgeY7 
 
 # CREATORS

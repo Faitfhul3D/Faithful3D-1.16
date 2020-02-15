@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"parent": "item/tool_display",
 	"textures": {
-		"layer0": "item/wooden_pickaxe",
-		"particle": "item/wooden_pickaxe"
+		"particle": "item/wooden_pickaxe",
+		"layer0": "item/wooden_pickaxe"
 	},
 	"elements": [
 		{
@@ -654,9 +654,10 @@
 			"to": [12, 12, 8.65],
 			"faces": {
 				"north": {"uv": [11.525, 4.475, 11.975, 4.025], "rotation": 180, "texture": "#layer0"},
-				"south": {"uv": [11.525, 4.025, 11.975, 4.475], "texture": "#layer0"},
-				"west": {"uv": [11.525, 4.025, 11.975, 4.475], "texture": "#layer0"},
-				"up": {"uv": [11.975, 4.025, 11.525, 4.475], "rotation": 180, "texture": "#layer0"}
+				"south": {"uv": [11.525, 4.475, 11.975, 4.025], "rotation": 180, "texture": "#layer0"},
+				"west": {"uv": [11.525, 4.475, 11.975, 4.025], "rotation": 180, "texture": "#layer0"},
+				"up": {"uv": [11.525, 4.475, 11.975, 4.025], "rotation": 180, "texture": "#layer0"},
+				"down": {"uv": [11.525, 4.475, 11.975, 4.025], "rotation": 180, "texture": "#layer0"}
 			}
 		},
 		{
@@ -710,13 +711,12 @@
 		},
 		{
 			"name": "pickaxe_68",
-			"from": [11.5, 11, 7.35],
-			"to": [12, 11.5, 8.65],
+			"from": [11.5, 11, 7.55],
+			"to": [12, 11.5, 8.45],
 			"faces": {
 				"north": {"uv": [11.525, 4.975, 11.975, 4.525], "rotation": 180, "texture": "#layer0"},
 				"south": {"uv": [11.525, 4.525, 11.975, 4.975], "texture": "#layer0"},
-				"west": {"uv": [11.525, 4.525, 11.975, 4.975], "texture": "#layer0"},
-				"down": {"uv": [11.525, 4.525, 11.975, 4.975], "texture": "#layer0"}
+				"west": {"uv": [11.525, 4.525, 11.975, 4.975], "texture": "#layer0"}
 			}
 		},
 		{
@@ -725,7 +725,9 @@
 			"to": [12.5, 11.5, 8.65],
 			"faces": {
 				"north": {"uv": [12.025, 4.975, 12.475, 4.525], "rotation": 180, "texture": "#layer0"},
-				"south": {"uv": [12.025, 4.525, 12.475, 4.975], "texture": "#layer0"}
+				"south": {"uv": [12.025, 4.975, 12.475, 4.525], "rotation": 180, "texture": "#layer0"},
+				"west": {"uv": [12.025, 4.975, 12.475, 4.525], "rotation": 180, "texture": "#layer0"},
+				"down": {"uv": [12.025, 4.975, 12.475, 4.525], "rotation": 180, "texture": "#layer0"}
 			}
 		},
 		{
@@ -791,12 +793,11 @@
 		},
 		{
 			"name": "pickaxe_76",
-			"from": [12, 10.5, 7.35],
-			"to": [12.5, 11, 8.65],
+			"from": [12, 10.5, 7.55],
+			"to": [12.5, 11, 8.45],
 			"faces": {
 				"north": {"uv": [12.025, 5.475, 12.475, 5.025], "rotation": 180, "texture": "#layer0"},
 				"south": {"uv": [12.025, 5.025, 12.475, 5.475], "texture": "#layer0"},
-				"west": {"uv": [12.025, 5.025, 12.475, 5.475], "texture": "#layer0"},
 				"down": {"uv": [12.025, 5.025, 12.475, 5.475], "texture": "#layer0"}
 			}
 		},
@@ -806,9 +807,10 @@
 			"to": [13, 11, 8.65],
 			"faces": {
 				"north": {"uv": [12.525, 5.475, 12.975, 5.025], "rotation": 180, "texture": "#layer0"},
-				"east": {"uv": [12.525, 5.025, 12.975, 5.475], "texture": "#layer0"},
-				"south": {"uv": [12.525, 5.025, 12.975, 5.475], "texture": "#layer0"},
-				"down": {"uv": [12.525, 5.025, 12.975, 5.475], "texture": "#layer0"}
+				"east": {"uv": [12.525, 5.475, 12.975, 5.025], "rotation": 180, "texture": "#layer0"},
+				"south": {"uv": [12.525, 5.475, 12.975, 5.025], "rotation": 180, "texture": "#layer0"},
+				"west": {"uv": [12.525, 5.475, 12.975, 5.025], "rotation": 180, "texture": "#layer0"},
+				"down": {"uv": [12.525, 5.475, 12.975, 5.025], "rotation": 180, "texture": "#layer0"}
 			}
 		},
 		{

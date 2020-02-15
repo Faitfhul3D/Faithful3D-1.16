@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"parent": "item/tool_display",
 	"textures": {
-		"layer0": "item/wooden_hoe",
-		"particle": "item/wooden_hoe"
+		"particle": "item/wooden_hoe",
+		"layer0": "item/wooden_hoe"
 	},
 	"elements": [
 		{
@@ -481,18 +481,19 @@
 			"to": [12.5, 12, 8.65],
 			"faces": {
 				"north": {"uv": [12.025, 4.475, 12.475, 4.025], "rotation": 180, "texture": "#layer0"},
-				"east": {"uv": [12.025, 4.025, 12.475, 4.475], "texture": "#layer0"},
 				"south": {"uv": [12.025, 4.025, 12.475, 4.475], "texture": "#layer0"},
 				"up": {"uv": [12.475, 4.025, 12.025, 4.475], "rotation": 180, "texture": "#layer0"}
 			}
 		},
 		{
 			"name": "hoe_46",
-			"from": [12.5, 11.5, 7.55],
-			"to": [13, 12, 8.45],
+			"from": [12.5, 11.5, 7.35],
+			"to": [13, 12, 8.65],
 			"faces": {
-				"north": {"uv": [12.525, 4.475, 12.975, 4.025], "rotation": 180, "texture": "#layer0"},
-				"south": {"uv": [12.525, 4.025, 12.975, 4.475], "texture": "#layer0"}
+				"north": {"uv": [12.525, 4.025, 12.975, 4.475], "texture": "#layer0"},
+				"east": {"uv": [12.525, 4.025, 12.975, 4.475], "texture": "#layer0"},
+				"south": {"uv": [12.525, 4.025, 12.975, 4.475], "texture": "#layer0"},
+				"up": {"uv": [12.525, 4.025, 12.975, 4.475], "texture": "#layer0"}
 			}
 		},
 		{
@@ -577,8 +578,7 @@
 			"faces": {
 				"north": {"uv": [12.525, 4.975, 12.975, 4.525], "rotation": 180, "texture": "#layer0"},
 				"east": {"uv": [12.525, 4.525, 12.975, 4.975], "texture": "#layer0"},
-				"south": {"uv": [12.525, 4.525, 12.975, 4.975], "texture": "#layer0"},
-				"up": {"uv": [12.975, 4.525, 12.525, 4.975], "rotation": 180, "texture": "#layer0"}
+				"south": {"uv": [12.525, 4.525, 12.975, 4.975], "texture": "#layer0"}
 			}
 		},
 		{

@@ -1,15 +1,12 @@
 {
-  "credit": "Made with Blockbench by Juknum",
-  "textureSize": [64,32],
-  "models": 
-  [
-    {
-      "model": "skeleton_head.jpm",
-      "id" : "head",
-      "part": "head", 
-	    "attach": false,
-      "translate": [ 8, 0, -8],
-      "rotate": [0, 0, 0]
-    }
-  ]
+	"textureSize": [64, 32],
+	"models": [
+		{
+			"model": "skeleton_head",
+			"part": "head",
+			"id": "head",
+			"attach": "false",
+			"translate": [8, 0, -8]
+		}
+	]
 }

@@ -1,0 +1,12 @@
+{
+	"textureSize": [64, 32],
+	"models": [
+		{
+			"model": "skeleton_head",
+			"part": "head",
+			"id": "head",
+			"attach": "false",
+			"translate": [8, 0, -8]
+		}
+	]
+}

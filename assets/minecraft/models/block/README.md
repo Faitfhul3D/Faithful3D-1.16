@@ -50,6 +50,7 @@
 |        |yes         |cartography_table		  |           |yes          |		   |Progical|
 |        |yes         |carved_pumpkin			  |v2         |yes          |		   |Progical *&* Juknum|
 |        |yes         |composter				  |v1.1       |yes          |		   |Juknum|
+|        |yes         |cocoa_beans				  |v1       |yes          |		   |Progical|
 
 ## D
 |**!<>!**|**Finished**|**Name**                   |**Version**|**Displayed**|**Date**  |**Creator(s)**|

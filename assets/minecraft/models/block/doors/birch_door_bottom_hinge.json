@@ -2,8 +2,8 @@
 	"credit": "Designed by Progical",
 	"parent": "block/door_bottom",
 	"textures": {
-		"texture": "block/birch_door_bottom",
 		"particle": "block/birch_door_bottom",
+		"texture": "block/birch_door_bottom",
 		"texture1": "block/birch_door_special"
 	},
 	"elements": [
@@ -11,9 +11,9 @@
 			"from": [0, 0, 0],
 			"to": [3, 12, 16],
 			"faces": {
-				"north": {"uv": [0, 4.75, 6, 3.25], "rotation": 270, "texture": "#texture1", "cullface": "south"},
+				"north": {"uv": [0, 4.75, 6, 3.25], "rotation": 270, "texture": "#texture1", "cullface": "north"},
 				"east": {"uv": [0, 4, 16, 16], "texture": "#texture"},
-				"south": {"uv": [0, 8, 6, 6.5], "rotation": 270, "texture": "#texture1", "cullface": "north"},
+				"south": {"uv": [0, 8, 6, 6.5], "rotation": 270, "texture": "#texture1", "cullface": "south"},
 				"west": {"uv": [16, 4, 0, 16], "texture": "#texture", "cullface": "west"},
 				"up": {"uv": [8, 8.5, 0, 10], "rotation": 90, "texture": "#texture1"},
 				"down": {"uv": [8, 13.25, 0, 14.75], "rotation": 270, "texture": "#texture1", "cullface": "down"}
@@ -25,7 +25,7 @@
 			"faces": {
 				"north": {"uv": [10, 8, 8.5, 10], "texture": "#texture1"},
 				"east": {"uv": [0, 0, 3, 4], "texture": "#texture"},
-				"south": {"uv": [6, 8, 8, 6.5], "rotation": 270, "texture": "#texture1", "cullface": "north"},
+				"south": {"uv": [6, 8, 8, 6.5], "rotation": 270, "texture": "#texture1", "cullface": "south"},
 				"west": {"uv": [3, 0, 0, 4], "texture": "#texture", "cullface": "west"},
 				"up": {"uv": [1.5, 13.25, 0, 14.75], "rotation": 90, "texture": "#texture1", "cullface": "up"}
 			}
@@ -34,7 +34,7 @@
 			"from": [0, 12, 0],
 			"to": [3, 16, 3],
 			"faces": {
-				"north": {"uv": [6, 4.75, 8, 3.25], "rotation": 270, "texture": "#texture1", "cullface": "south"},
+				"north": {"uv": [6, 4.75, 8, 3.25], "rotation": 270, "texture": "#texture1", "cullface": "north"},
 				"east": {"uv": [13, 0, 16, 4], "texture": "#texture"},
 				"south": {"uv": [12, 8, 10.5, 10], "texture": "#texture1"},
 				"west": {"uv": [16, 0, 13, 4], "texture": "#texture", "cullface": "west"},

@@ -2,7 +2,8 @@
 	"credit": "Designed by Progical",
 	"ambientocclusion": false,
 	"textures": {
-		"1": "block/cocoa_stage2"
+		"1": "block/cocoa_stage2",
+		"particle": "block/cocoa_stage2"
 	},
 	"elements": [
 		{

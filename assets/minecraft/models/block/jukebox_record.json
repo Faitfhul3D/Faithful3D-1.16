@@ -4,7 +4,7 @@
 	"ambientocclusion": false,
 	"textures": {
 		"2": "block/jukebox_inside",
-		"3": "item/disc",
+		"3": "block/disc",
 		"texture": "block/jukebox_top",
 		"particle": "block/jukebox_side"
 	},

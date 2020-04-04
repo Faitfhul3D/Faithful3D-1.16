@@ -1,0 +1,102 @@
+{
+	"credit": "Made with Blockbench by Juknum",
+	"ambientocclusion": false,
+	"textures": {
+		"0": "block/potatoes_stage3",
+		"particle": "block/potatoes_stage3"
+	},
+	"elements": [
+		{
+			"name": "Stem1",
+			"from": [8, 0, 1.5],
+			"to": [8, 16, 14.5],
+			"rotation": {"angle": 45, "axis": "y", "origin": [8, 8, 8]},
+			"faces": {
+				"east": {"uv": [3, 0, 16, 16], "texture": "#0"},
+				"west": {"uv": [3, 0, 16, 16], "texture": "#0"}
+			}
+		},
+		{
+			"name": "Stem2",
+			"from": [8, 0, 1.5],
+			"to": [8, 16, 14.5],
+			"rotation": {"angle": -45, "axis": "y", "origin": [8, 8, 8]},
+			"faces": {
+				"east": {"uv": [3, 0, 16, 16], "texture": "#0"},
+				"west": {"uv": [3, 0, 16, 16], "texture": "#0"}
+			}
+		},
+		{
+			"name": "PotatoLarge",
+			"from": [6.5, -1.5, 6.5],
+			"to": [9.5, 1, 9.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 3, 2.5], "texture": "#0"},
+				"east": {"uv": [0, 0, 3, 2.5], "texture": "#0"},
+				"south": {"uv": [0, 0, 3, 2.5], "texture": "#0"},
+				"west": {"uv": [0, 0, 3, 2.5], "texture": "#0"},
+				"up": {"uv": [0, 2, 3, 5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "PotatoSmall1",
+			"from": [5, -1.5, 9],
+			"to": [7, 0, 11],
+			"rotation": {"angle": -45, "axis": "y", "origin": [6, -0.5, 10]},
+			"faces": {
+				"north": {"uv": [0, 5, 2, 6.5], "texture": "#0"},
+				"east": {"uv": [0, 5, 2, 6.5], "texture": "#0"},
+				"south": {"uv": [0, 5, 2, 6.5], "texture": "#0"},
+				"west": {"uv": [0, 5, 2, 6.5], "texture": "#0"},
+				"up": {"uv": [0, 6, 2, 8], "texture": "#0"}
+			}
+		},
+		{
+			"name": "PotatoSmall2",
+			"from": [10, -1.5, 9.5],
+			"to": [12, 0, 11.5],
+			"rotation": {"angle": 22.5, "axis": "y", "origin": [11, -0.5, 10.5]},
+			"faces": {
+				"north": {"uv": [0, 5, 2, 6.5], "texture": "#0"},
+				"east": {"uv": [0, 5, 2, 6.5], "texture": "#0"},
+				"south": {"uv": [0, 5, 2, 6.5], "texture": "#0"},
+				"west": {"uv": [0, 5, 2, 6.5], "texture": "#0"},
+				"up": {"uv": [0, 6, 2, 8], "texture": "#0"}
+			}
+		},
+		{
+			"name": "PotatoSmall3",
+			"from": [9, -1.5, 4.5],
+			"to": [11, 0, 6.5],
+			"rotation": {"angle": -22.5, "axis": "y", "origin": [10, -0.5, 5.5]},
+			"faces": {
+				"north": {"uv": [0, 5, 2, 6.5], "texture": "#0"},
+				"east": {"uv": [0, 5, 2, 6.5], "texture": "#0"},
+				"south": {"uv": [0, 5, 2, 6.5], "texture": "#0"},
+				"west": {"uv": [0, 5, 2, 6.5], "texture": "#0"},
+				"up": {"uv": [0, 6, 2, 8], "texture": "#0"}
+			}
+		},
+		{
+			"name": "PotatoSmall4",
+			"from": [4, -1.5, 4],
+			"to": [6, 0, 6],
+			"rotation": {"angle": 22.5, "axis": "y", "origin": [5, -0.5, 5]},
+			"faces": {
+				"north": {"uv": [0, 5, 2, 6.5], "texture": "#0"},
+				"east": {"uv": [0, 5, 2, 6.5], "texture": "#0"},
+				"south": {"uv": [0, 5, 2, 6.5], "texture": "#0"},
+				"west": {"uv": [0, 5, 2, 6.5], "texture": "#0"},
+				"up": {"uv": [0, 6, 2, 8], "texture": "#0"}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "Potato1",
+			"origin": [8, 8, 8],
+			"children": [0, 1, 2, 3, 4, 5, 6]
+		}
+	]
+}

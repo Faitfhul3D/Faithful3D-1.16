@@ -1,0 +1,50 @@
+{
+	"credit": "Made with Blockbench by Juknum",
+	"ambientocclusion": false,
+	"textures": {
+		"0": "block/potatoes_stage1",
+		"particle": "block/potatoes_stage1"
+	},
+	"elements": [
+		{
+			"name": "Stem1",
+			"from": [8, -1, 1.5],
+			"to": [8, 15, 14.5],
+			"rotation": {"angle": 45, "axis": "y", "origin": [8, 7, 8]},
+			"faces": {
+				"east": {"uv": [3, 0, 16, 16], "texture": "#0"},
+				"west": {"uv": [3, 0, 16, 16], "texture": "#0"}
+			}
+		},
+		{
+			"name": "Stem2",
+			"from": [8, -1, 1.5],
+			"to": [8, 15, 14.5],
+			"rotation": {"angle": -45, "axis": "y", "origin": [8, 7, 8]},
+			"faces": {
+				"east": {"uv": [3, 0, 16, 16], "texture": "#0"},
+				"west": {"uv": [3, 0, 16, 16], "texture": "#0"}
+			}
+		},
+		{
+			"name": "PotatoLarge",
+			"from": [7, -0.99, 7],
+			"to": [9, -0.49, 9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 2, 0.5], "texture": "#0"},
+				"east": {"uv": [0, 0, 2, 0.5], "texture": "#0"},
+				"south": {"uv": [0, 0, 2, 0.5], "texture": "#0"},
+				"west": {"uv": [0, 0, 2, 0.5], "texture": "#0"},
+				"up": {"uv": [0, 0, 2, 2], "texture": "#0"}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "Potato1",
+			"origin": [8, 8, 8],
+			"children": [0, 1, 2]
+		}
+	]
+}

@@ -1,0 +1,37 @@
+{
+	"credit": "Made with Blockbench",
+	"ambientocclusion": false,
+	"textures": {
+		"0": "block/potatoes_stage0",
+		"particle": "block/potatoes_stage0"
+	},
+	"elements": [
+		{
+			"name": "Stem1",
+			"from": [8, -1, 1.5],
+			"to": [8, 15, 14.5],
+			"rotation": {"angle": 45, "axis": "y", "origin": [8, 7, 8]},
+			"faces": {
+				"east": {"uv": [3, 0, 16, 16], "texture": "#0"},
+				"west": {"uv": [3, 0, 16, 16], "texture": "#0"}
+			}
+		},
+		{
+			"name": "Stem2",
+			"from": [1.5, -1, 8],
+			"to": [14.5, 15, 8],
+			"rotation": {"angle": 45, "axis": "y", "origin": [8, 7, 8]},
+			"faces": {
+				"north": {"uv": [3, 0, 16, 16], "texture": "#0"},
+				"south": {"uv": [3, 0, 16, 16], "texture": "#0"}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "Potato1",
+			"origin": [8, 8, 8],
+			"children": [0, 1]
+		}
+	]
+}

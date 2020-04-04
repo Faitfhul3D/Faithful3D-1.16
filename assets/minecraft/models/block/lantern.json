@@ -1,23 +1,11 @@
 {
-	"credit": "Designed by Progical",
+	"credit": "Made with Blockbench by Juknum",
 	"parent": "block/block",
 	"textures": {
-		"all": "block/lantern",
-		"particle": "block/lantern"
+		"particle": "block/lantern",
+		"all": "block/lantern"
 	},
 	"elements": [
-		{
-			"from": [5, 0, 5],
-			"to": [11, 7, 11],
-			"faces": {
-				"north": {"uv": [0, 2, 6, 9], "texture": "#all"},
-				"east": {"uv": [0, 2, 6, 9], "texture": "#all"},
-				"south": {"uv": [0, 2, 6, 9], "texture": "#all"},
-				"west": {"uv": [0, 2, 6, 9], "texture": "#all"},
-				"up": {"uv": [0, 9, 6, 15], "texture": "#all"},
-				"down": {"uv": [0, 9, 6, 15], "texture": "#all", "cullface": "down"}
-			}
-		},
 		{
 			"from": [6, 7, 6],
 			"to": [10, 9, 10],
@@ -120,18 +108,101 @@
 				"west": {"uv": [11.5, 10, 13.5, 10.5], "texture": "#all"},
 				"up": {"uv": [11.5, 10, 13.5, 10.5], "rotation": 90, "texture": "#all"}
 			}
+		},
+		{
+			"from": [5.5, 1, 5.5],
+			"to": [10.5, 6, 10.5],
+			"faces": {
+				"north": {"uv": [0.5, 3, 5.5, 8], "texture": "#all"},
+				"east": {"uv": [0.5, 3, 5.5, 8], "texture": "#all"},
+				"south": {"uv": [0.5, 3, 5.5, 8], "texture": "#all"},
+				"west": {"uv": [0.5, 3, 5.5, 8], "texture": "#all"},
+				"up": {"uv": [0, 0, 0, 0], "texture": "#all"},
+				"down": {"uv": [0, 0, 0, 0], "texture": "#all"}
+			}
+		},
+		{
+			"from": [5, 1, 10.5],
+			"to": [5.5, 6, 11],
+			"faces": {
+				"north": {"uv": [5.5, 3, 6, 8], "texture": "#all"},
+				"east": {"uv": [5.5, 3, 6, 8], "texture": "#all"},
+				"south": {"uv": [0, 3, 0.5, 8], "texture": "#all"},
+				"west": {"uv": [0, 3, 0.5, 8], "texture": "#all"},
+				"up": {"uv": [0, 0, 0, 0], "texture": "#all"},
+				"down": {"uv": [0, 0, 0, 0], "texture": "#all"}
+			}
+		},
+		{
+			"from": [10.5, 1, 5],
+			"to": [11, 6, 5.5],
+			"faces": {
+				"north": {"uv": [5.5, 3, 6, 8], "texture": "#all"},
+				"east": {"uv": [5.5, 3, 6, 8], "texture": "#all"},
+				"south": {"uv": [0, 3, 0.5, 8], "texture": "#all"},
+				"west": {"uv": [0, 3, 0.5, 8], "texture": "#all"},
+				"up": {"uv": [0, 0, 0, 0], "texture": "#all"},
+				"down": {"uv": [0, 0, 0, 0], "texture": "#all"}
+			}
+		},
+		{
+			"from": [10.5, 1, 10.5],
+			"to": [11, 6, 11],
+			"faces": {
+				"north": {"uv": [5.5, 3, 6, 8], "texture": "#all"},
+				"east": {"uv": [5.5, 3, 6, 8], "texture": "#all"},
+				"south": {"uv": [0, 3, 0.5, 8], "texture": "#all"},
+				"west": {"uv": [0, 3, 0.5, 8], "texture": "#all"},
+				"up": {"uv": [0, 0, 0, 0], "texture": "#all"},
+				"down": {"uv": [0, 0, 0, 0], "texture": "#all"}
+			}
+		},
+		{
+			"from": [5, 1, 5],
+			"to": [5.5, 6, 5.5],
+			"faces": {
+				"north": {"uv": [5.5, 3, 6, 8], "texture": "#all"},
+				"east": {"uv": [5.5, 3, 6, 8], "texture": "#all"},
+				"south": {"uv": [0, 3, 0.5, 8], "texture": "#all"},
+				"west": {"uv": [0, 3, 0.5, 8], "texture": "#all"},
+				"up": {"uv": [0, 0, 0, 0], "texture": "#all"},
+				"down": {"uv": [0, 0, 0, 0], "texture": "#all"}
+			}
+		},
+		{
+			"from": [5, 6, 5],
+			"to": [11, 7, 11],
+			"faces": {
+				"north": {"uv": [0, 2, 6, 3], "texture": "#all"},
+				"east": {"uv": [0, 2, 6, 3], "texture": "#all"},
+				"south": {"uv": [0, 2, 6, 3], "texture": "#all"},
+				"west": {"uv": [0, 2, 6, 3], "texture": "#all"},
+				"up": {"uv": [0, 9, 6, 15], "texture": "#all"},
+				"down": {"uv": [0, 9, 6, 15], "texture": "#all"}
+			}
+		},
+		{
+			"from": [5, 0, 5],
+			"to": [11, 1, 11],
+			"faces": {
+				"north": {"uv": [0, 8, 6, 9], "texture": "#all"},
+				"east": {"uv": [0, 8, 6, 9], "texture": "#all"},
+				"south": {"uv": [0, 8, 6, 9], "texture": "#all"},
+				"west": {"uv": [0, 8, 6, 9], "texture": "#all"},
+				"up": {"uv": [0, 9, 6, 15], "texture": "#all"},
+				"down": {"uv": [0, 9, 6, 15], "texture": "#all"}
+			}
 		}
 	],
-	"groups": [0, 1,
+	"groups": [0,
 		{
 			"name": "group",
 			"origin": [8, 8, 8],
-			"children": [2, 3, 4, 5]
+			"children": [1, 2, 3, 4]
 		},
 		{
 			"name": "group",
 			"origin": [8, 8, 8],
-			"children": [6, 7, 8, 9]
-		}
-	]
+			"children": [5, 6, 7, 8]
+		}, 9, 10, 11, 12, 13, 14, 15]
 }

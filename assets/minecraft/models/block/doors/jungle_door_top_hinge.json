@@ -1,11 +1,11 @@
 {
-	"credit": "Designed by Progical",
+	"credit": "Made with Blockbench by Howler",
 	"parent": "block/door_bottom",
 	"ambientocclusion": false,
 	"textures": {
 		"1": "block/jungle_door_special",
-		"texture": "block/jungle_door_top",
-		"particle": "block/jungle_door_top"
+		"particle": "block/jungle_door_top",
+		"texture": "block/jungle_door_top"
 	},
 	"elements": [
 		{
@@ -93,8 +93,8 @@
 			}
 		},
 		{
-			"from": [-0.5, 10.5, 15.5],
-			"to": [0.5, 11.5, 16.5],
+			"from": [-0.25, 10.5, 15.5],
+			"to": [0.5, 11.5, 16.25],
 			"faces": {
 				"north": {"uv": [0, 4.5, 0.5, 5.5], "texture": "#texture"},
 				"east": {"uv": [0, 4.5, 0.5, 5.5], "texture": "#texture"},
@@ -106,7 +106,7 @@
 		},
 		{
 			"from": [2.5, 10.5, 15.5],
-			"to": [3.5, 11.5, 16.5],
+			"to": [3.25, 11.5, 16.25],
 			"faces": {
 				"north": {"uv": [0, 4.5, 0.5, 5.5], "texture": "#texture"},
 				"east": {"uv": [0, 4.5, 0.5, 5.5], "texture": "#texture"},

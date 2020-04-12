@@ -373,7 +373,7 @@
 		},
 		{
 			"name": "spruce_door_bottom_12",
-			"from": [-0.175, 5, 0.5],
+			"from": [-0.125, 5, 0.5],
 			"to": [0, 5.5, 3.5],
 			"rotation": {"angle": 0, "axis": "y", "origin": [-9, 8, 8]},
 			"faces": {
@@ -385,7 +385,7 @@
 		},
 		{
 			"name": "spruce_door_bottom_13",
-			"from": [-0.175, 5, 4],
+			"from": [-0.125, 5, 4],
 			"to": [0, 5.5, 6.5],
 			"rotation": {"angle": 0, "axis": "y", "origin": [-9, 8, 8]},
 			"faces": {
@@ -398,7 +398,7 @@
 		},
 		{
 			"name": "spruce_door_bottom_14",
-			"from": [-0.175, 5, 7],
+			"from": [-0.125, 5, 7],
 			"to": [0, 5.5, 9.5],
 			"rotation": {"angle": 0, "axis": "y", "origin": [-9, 8, 8]},
 			"faces": {
@@ -411,7 +411,7 @@
 		},
 		{
 			"name": "spruce_door_bottom_15",
-			"from": [-0.175, 5, 10],
+			"from": [-0.125, 5, 10],
 			"to": [0, 5.5, 12.5],
 			"rotation": {"angle": 0, "axis": "y", "origin": [-9, 8, 8]},
 			"faces": {
@@ -424,7 +424,7 @@
 		},
 		{
 			"name": "spruce_door_bottom_16",
-			"from": [-0.175, 5, 13],
+			"from": [-0.125, 5, 13],
 			"to": [0, 5.5, 15.5],
 			"rotation": {"angle": 0, "axis": "y", "origin": [-9, 8, 8]},
 			"faces": {
@@ -438,7 +438,7 @@
 		{
 			"name": "spruce_door_bottom_13",
 			"from": [3, 5, 0.5],
-			"to": [3.175, 5.5, 3.5],
+			"to": [3.125, 5.5, 3.5],
 			"rotation": {"angle": 0, "axis": "y", "origin": [-5.5, 8, 8]},
 			"faces": {
 				"east": {"uv": [0.5, 11, 3.5, 10.5], "rotation": 180, "texture": "#texture"},
@@ -450,7 +450,7 @@
 		{
 			"name": "spruce_door_bottom_14",
 			"from": [3, 5, 4],
-			"to": [3.175, 5.5, 6.5],
+			"to": [3.125, 5.5, 6.5],
 			"rotation": {"angle": 0, "axis": "y", "origin": [-5.5, 8, 8]},
 			"faces": {
 				"north": {"uv": [4, 10.5, 4.5, 11], "texture": "#texture"},
@@ -463,7 +463,7 @@
 		{
 			"name": "spruce_door_bottom_15",
 			"from": [3, 5, 7],
-			"to": [3.175, 5.5, 9.5],
+			"to": [3.125, 5.5, 9.5],
 			"rotation": {"angle": 0, "axis": "y", "origin": [-5.5, 8, 8]},
 			"faces": {
 				"north": {"uv": [7, 10.5, 7.5, 11], "texture": "#texture"},
@@ -476,7 +476,7 @@
 		{
 			"name": "spruce_door_bottom_16",
 			"from": [3, 5, 10],
-			"to": [3.175, 5.5, 12.5],
+			"to": [3.125, 5.5, 12.5],
 			"rotation": {"angle": 0, "axis": "y", "origin": [-5.5, 8, 8]},
 			"faces": {
 				"north": {"uv": [10, 10.5, 10.5, 11], "texture": "#texture"},
@@ -489,7 +489,7 @@
 		{
 			"name": "spruce_door_bottom_17",
 			"from": [3, 5, 13],
-			"to": [3.175, 5.5, 15.5],
+			"to": [3.125, 5.5, 15.5],
 			"rotation": {"angle": 0, "axis": "y", "origin": [-5.5, 8, 8]},
 			"faces": {
 				"north": {"uv": [13, 10.5, 13.5, 11], "texture": "#texture"},
@@ -501,7 +501,7 @@
 		},
 		{
 			"from": [0.5, 5, 16],
-			"to": [2.5, 5.5, 16.175],
+			"to": [2.5, 5.5, 16.125],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8.5, 13, 23.5]},
 			"faces": {
 				"east": {"uv": [15, 10.5, 15.5, 11], "texture": "#texture", "cullface": "south"},

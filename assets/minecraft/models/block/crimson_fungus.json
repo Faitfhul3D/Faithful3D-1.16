@@ -1,10 +1,10 @@
 {
 	"credit": "Made with Blockbench by Juknum",
 	"textures": {
-		"0": "block/crimson_fungi",
+		"0": "block/crimson_fungus",
 		"1": "block/crimson_fungi_bottom",
 		"2": "block/crimson_fungi_top",
-		"particle": "block/crimson_fungi"
+		"particle": "block/crimson_fungus"
 	},
 	"elements": [
 		{

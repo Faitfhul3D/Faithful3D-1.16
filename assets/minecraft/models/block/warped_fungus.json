@@ -1,10 +1,10 @@
 {
 	"credit": "Made with Blockbench by Juknum",
 	"textures": {
-		"0": "block/warped_fungi",
+		"0": "block/warped_fungus",
 		"1": "block/warped_fungi_top",
 		"2": "block/warped_fungi_bottom",
-		"particle": "block/warped_fungi"
+		"particle": "block/warped_fungus"
 	},
 	"elements": [
 		{

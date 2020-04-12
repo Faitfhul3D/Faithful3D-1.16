@@ -3,7 +3,7 @@
 	"parent": "block/farmland/farmland",
 	"textures": {
 		"0": "block/farmland/farmland_moist_7",
-		"1": "block/farmland/farmland_moist_side_7",
+		"1": "block/farmland_moist_side",
 		"2": "block/dirt",
 		"particle": "block/dirt"
 	}

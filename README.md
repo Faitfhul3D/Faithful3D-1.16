@@ -47,3 +47,26 @@
 - Juknum: https://twitter.com/Juknum_
 - Howler: https://twitter.com/UnlikeHowler
 - Progical
+
+## :de: Deutsch
+
+### Offizielle Links:
+
+- :uk: Internetseite: https://www.faithful3d.team/
+- :uk: CurseForge: https://www.curseforge.com/minecraft/texture-packs/faithful-3d
+- :uk: Faithful x32: https://faithful.team/
+- :uk: Addons Discord: https://discordapp.com/invite/GJzgeY7
+
+
+### Verwendung:
+
+:heavy_check_mark: Sie dürfen Faithful 3D für Ihre eigenen Ressourcenpakete benutzen, **wenn Sie uns als Quelle angeben**.  
+:heavy_check_mark: Funktioniert nur mit Minecraft Java Edition.  
+:heavy_check_mark: Benötigt Faithful x32.  
+:no_entry: Nicht auf anderen Seiten weiterverbreiten.  
+
+### Autoren:
+
+- Juknum: https://twitter.com/Juknum_
+- Howler: https://twitter.com/UnlikeHowler
+- Progical

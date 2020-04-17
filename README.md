@@ -1,4 +1,4 @@
-# Informations:
+# Information:
 
 ###### tags: `resource_pack` `faitfhul 3D` `faithful` 
 

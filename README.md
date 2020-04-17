@@ -14,10 +14,10 @@
 
 ### Rights Uses:
 
-:heavy_check_mark: You may use Faithful 3D for your own resource packs, **but please provide credit**.
-:heavy_check_mark: Only works on Minecraft Java Edition.
-:heavy_check_mark: Require Faithful x32 to work.
-:no_entry: Do not distribute it on any other site.
+:heavy_check_mark: You may use Faithful 3D for your own resource packs, **but please provide credit**.  
+:heavy_check_mark: Only works on Minecraft Java Edition.  
+:heavy_check_mark: Require Faithful x32 to work.  
+:no_entry: Do not distribute it on any other site.  
 
 ### Authors:
 
@@ -37,10 +37,10 @@
 
 ### Utilisations :
 
-:heavy_check_mark: Vous pouvez utiliser le Faithful 3D pour vos propres pack de resource, **mais pensez à nous créditer**.
-:heavy_check_mark: Fonctionne uniquement sur Minecraft Java Edition.
-:heavy_check_mark: Requiert le Faithful x32 pour fonctionner.
-:no_entry: Ne le distribuez sur aucun autre site.
+:heavy_check_mark: Vous pouvez utiliser le Faithful 3D pour vos propres pack de resource, **mais pensez à nous créditer**.  
+:heavy_check_mark: Fonctionne uniquement sur Minecraft Java Edition.  
+:heavy_check_mark: Requiert le Faithful x32 pour fonctionner.  
+:no_entry: Ne le distribuez sur aucun autre site.  
 
 ### Auteurs:
 

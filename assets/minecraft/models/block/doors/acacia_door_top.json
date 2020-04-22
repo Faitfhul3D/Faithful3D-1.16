@@ -2,6 +2,7 @@
 	"credit": "Made with Blockbench by Howler",
 	"parent": "block/door_bottom",
 	"textures": {
+		"particle": "block/acacia_door_top",
 		"texture": "block/acacia_door_top",
 		"texture1": "block/acacia_door_special"
 	},

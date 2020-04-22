@@ -1,6 +1,6 @@
 # Information:
 
-###### tags: `resource_pack` `faitfhul 3D` `faithful` 
+###### tags: `resource_pack` `faitfhul 3D` `faithful` `1.16`  
 
 ## :us: English
 

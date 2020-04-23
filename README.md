@@ -1,9 +1,5 @@
 # **Information:**
 
-![screenshot 1](https://www.faithful3d.team/image/release/release_1_14.jpg "")
-
-![screenshot 1](https://www.faithful3d.team/image/home/caroussel_3.gif "")
-
 ### **Officials links:**!
 
 

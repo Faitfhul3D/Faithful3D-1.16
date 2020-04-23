@@ -1,71 +1,35 @@
 # Information:
 
-###### `resource_pack` `faitfhul 3D` `faithful` `1.16` `1.15` `1.14`  
-
-## :us: English
-
-### Officials links:
-
 - Website: https://www.faithful3d.team/
 - CurseForge: https://www.curseforge.com/minecraft/texture-packs/faithful-3d
 - Faithful x32: https://faithful.team/
 - Addons Discord: https://discordapp.com/invite/GJzgeY7
 
-
+## English :uk:
 ### Rights Uses:
 
-:heavy_check_mark: You may use Faithful 3D for your own resource packs, **but please provide credit**.  
-:heavy_check_mark: Only works on Minecraft Java Edition.  
-:heavy_check_mark: Require Faithful x32 to work.  
-:no_entry: Do not distribute it on any other site.  
+- You may use Faithful 3D for your own resource packs, **but please providecredit**.  
+- Only works on Minecraft Java Edition.  
+- Require Faithful x32 to work.  
+- Do not distribute it on any other site.  
 
-### Authors:
-
-- Juknum: https://twitter.com/Juknum_
-- Howler: https://twitter.com/UnlikeHowler
-- Progical
-
-## :fr: Français
-
-### Liens Officiels : 
-
-- :uk: Site web : https://www.faithful3d.team/
-- :uk: CurseForge: https://www.curseforge.com/minecraft/texture-packs/faithful-3d
-- :uk: Faithful x32: https://faithful.team/
-- :uk: Addons Discord: https://discordapp.com/invite/GJzgeY7
-
-
+## Français :fr:
 ### Utilisations :
 
-:heavy_check_mark: Vous pouvez utiliser le Faithful 3D pour vos propres pack de resource, **mais pensez à nous créditer**.  
-:heavy_check_mark: Fonctionne uniquement sur Minecraft Java Edition.  
-:heavy_check_mark: Requiert le Faithful x32 pour fonctionner.  
-:no_entry: Ne le distribuez sur aucun autre site.  
+- Vous pouvez utiliser le Faithful 3D pour vos propres pack de resource, **mais pensez à nous créditer**.  
+- Fonctionne uniquement sur Minecraft Java Edition.  
+- Requiert le Faithful x32 pour fonctionner.  
+- Ne le distribuez sur aucun autre site.  
 
-### Auteurs:
-
-- Juknum: https://twitter.com/Juknum_
-- Howler: https://twitter.com/UnlikeHowler
-- Progical
-
-## :de: Deutsch
-
-### Offizielle Links:
-
-- :uk: Internetseite: https://www.faithful3d.team/
-- :uk: CurseForge: https://www.curseforge.com/minecraft/texture-packs/faithful-3d
-- :uk: Faithful x32: https://faithful.team/
-- :uk: Addons Discord: https://discordapp.com/invite/GJzgeY7
-
-
+## Deutsch :de:
 ### Verwendung:
 
-:heavy_check_mark: Sie dürfen Faithful 3D für Ihre eigenen Ressourcenpakete benutzen, **wenn Sie uns als Quelle angeben**.  
-:heavy_check_mark: Funktioniert nur mit Minecraft Java Edition.  
-:heavy_check_mark: Benötigt Faithful x32.  
-:no_entry: Nicht auf anderen Seiten weiterverbreiten.  
+- Sie dürfen Faithful 3D für Ihre eigenen Ressourcenpakete benutzen, **wenn Sie uns als Quelle angeben**.  
+- Funktioniert nur mit Minecraft Java Edition.  
+- Benötigt Faithful x32.  
+- Nicht auf anderen Seiten weiterverbreiten.  
 
-### Autoren:
+### Authors / Auteurs / Autoren:
 
 - Juknum: https://twitter.com/Juknum_
 - Howler: https://twitter.com/UnlikeHowler

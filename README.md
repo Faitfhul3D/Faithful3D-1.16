@@ -1,15 +1,27 @@
-# Information:
-### Officials links:
+# **Information:**
+
+![screenshot 1](https://media.forgecdn.net/attachments/288/152/release_1_14.jpg "")
+
+![screenshot 1](https://media.forgecdn.net/attachments/288/147/caroussel_3.gif "")
+
+### **Officials links:**!
+
 
 - Website: https://www.faithful3d.team/
 - CurseForge: https://www.curseforge.com/minecraft/texture-packs/faithful-3d
 - Faithful x32: https://faithful.team/
 - Addons Discord: https://discordapp.com/invite/GJzgeY7
 
+### **Authors / Auteurs / Autoren:**
+
+- Juknum: https://twitter.com/Juknum_
+- Howler: https://twitter.com/UnlikeHowler
+- Progical: N/A
+
 ----------
 
-## English
-### Rights Uses:
+## **English**
+### **Rights Uses:**
 
 - You may use Faithful 3D for your own resource packs, **but please providecredit**.  
 - Only works on Minecraft Java Edition.  
@@ -18,8 +30,8 @@
 
 ----------
 
-## Français
-### Utilisations :
+## **Français**
+### **Utilisations :**
 
 - Vous pouvez utiliser le Faithful 3D pour vos propres pack de resource, **mais pensez à nous créditer**.  
 - Fonctionne uniquement sur Minecraft Java Edition.  
@@ -28,18 +40,10 @@
 
 ----------
 
-## Deutsch
-### Verwendung:
+## **Deutsch**
+### **Verwendung:**
 
 - Sie dürfen Faithful 3D für Ihre eigenen Ressourcenpakete benutzen, **wenn Sie uns als Quelle angeben**.  
 - Funktioniert nur mit Minecraft Java Edition.  
 - Benötigt Faithful x32.  
 - Nicht auf anderen Seiten weiterverbreiten.  
-
-----------
-
-### Authors / Auteurs / Autoren:
-
-- Juknum: https://twitter.com/Juknum_
-- Howler: https://twitter.com/UnlikeHowler
-- Progical

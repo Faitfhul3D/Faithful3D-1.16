@@ -1,8 +1,8 @@
 # **Information:**
 
-![screenshot 1](https://media.forgecdn.net/attachments/288/152/release_1_14.jpg "")
+![screenshot 1](https://www.faithful3d.team/image/release/release_1_14.jpg "")
 
-![screenshot 1](https://media.forgecdn.net/attachments/288/147/caroussel_3.gif "")
+![screenshot 1](https://www.faithful3d.team/image/home/caroussel_3.gif "")
 
 ### **Officials links:**!
 

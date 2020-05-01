@@ -1,0 +1,16 @@
+{
+    "credit": "Made by Juknum with hands",
+    "parent": "item/campfire",
+    "gui_light": "front",
+    "display": {
+        "head": {
+            "translation": [ 0, 10.5, 0 ]
+        }
+    },
+    "textures": {
+        "particle": "block/campfire_log",
+        "log": "block/campfire_log",
+        "litlog": "block/soul_campfire_log_lit",
+        "fire": "block/soul_campfire_fire"
+    }
+}

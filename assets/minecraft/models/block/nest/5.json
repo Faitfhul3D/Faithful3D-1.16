@@ -3,11 +3,11 @@
 	"parent": "block/block",
 	"ambientocclusion": false,
 	"textures": {
-		"0": "block/bee_nest_front_honey",
+		"0": "block/nest/front/5",
 		"2": "block/bee_nest_side",
 		"3": "block/bee_nest_top",
 		"4": "block/bee_nest_bottom",
-		"5": "block/bee_nest_front_honey",
+		"5": "block/nest/front/5",
 		"particle": "block/bee_nest_side"
 	},
 	"elements": [

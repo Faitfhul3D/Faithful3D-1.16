@@ -3,11 +3,11 @@
 	"parent": "block/block",
 	"ambientocclusion": false,
 	"textures": {
-		"0": "block/bee_nest_front_honey",
+		"0": "block/nest/front/3",
 		"2": "block/bee_nest_side",
 		"3": "block/bee_nest_top",
 		"4": "block/bee_nest_bottom",
-		"5": "block/bee_nest_front_honey",
+		"5": "block/nest/front/3",
 		"particle": "block/bee_nest_side"
 	},
 	"elements": [
@@ -55,26 +55,6 @@
 				"east": {"uv": [14, 3, 14.5, 3.5], "rotation": 90, "texture": "#0", "cullface": "north"},
 				"west": {"uv": [14, 3, 14.5, 3.5], "rotation": 90, "texture": "#0", "cullface": "north"},
 				"up": {"uv": [13.5, 2.5, 14, 3], "rotation": 180, "texture": "#0", "cullface": "north"}
-			}
-		},
-		{
-			"from": [3, 8, -0.25],
-			"to": [3.5, 8.5, 0],
-			"rotation": {"angle": 0, "axis": "y", "origin": [-1, 16, 8]},
-			"faces": {
-				"north": {"uv": [12.5, 7.5, 13, 8], "texture": "#5", "cullface": "north"},
-				"east": {"uv": [12.5, 7.5, 13, 8], "rotation": 90, "texture": "#5", "cullface": "north"},
-				"west": {"uv": [12.5, 7.5, 13, 8], "rotation": 90, "texture": "#5", "cullface": "north"}
-			}
-		},
-		{
-			"from": [4.5, 8, -0.25],
-			"to": [5, 8.5, 0],
-			"rotation": {"angle": 0, "axis": "y", "origin": [-1, 16, 8]},
-			"faces": {
-				"north": {"uv": [11, 7.5, 11.5, 8], "texture": "#5", "cullface": "north"},
-				"east": {"uv": [11, 7.5, 11.5, 8], "rotation": 90, "texture": "#5", "cullface": "north"},
-				"west": {"uv": [11, 7.5, 11.5, 8], "rotation": 90, "texture": "#5", "cullface": "north"}
 			}
 		},
 		{
@@ -200,15 +180,6 @@
 				"west": {"uv": [15.5, 4, 15.75, 7.5], "texture": "#0", "cullface": "north"},
 				"up": {"uv": [14.5, 4, 16, 4.25], "rotation": 180, "texture": "#0", "cullface": "north"},
 				"down": {"uv": [14.5, 7, 16, 7.25], "rotation": 180, "texture": "#0", "cullface": "north"}
-			}
-		},
-		{
-			"from": [2, 8.5, -0.25],
-			"to": [5, 12, 0],
-			"rotation": {"angle": 0, "axis": "y", "origin": [-1, 16, 8]},
-			"faces": {
-				"north": {"uv": [11, 4, 14, 7.5], "texture": "#5", "cullface": "north"},
-				"down": {"uv": [11, 7, 14, 7.25], "rotation": 180, "texture": "#5", "cullface": "north"}
 			}
 		},
 		{

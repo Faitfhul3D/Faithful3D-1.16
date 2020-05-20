@@ -2,7 +2,7 @@
     "__createdwith": "opl's Model Creator",
     "ambientocclusion": false,
     "textures": {
-        "sides": "ctm/doors/warped/sides",
+        "sides": "block/warped_door_special",
         "particle": "block/warped_door_bottom",
         "warped_door_bottom": "block/warped_door_bottom"
     },

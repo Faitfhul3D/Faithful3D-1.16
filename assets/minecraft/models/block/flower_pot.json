@@ -1,0 +1,10 @@
+{
+	"credit": "Made with Blockbench by Haragon",
+	"parent": "item/flower_pot",
+	"ambientocclusion": false,
+	"textures": {
+		"particle": "block/flower_pot",
+		"flowerpot": "block/flower_pot",
+		"dirt": "block/dirt"
+	}
+}

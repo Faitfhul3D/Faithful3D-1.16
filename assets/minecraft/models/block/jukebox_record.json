@@ -1,77 +1,11 @@
 {
-	"credit": "Made with Blockbench by Howler & rewrote by Juknum",
+	"credit": "Made with Blockbench by Juknum",
 	"parent": "block/block",
 	"ambientocclusion": false,
 	"textures": {
-		"2": "block/jukebox_inside",
-		"3": "block/disc",
-		"texture": "block/jukebox_top",
-		"particle": "block/jukebox_side"
+		"3": "block/disc"
 	},
 	"elements": [
-		{
-			"from": [0, 0, 0],
-			"to": [7, 16, 16],
-			"faces": {
-				"north": {"uv": [9, 0, 16, 16], "texture": "#particle", "cullface": "north"},
-				"east": {"uv": [0, 0, 16, 16], "texture": "#2", "cullface": "up"},
-				"south": {"uv": [0, 0, 7, 16], "texture": "#particle", "cullface": "south"},
-				"west": {"uv": [0, 0, 16, 16], "texture": "#particle", "cullface": "west"},
-				"up": {"uv": [9, 0, 16, 16], "rotation": 180, "texture": "#texture", "cullface": "up"},
-				"down": {"uv": [0, 0, 7, 16], "texture": "#particle", "cullface": "down"}
-			}
-		},
-		{
-			"from": [9, 0, 0],
-			"to": [16, 16, 16],
-			"faces": {
-				"north": {"uv": [0, 0, 7, 16], "texture": "#particle", "cullface": "north"},
-				"east": {"uv": [0, 0, 16, 16], "texture": "#particle", "cullface": "east"},
-				"south": {"uv": [9, 0, 16, 16], "texture": "#particle", "cullface": "south"},
-				"west": {"uv": [0, 0, 16, 16], "texture": "#2", "cullface": "up"},
-				"up": {"uv": [0, 0, 7, 16], "rotation": 180, "texture": "#texture", "cullface": "up"},
-				"down": {"uv": [9, 0, 16, 16], "texture": "#particle", "cullface": "down"}
-			}
-		},
-		{
-			"from": [7, 6, 0],
-			"to": [9, 16, 3],
-			"faces": {
-				"north": {"uv": [7, 0, 9, 10], "texture": "#particle", "cullface": "north"},
-				"south": {"uv": [7, 0, 9, 10], "texture": "#2", "cullface": "up"},
-				"up": {"uv": [7, 13, 9, 16], "rotation": 180, "texture": "#texture", "cullface": "up"}
-			}
-		},
-		{
-			"from": [7, 0, 0],
-			"to": [9, 6, 16],
-			"faces": {
-				"north": {"uv": [7, 10, 9, 16], "texture": "#particle", "cullface": "north"},
-				"south": {"uv": [7, 10, 9, 16], "texture": "#particle", "cullface": "south"},
-				"up": {"uv": [7, 0, 9, 16], "rotation": 180, "texture": "#texture", "cullface": "up"},
-				"down": {"uv": [7, 0, 9, 16], "texture": "#particle", "cullface": "down"}
-			}
-		},
-		{
-			"from": [7, 10.25, 7],
-			"to": [7.5, 12.25, 9],
-			"faces": {
-				"north": {"uv": [7, 3, 7.5, 3.5], "texture": "#texture", "cullface": "up"},
-				"east": {"uv": [7, 3, 9, 3.5], "rotation": 90, "texture": "#texture", "cullface": "up"},
-				"south": {"uv": [7, 3, 7.5, 3.5], "texture": "#texture", "cullface": "up"},
-				"up": {"uv": [7, 3, 7.5, 3.5], "rotation": 180, "texture": "#texture", "cullface": "up"},
-				"down": {"uv": [7, 3, 7.5, 3.5], "texture": "#texture", "cullface": "up"}
-			}
-		},
-		{
-			"from": [7, 6, 13],
-			"to": [9, 16, 16],
-			"faces": {
-				"north": {"uv": [7, 0, 9, 10], "texture": "#2", "cullface": "up"},
-				"south": {"uv": [7, 0, 9, 10], "texture": "#particle", "cullface": "south"},
-				"up": {"uv": [7, 0, 9, 3], "rotation": 180, "texture": "#texture", "cullface": "up"}
-			}
-		},
 		{
 			"name": "disc_0",
 			"from": [7.5, 6.75, 5.5],
@@ -165,11 +99,11 @@
 			}
 		}
 	],
-	"groups": [0, 1, 2, 3, 4, 5,
+	"groups": [
 		{
 			"name": "disc",
 			"origin": [8, 8, 8],
-			"children": [6, 7, 8, 9, 10, 11, 12]
+			"children": [0, 1, 2, 3, 4, 5, 6]
 		}
 	]
 }

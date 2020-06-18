@@ -1,0 +1,7 @@
+{
+    "__comment": "Designed by Juknum",
+    "variants": {
+        "axis=x": { "model": "block/jungle_log", "x": 90, "y": 90},
+        "axis=z": { "model": "block/jungle_log", "x": 90}
+    }
+}

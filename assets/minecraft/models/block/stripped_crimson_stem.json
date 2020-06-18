@@ -1,0 +1,9 @@
+{
+	"credit": "Made with Blockbench by Juknum",
+	"parent": "block/acacia_log",
+	"textures": {
+		"0": "block/stripped_crimson_stem",
+		"1": "block/stripped_crimson_stem_top",
+		"particle": "block/stripped_crimson_stem"
+	}
+}

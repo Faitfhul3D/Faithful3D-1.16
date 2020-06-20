@@ -1,0 +1,9 @@
+{
+	"credit": "Made with Blockbench by Juknum",
+	"parent": "item/golden_leggings",
+	"gui_light": "side",
+	"texture_size": [128, 64],
+	"textures": {
+		"1": "models/armor/netherite_layer_2"
+	}
+}

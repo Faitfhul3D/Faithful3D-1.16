@@ -1,0 +1,10 @@
+{
+	"credit": "Made with Blockbench by Juknum",
+	"parent": "item/golden_chestplate",
+	"gui_light": "side",
+	"texture_size": [128, 64],
+	"textures": {
+		"0": "models/armor/iron_layer_1",
+		"particle": "models/armor/iron_layer_1"
+	}
+}

@@ -1,0 +1,8 @@
+{
+	"credit": "Made with Blockbench by Juknum",
+	"parent": "item/book",
+	"textures": {
+		"0": "item/writable_book_custom",
+		"particle": "item/writable_book_custom"
+	}
+}

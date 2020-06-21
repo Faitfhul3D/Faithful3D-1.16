@@ -1,6 +1,7 @@
 {
 	"credit": "Made with Blockbench by Juknum",
 	"parent": "item/book",
+	"texture_size": [32, 32],
 	"textures": {
 		"0": "item/writable_book_custom",
 		"1": "item/feather",
@@ -8,9 +9,9 @@
 	},
 	"elements": [
 		{
-			"from": [3, 0, 1.5],
-			"to": [13, 0.5, 14.5],
-			"rotation": {"angle": 0, "axis": "y", "origin": [4, 9.5, 5.5]},
+			"from": [3, -0.5, 1.5],
+			"to": [13, 0, 14.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [4, 9, 5.5]},
 			"faces": {
 				"north": {"uv": [0, 0, 5, 0.25], "texture": "#0"},
 				"east": {"uv": [0, 0, 0.25, 6.5], "rotation": 90, "texture": "#0"},
@@ -21,7 +22,7 @@
 			}
 		},
 		{
-			"from": [3, 0.5, 1.5],
+			"from": [3, 0, 1.5],
 			"to": [3.5, 2, 14.5],
 			"rotation": {"angle": 0, "axis": "y", "origin": [4, 9.5, 5.5]},
 			"faces": {
@@ -32,13 +33,13 @@
 			}
 		},
 		{
-			"from": [3.5, 0.5, 2],
+			"from": [3.5, 0, 2],
 			"to": [12.5, 2, 14],
 			"rotation": {"angle": 0, "axis": "y", "origin": [4, 9.5, 5.5]},
 			"faces": {
-				"north": {"uv": [0.25, 6.5, 4.75, 7.25], "texture": "#0"},
-				"east": {"uv": [10.5, 0.25, 11.25, 6.25], "rotation": 90, "texture": "#0"},
-				"south": {"uv": [0.25, 6.5, 4.75, 7.25], "texture": "#0"}
+				"north": {"uv": [0.25, 6.5, 4.75, 7.5], "texture": "#0"},
+				"east": {"uv": [10.5, 0.25, 11.5, 6.25], "rotation": 90, "texture": "#0"},
+				"south": {"uv": [0.25, 6.5, 4.75, 7.5], "texture": "#0"}
 			}
 		},
 		{
@@ -59,6 +60,10 @@
 			"to": [16.25, 2.51, 15.75],
 			"rotation": {"angle": -22.5, "axis": "y", "origin": [8.25, 10.5, 10.75]},
 			"faces": {
+				"north": {"uv": [0, 0, 8, 0], "texture": "#missing"},
+				"east": {"uv": [0, 0, 8, 0], "texture": "#missing"},
+				"south": {"uv": [0, 0, 8, 0], "texture": "#missing"},
+				"west": {"uv": [0, 0, 8, 0], "texture": "#missing"},
 				"up": {"uv": [16, 0, 0, 16], "rotation": 90, "texture": "#1"},
 				"down": {"uv": [16, 16, 0, 0], "rotation": 270, "texture": "#1"}
 			}

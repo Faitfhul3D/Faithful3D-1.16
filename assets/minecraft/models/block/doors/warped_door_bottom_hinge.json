@@ -719,7 +719,7 @@
 			"from": [-0.25, 4, 0],
 			"to": [0, 4.5, 0.5],
 			"faces": {
-				"north": {"uv": [3, 11.5, 3.5, 12], "texture": "#warped_door_bottom", "cullface": "north"},
+				"north": {"uv": [3, 11.5, 3.5, 12], "texture": "#warped_door_bottom", "cullface": "west"},
 				"south": {"uv": [12.5, 11.5, 13, 12], "texture": "#warped_door_bottom", "cullface": "west"},
 				"west": {"uv": [16, 11.5, 15.5, 12], "texture": "#warped_door_bottom", "cullface": "west"},
 				"up": {"uv": [15.5, 11.5, 16, 12], "rotation": 180, "texture": "#warped_door_bottom", "cullface": "west"},
@@ -863,7 +863,7 @@
 			"to": [0, 13, 16],
 			"faces": {
 				"north": {"uv": [15.5, 3, 16, 4.5], "texture": "#warped_door_bottom", "cullface": "west"},
-				"south": {"uv": [0, 3, 0.5, 4.5], "texture": "#warped_door_bottom", "cullface": "south"},
+				"south": {"uv": [0, 3, 0.5, 4.5], "texture": "#warped_door_bottom", "cullface": "west"},
 				"west": {"uv": [0.5, 3, 0, 4.5], "texture": "#warped_door_bottom", "cullface": "west"},
 				"up": {"uv": [0, 3, 0.5, 3.5], "rotation": 180, "texture": "#warped_door_bottom", "cullface": "west"},
 				"down": {"uv": [0, 4, 0.5, 4.5], "rotation": 180, "texture": "#warped_door_bottom", "cullface": "west"}
@@ -874,7 +874,7 @@
 			"to": [0, 7, 16],
 			"faces": {
 				"north": {"uv": [0, 9, 0.5, 9.5], "texture": "#warped_door_bottom", "cullface": "west"},
-				"south": {"uv": [0, 9, 0.5, 9.5], "texture": "#warped_door_bottom", "cullface": "south"},
+				"south": {"uv": [0, 9, 0.5, 9.5], "texture": "#warped_door_bottom", "cullface": "west"},
 				"west": {"uv": [0.5, 9, 0, 9.5], "texture": "#warped_door_bottom", "cullface": "west"},
 				"up": {"uv": [0, 9, 0.5, 9.5], "rotation": 180, "texture": "#warped_door_bottom", "cullface": "west"},
 				"down": {"uv": [0, 9, 0.5, 9.5], "rotation": 180, "texture": "#warped_door_bottom", "cullface": "west"}
@@ -917,7 +917,7 @@
 			"from": [-0.25, 8, 0],
 			"to": [0, 8.5, 0.5],
 			"faces": {
-				"north": {"uv": [15.5, 7.5, 16, 8], "texture": "#warped_door_bottom", "cullface": "north"},
+				"north": {"uv": [15.5, 7.5, 16, 8], "texture": "#warped_door_bottom", "cullface": "west"},
 				"south": {"uv": [15.5, 7.5, 16, 8], "texture": "#warped_door_bottom", "cullface": "west"},
 				"west": {"uv": [16, 7.5, 15.5, 8], "texture": "#warped_door_bottom", "cullface": "west"},
 				"up": {"uv": [15.5, 7.5, 16, 8], "rotation": 180, "texture": "#warped_door_bottom", "cullface": "west"},

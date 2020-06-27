@@ -2,7 +2,7 @@
 name: Bug report [Addon]
 about: Create a report to help us improve
 title: ''
-labels: bug addon
+labels: bug, addon
 assignees: ''
 
 ---

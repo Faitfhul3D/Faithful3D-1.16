@@ -2,7 +2,7 @@
 name: Bug report [CEM with Optifine]
 about: Create a report to help us improve
 title: ''
-labels: bug CEM
+labels: bug, CEM
 assignees: ''
 
 ---

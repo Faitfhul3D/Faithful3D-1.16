@@ -1,8 +1,8 @@
 ---
-name: Bug report
+name: Bug report [Texture]
 about: Create a report to help us improve
 title: ''
-labels: bug
+labels: bug texture
 assignees: ''
 
 ---

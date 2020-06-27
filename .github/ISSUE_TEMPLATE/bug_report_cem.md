@@ -1,8 +1,8 @@
 ---
-name: Bug report
+name: Bug report [CEM with Optifine]
 about: Create a report to help us improve
 title: ''
-labels: bug
+labels: bug CEM
 assignees: ''
 
 ---

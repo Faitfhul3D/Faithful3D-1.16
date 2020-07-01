@@ -1,7 +1,7 @@
 {
 	"credit": "Designed by Progical",
 	"textures": {
-		"1": "ctm/lily_pad/0"
+		"1": "custom/block/lily_pad/0"
 	},
 	"elements": [
 		{

@@ -1,10 +1,10 @@
 {
 	"credit": "Made with Blockbench by Juknum",
 	"textures": {
-		"0": "ctm/trapdoors/spruce/front",
-		"1": "ctm/trapdoors/spruce/side",
+		"0": "custom/block/trapdoors/spruce/front",
+		"1": "custom/block/trapdoors/spruce/side",
 		"2": "block/spruce_trapdoor",
-		"particle": "ctm/trapdoors/spruce/front"
+		"particle": "block/spruce_trapdoor"
 	},
 	"elements": [
 		{

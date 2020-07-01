@@ -2,8 +2,8 @@
 	"__comment": "Designed by Progical, rewrote by Juknum - v1.1",
 	"textures": {
 		"0": "block/birch_trapdoor",
-		"1": "ctm/trapdoors/birch/front",
-		"2": "ctm/trapdoors/birch/side",
+		"1": "custom/block/trapdoors/birch/front",
+		"2": "custom/block/trapdoors/birch/side",
 		"particle": "block/birch_trapdoor"
 	},
 	"parent":"block/trapdoors/birch_trapdoor",

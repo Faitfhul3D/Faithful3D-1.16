@@ -2,8 +2,8 @@
 	"__comment": "Designed by Juknum",
 	"textures": {
 		"0": "block/crimson_trapdoor",
-		"1": "ctm/trapdoors/crimson/front",
-		"2": "ctm/trapdoors/crimson/side",
+		"1": "custom/block/trapdoors/crimson/front",
+		"2": "custom/block/trapdoors/crimson/side",
 		"particle": "block/crimson_trapdoor"
 	},
 	"parent":"block/trapdoors/crimson_trapdoor",

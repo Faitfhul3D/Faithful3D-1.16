@@ -2,8 +2,8 @@
 	"__comment": "Designed by Juknum",
 	"textures": {
 		"2": "block/spruce_trapdoor",
-		"0": "ctm/trapdoors/spruce/front",
-		"1": "ctm/trapdoors/spruce/side",
+		"0": "custom/block/trapdoors/spruce/front",
+		"1": "custom/block/trapdoors/spruce/side",
 		"particle": "block/spruce_trapdoor"
 	},
 	"parent":"block/trapdoors/spruce_trapdoor",

@@ -2,8 +2,8 @@
 	"credit": "Designed by Progical",
 	"textures": {
 		"0": "block/dark_oak_trapdoor",
-		"1": "ctm/trapdoors/dark_oak/front",
-		"2": "ctm/trapdoors/dark_oak/side",
+		"1": "custom/block/trapdoors/dark_oak/front",
+		"2": "custom/block/trapdoors/dark_oak/side",
 		"particle": "block/dark_oak_trapdoor"
 	},
 	"elements": [

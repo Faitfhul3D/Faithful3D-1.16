@@ -2,8 +2,8 @@
 	"__comment": "Designed by Progical",
 	"textures": {
 		"0": "block/acacia_trapdoor",
-		"1": "ctm/trapdoors/acacia/front",
-		"2": "ctm/trapdoors/acacia/side",
+		"1": "custom/block/trapdoors/acacia/front",
+		"2": "custom/block/trapdoors/acacia/side",
 		"particle": "block/acacia_trapdoor"
 	},
 	"elements": [

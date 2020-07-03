@@ -1,5 +1,5 @@
 {
-	"credit": "Made with Blockbench by Juknum",
+	"credit": "Made with Blockbench by Juknum & RobertR11",
 	"parent": "block/block",
 	"textures": {
 		"0": "block/chiseled_nether_bricks",

@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"parent": "item/tool_display",
 	"textures": {
-		"0": "wooden_axe",
-		"particle": "wooden_axe"
+		"0": "item/wooden_axe",
+		"particle": "item/wooden_axe"
 	},
 	"elements": [
 		{

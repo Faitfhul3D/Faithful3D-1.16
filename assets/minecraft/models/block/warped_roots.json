@@ -2,7 +2,8 @@
 	"credit": "Made with Blockbench by Juknum",
 	"ambientocclusion": false,
 	"textures": {
-		"0": "block/warped_roots"
+		"0": "block/warped_roots",
+        "particle": "block/warped_roots",
 	},
 	"elements": [
 		{

@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"parent": "item/tool_display",
 	"textures": {
-		"0": "wooden_shovel",
-		"particle": "wooden_shovel"
+		"0": "item/wooden_shovel",
+		"particle": "item/wooden_shovel"
 	},
 	"elements": [
 		{

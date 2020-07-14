@@ -1,0 +1,22 @@
+{
+	"credit": "Made with Blockbench by Juknum",
+	"ambientocclusion": false,
+	"textures": {
+		"lock": "block/bedrock",
+		"particle": "block/repeater"
+	},
+	"elements": [
+		{
+			"from": [2, 2, 10],
+			"to": [14, 4, 12],
+			"faces": {
+				"north": {"uv": [2, 7, 14, 9], "texture": "#lock"},
+				"east": {"uv": [6, 7, 8, 9], "texture": "#lock"},
+				"south": {"uv": [2, 7, 14, 9], "texture": "#lock"},
+				"west": {"uv": [6, 7, 8, 9], "texture": "#lock"},
+				"up": {"uv": [7, 2, 9, 14], "rotation": 90, "texture": "#lock"},
+				"down": {"uv": [7, 2, 9, 14], "rotation": 90, "texture": "#lock"}
+			}
+		}
+	]
+}

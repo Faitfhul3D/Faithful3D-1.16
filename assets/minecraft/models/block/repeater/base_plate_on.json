@@ -1,0 +1,9 @@
+{
+	"credit": "Made with Blockbench by Juknum",
+	"parent": "block/repeater/base_plate_off",
+	"textures": {
+		"0": "block/repeater_on",
+		"1": "block/smooth_stone",
+		"particle": "block/repeater_on"
+	}
+}

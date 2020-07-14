@@ -1,0 +1,99 @@
+{
+	"credit": "Made with Blockbench by Juknum",
+	"ambientocclusion": false,
+	"textures": {
+		"0": "block/redstone_torch",
+		"particle": "block/repeater"
+	},
+	"elements": [
+		{
+			"from": [7, 7.5, 6],
+			"to": [9, 7.5, 8],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8.5, 8]},
+			"faces": {
+				"up": {"uv": [7, 6, 9, 8], "texture": "#0"}
+			}
+		},
+		{
+			"from": [7, 0.5, 6],
+			"to": [9, 7.5, 8],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 4.5, 7]},
+			"faces": {
+				"north": {"uv": [7, 5.5, 9, 12.5], "texture": "#0"},
+				"east": {"uv": [7, 5.5, 9, 12.5], "texture": "#0"},
+				"south": {"uv": [7, 5.5, 9, 12.5], "texture": "#0"},
+				"west": {"uv": [7, 5.5, 9, 12.5], "texture": "#0"},
+				"up": {"uv": [7, 6, 9, 8], "texture": "#0"},
+				"down": {"uv": [7, 14, 9, 16], "texture": "#0", "cullface": "down"}
+			}
+		},
+		{
+			"from": [6.5, 5, 5.5],
+			"to": [9.5, 7, 8.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 4.5, 7]},
+			"faces": {
+				"north": {"uv": [6.5, 6, 9.5, 8], "texture": "#0"},
+				"east": {"uv": [6.5, 6, 9.5, 8], "texture": "#0"},
+				"south": {"uv": [6.5, 6, 9.5, 8], "texture": "#0"},
+				"west": {"uv": [6.5, 6, 9.5, 8], "texture": "#0"},
+				"up": {"uv": [7, 5.5, 7.5, 6], "texture": "#0"},
+				"down": {"uv": [9, 6, 9.5, 6.5], "texture": "#0"}
+			}
+		},
+		{
+			"from": [6.5, 4.5, 6],
+			"to": [7, 7.5, 8],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 4.5, 7]},
+			"faces": {
+				"north": {"uv": [6.5, 6, 7, 6.5], "texture": "#0"},
+				"south": {"uv": [7, 8, 9, 8.5], "rotation": 90, "texture": "#0"},
+				"west": {"uv": [7, 5.5, 9, 8.5], "texture": "#0"},
+				"up": {"uv": [7, 5.5, 7.5, 6], "texture": "#0"},
+				"down": {"uv": [7, 8, 9, 8.5], "rotation": 270, "texture": "#0"}
+			}
+		},
+		{
+			"from": [9, 4.5, 6],
+			"to": [9.5, 7.5, 8],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 4.5, 7]},
+			"faces": {
+				"north": {"uv": [7, 8, 9, 8.5], "rotation": 90, "texture": "#0"},
+				"east": {"uv": [7, 5.5, 9, 8.5], "texture": "#0"},
+				"south": {"uv": [9, 6, 9.5, 6.5], "texture": "#0"},
+				"up": {"uv": [7, 5.5, 7.5, 6], "texture": "#0"},
+				"down": {"uv": [7, 8, 9, 8.5], "rotation": 90, "texture": "#0"}
+			}
+		},
+		{
+			"from": [7, 4.5, 5.5],
+			"to": [9, 7.5, 6],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 4.5, 7]},
+			"faces": {
+				"north": {"uv": [7, 5.5, 9, 8.5], "texture": "#0"},
+				"east": {"uv": [9, 6, 9.5, 6.5], "texture": "#0"},
+				"west": {"uv": [7, 8, 9, 8.5], "rotation": 90, "texture": "#0"},
+				"up": {"uv": [7, 5.5, 7.5, 6], "texture": "#0"},
+				"down": {"uv": [7, 8, 9, 8.5], "rotation": 180, "texture": "#0"}
+			}
+		},
+		{
+			"from": [7, 4.5, 8],
+			"to": [9, 7.5, 8.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 4.5, 7]},
+			"faces": {
+				"east": {"uv": [7, 8, 9, 8.5], "rotation": 90, "texture": "#0"},
+				"south": {"uv": [7, 5.5, 9, 8.5], "texture": "#0"},
+				"west": {"uv": [6.5, 6, 7, 6.5], "texture": "#0"},
+				"up": {"uv": [7, 5.5, 7.5, 6], "texture": "#0"},
+				"down": {"uv": [7, 8, 9, 8.5], "texture": "#0"}
+			}
+		}
+	],
+	"groups": [0,
+		{
+			"name": "redstone_torch",
+			"origin": [8, 8, 8],
+			"children": [1, 2, 3, 4, 5, 6]
+		}
+	]
+}

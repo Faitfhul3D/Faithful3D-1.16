@@ -1,0 +1,9 @@
+{
+	"credit": "Made with Blockbench by Juknum",
+	"parent": "block/comparator/base_plate_off",
+	"textures": {
+		"0": "block/smooth_stone",
+		"1": "block/comparator_on",
+		"particle": "block/smooth_stone"
+	}
+}

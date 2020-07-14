@@ -1,0 +1,117 @@
+{
+  "__comment": "Made by Juknum 270 180 0 90",
+  "multipart": [
+
+    {
+      "when"  : { "facing" : "south", "powered" : false }, 
+      "apply" : { "model" : "block/comparator/base_plate_off" }
+    },
+    {
+      "when"  : { "facing" : "west", "powered" : false }, 
+      "apply" : { "model" : "block/comparator/base_plate_off", "y": 90 }
+    },
+    {
+      "when"  : { "facing" : "north", "powered" : false }, 
+      "apply" : { "model" : "block/comparator/base_plate_off", "y": 180 }
+    },
+    {
+      "when"  : { "facing" : "east", "powered" : false }, 
+      "apply" : { "model" : "block/comparator/base_plate_off", "y": 270 }
+    },
+
+    {
+      "when"  : { "facing" : "south", "powered" : true }, 
+      "apply" : { "model" : "block/comparator/base_plate_on" }
+    },
+    {
+      "when"  : { "facing" : "west", "powered" : true }, 
+      "apply" : { "model" : "block/comparator/base_plate_on", "y": 90 }
+    },
+    {
+      "when"  : { "facing" : "north", "powered" : true }, 
+      "apply" : { "model" : "block/comparator/base_plate_on", "y": 180 }
+    },
+    {
+      "when"  : { "facing" : "east", "powered" : true }, 
+      "apply" : { "model" : "block/comparator/base_plate_on", "y": 270 }
+    },
+
+
+
+
+    {
+      "when"  : { "facing" : "south", "powered" : false }, 
+      "apply" : { "model" : "block/comparator/torch_off" }
+    },
+    {
+      "when"  : { "facing" : "west", "powered" : false }, 
+      "apply" : { "model" : "block/comparator/torch_off", "y": 90 }
+    },
+    {
+      "when"  : { "facing" : "north", "powered" : false }, 
+      "apply" : { "model" : "block/comparator/torch_off", "y": 180 }
+    },
+    {
+      "when"  : { "facing" : "east", "powered" : false }, 
+      "apply" : { "model" : "block/comparator/torch_off", "y": 270 }
+    },
+
+    {
+      "when"  : { "facing" : "south", "powered" : true }, 
+      "apply" : { "model" : "block/comparator/torch_on" }
+    },
+    {
+      "when"  : { "facing" : "west", "powered" : true }, 
+      "apply" : { "model" : "block/comparator/torch_on", "y": 90 }
+    },
+    {
+      "when"  : { "facing" : "north", "powered" : true }, 
+      "apply" : { "model" : "block/comparator/torch_on", "y": 180 }
+    },
+    {
+      "when"  : { "facing" : "east", "powered" : true }, 
+      "apply" : { "model" : "block/comparator/torch_on", "y": 270 }
+    },
+    
+    
+
+    
+    {
+      "when"  : { "facing" : "south", "mode" : "compare" }, 
+      "apply" : { "model" : "block/comparator/sub_torch_off" }
+    },
+    {
+      "when"  : { "facing" : "west", "mode" : "compare" }, 
+      "apply" : { "model" : "block/comparator/sub_torch_off", "y": 90 }
+    },
+    {
+      "when"  : { "facing" : "north", "mode" : "compare" }, 
+      "apply" : { "model" : "block/comparator/sub_torch_off", "y": 180 }
+    },
+    {
+      "when"  : { "facing" : "east", "mode" : "compare" }, 
+      "apply" : { "model" : "block/comparator/sub_torch_off", "y": 270 }
+    },
+
+    {
+      "when"  : { "facing" : "south", "mode" : "subtract" }, 
+      "apply" : { "model" : "block/comparator/sub_torch_on" }
+    },
+    {
+      "when"  : { "facing" : "west", "mode" : "subtract" }, 
+      "apply" : { "model" : "block/comparator/sub_torch_on", "y": 90 }
+    },
+    {
+      "when"  : { "facing" : "north", "mode" : "subtract" }, 
+      "apply" : { "model" : "block/comparator/sub_torch_on", "y": 180 }
+    },
+    {
+      "when"  : { "facing" : "east", "mode" : "subtract" }, 
+      "apply" : { "model" : "block/comparator/sub_torch_on", "y": 270 }
+    }
+
+
+
+
+  ]
+}

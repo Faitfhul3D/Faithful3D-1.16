@@ -1,10 +1,9 @@
 {
 	"credit": "Made with Blockbench by Juknum",
-	"parent": "minecraft:block/template_torch_wall",
 	"ambientocclusion": false,
 	"textures": {
 		"0": "block/redstone_torch",
-		"particle": "#torch"
+		"particle": "block/redstone_torch"
 	},
 	"elements": [
 		{

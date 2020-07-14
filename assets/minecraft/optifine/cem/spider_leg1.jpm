@@ -1,0 +1,36 @@
+{
+	"textureSize": [64, 32],
+	"credit": "Made with Blockbench by Juknum",
+	"submodels": [
+		{
+			"id": "cube",
+			"rotate": [0, 0, 35],
+			"boxes": [
+				{
+					"coordinates": [-10.95253, -1.22152, 0.1, 12, 2, 2],
+					"uvNorth": [53, 2, 41, 4],
+					"uvEast": [34, 0, 36, 2],
+					"uvSouth": [41, 2, 53, 4],
+					"uvWest": [18, 2, 20, 4],
+					"uvUp": [31, 0, 43, 2],
+					"uvDown": [30, 2, 42, 4]
+				}
+			]
+		},
+		{
+			"id": "cube",
+			"rotate": [0, 0, -25],
+			"boxes": [
+				{
+					"coordinates": [-16.9184, -10.09593, 0.1, 12.5, 1.9, 2],
+					"uvNorth": [53, 2, 41, 4],
+					"uvEast": [36, 2, 38, 4],
+					"uvSouth": [41, 2, 53, 4],
+					"uvWest": [24, 0, 26, 2],
+					"uvUp": [33, 0, 21, 2],
+					"uvDown": [24, 2, 36, 4]
+				}
+			]
+		}
+	]
+}

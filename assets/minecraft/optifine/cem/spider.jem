@@ -1,0 +1,79 @@
+{
+"textureSize":[64, 32],
+"models":
+[
+{
+		"id": "leg1",
+		"model": "spider_leg1.jpm",
+		"part": "leg1",
+		"translate": [0, 0, 0],
+		"rotate": [-20, 0, 0]
+	},
+	{
+		"id": "leg3",
+		"model": "spider_leg1.jpm",
+		"part": "leg3",
+		"attach": "false",
+		"translate": [0, 0, 0],
+		"rotate": [0, 0, 0]
+	},
+	{
+		"id": "leg5",
+		"model": "spider_leg1.jpm",
+		"part": "leg5",
+		"attach": "false",
+		"translate": [0, 0, -2],
+		"rotate": [0, 0, 0]
+	},
+	{
+		"id": "leg7",
+		"model": "spider_leg1.jpm",
+		"part": "leg7",
+		"attach": "false",
+		"translate": [0, 1.5, -3],
+		"rotate": [20, 0, 0]
+	},
+	{
+      "id": "leg2",
+      "model": "spider_leg2.jpm",
+      "part": "leg2",
+      "attach": "false",
+      "translate": [0, 0, 0],
+      "rotate": [-160, 0, 180]
+    },
+    {
+      "id": "leg4",
+      "model": "spider_leg2.jpm",
+      "part": "leg4",
+      "attach": "false",
+      "translate": [0, 0, 0],
+      "rotate": [-180, 0, 180]
+    },
+    {
+      "id": "leg6",
+      "model": "spider_leg2.jpm",
+      "part": "leg6",
+      "attach": "false",
+      "translate": [0, 0, -2],
+      "rotate": [-180, 0, 180]
+    },
+    {
+      "id": "leg8",
+      "model": "spider_leg2.jpm",
+      "part": "leg8",
+      "attach": "false",
+      "translate": [0, 1.5, -3],
+      "rotate": [-200, 0, 180]
+    },
+		{
+      "id": "body",
+      "model": "spider_body.jpm",
+      "part": "body",
+      "attach": "false",
+      "translate": [0, 9.4, -5],
+      "rotate": [20, 0, 0]
+    }
+
+
+]
+}

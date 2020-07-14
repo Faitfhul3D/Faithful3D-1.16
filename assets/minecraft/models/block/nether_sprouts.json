@@ -1,0 +1,9 @@
+{
+	"credit": "Made with Blockbench",
+	"ambientocclusion": false,
+	"parent":"block/wheat_stage3",
+	"textures": {
+		"0": "block/nether_sprouts",
+		"particle": "block/nether_sprouts"
+	}
+}

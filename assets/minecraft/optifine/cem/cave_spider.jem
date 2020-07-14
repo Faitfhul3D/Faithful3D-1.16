@@ -72,8 +72,14 @@
       "attach": "false",
       "translate": [0, 9.4, -5],
       "rotate": [20, 0, 0]
+    },
+    {
+      "id": "head",
+      "model": "spider_head.jpm",
+      "part": "head",
+      "attach": "false",
+      "translate": [1,0,1]
     }
-
 
 ]
 }

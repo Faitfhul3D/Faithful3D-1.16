@@ -1,5 +1,5 @@
 {
-	"credit": "Designed by Progical",
+	"credit": "Made with Blockbench by Juknum",
 	"ambientocclusion": false,
 	"textures": {
 		"particle": "block/cocoa_stage1",
@@ -110,6 +110,58 @@
 		},
 		{
 			"name": "cocoa_stage1_1",
+			"from": [7.75, 15.5, 15],
+			"to": [8.25, 16, 15],
+			"rotation": {"angle": 0, "axis": "x", "origin": [0, 9.5, 8.5]},
+			"faces": {
+				"north": {"uv": [15, 0, 15.5, 0.5], "texture": "#cocoa"},
+				"east": {"uv": [14.5, 2, 16, 0], "rotation": 180, "texture": "#cocoa"},
+				"west": {"uv": [14.5, 0, 16, 2], "texture": "#cocoa"},
+				"up": {"uv": [16, 0, 14.5, 0.5], "rotation": 270, "texture": "#cocoa"},
+				"down": {"uv": [14.5, 1.5, 16, 2], "rotation": 270, "texture": "#cocoa"}
+			}
+		},
+		{
+			"name": "cocoa_stage2_2",
+			"from": [7.75, 15, 14],
+			"to": [8.25, 15.5, 14],
+			"rotation": {"angle": 0, "axis": "x", "origin": [0, 9, 7.5]},
+			"faces": {
+				"north": {"uv": [15, 0, 15.5, 0.5], "texture": "#cocoa"},
+				"east": {"uv": [14.5, 2, 16, 0], "rotation": 180, "texture": "#cocoa"},
+				"west": {"uv": [14.5, 0, 16, 2], "texture": "#cocoa"},
+				"up": {"uv": [16, 0, 14.5, 0.5], "rotation": 270, "texture": "#cocoa"},
+				"down": {"uv": [14.5, 1.5, 16, 2], "rotation": 270, "texture": "#cocoa"}
+			}
+		},
+		{
+			"name": "cocoa_stage3_3",
+			"from": [7.75, 14, 12.5],
+			"to": [8.25, 14, 13],
+			"rotation": {"angle": 0, "axis": "x", "origin": [0, 8, 6]},
+			"faces": {
+				"north": {"uv": [15, 0, 15.5, 0.5], "texture": "#cocoa"},
+				"east": {"uv": [14.5, 2, 16, 0], "rotation": 180, "texture": "#cocoa"},
+				"west": {"uv": [14.5, 0, 16, 2], "texture": "#cocoa"},
+				"up": {"uv": [15, 0, 15.5, 0.5], "texture": "#cocoa"},
+				"down": {"uv": [14.5, 1.5, 16, 2], "rotation": 270, "texture": "#cocoa"}
+			}
+		},
+		{
+			"name": "cocoa_stage4_4",
+			"from": [7.75, 13, 12],
+			"to": [8.25, 13, 12.5],
+			"rotation": {"angle": 0, "axis": "x", "origin": [0, 7, 5.5]},
+			"faces": {
+				"north": {"uv": [15, 0, 15.5, 0.5], "texture": "#cocoa"},
+				"east": {"uv": [14.5, 2, 16, 0], "rotation": 180, "texture": "#cocoa"},
+				"west": {"uv": [14.5, 0, 16, 2], "texture": "#cocoa"},
+				"up": {"uv": [12.5, 3, 13, 3.5], "texture": "#cocoa"},
+				"down": {"uv": [14.5, 1.5, 16, 2], "rotation": 270, "texture": "#cocoa"}
+			}
+		},
+		{
+			"name": "cocoa_stage1_1",
 			"from": [7.75, 13.5, 13.5],
 			"to": [8.25, 15.5, 14.5],
 			"rotation": {"angle": 0, "axis": "x", "origin": [0, 8, 8]},
@@ -179,7 +231,7 @@
 		{
 			"name": "cocoa_stage1",
 			"origin": [8, 8, 8],
-			"children": [7, 8, 9, 10, 11, 12]
+			"children": [7, 8, 9, 10, 11, 12, 13, 14, 15, 16]
 		}
 	]
 }

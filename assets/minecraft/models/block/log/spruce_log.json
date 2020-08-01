@@ -1,6 +1,6 @@
 {
 	"credit": "Made with Blockbench by Juknum",
-	"parent": "block/acacia_log",
+	"parent": "block/log/_template_log",
 	"textures": {
 		"0": "block/spruce_log",
 		"1": "block/spruce_log_top",

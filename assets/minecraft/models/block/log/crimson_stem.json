@@ -1,0 +1,9 @@
+{
+	"credit": "Made with Blockbench by Juknum",
+	"parent": "block/log/_template_log",
+	"textures": {
+		"0": "block/crimson_stem",
+		"1": "block/crimson_stem_top",
+		"particle": "block/crimson_stem"
+	}
+}

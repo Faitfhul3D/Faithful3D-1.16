@@ -1,0 +1,9 @@
+{
+	"credit": "Made with Blockbench by Juknum",
+	"parent": "block/log/_template_log",
+	"textures": {
+		"0": "block/warped_stem",
+		"1": "block/warped_stem_top",
+		"particle": "block/warped_stem"
+	}
+}

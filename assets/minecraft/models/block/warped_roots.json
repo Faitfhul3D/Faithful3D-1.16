@@ -3,7 +3,7 @@
 	"ambientocclusion": false,
 	"textures": {
 		"0": "block/warped_roots",
-        "particle": "block/warped_roots",
+        "particle": "block/warped_roots"
 	},
 	"elements": [
 		{

@@ -1,7 +1,7 @@
 {
-    "variants": {
-        "normal": [
-            { "model": "block/crops/nether_sprouts" }
-        ]
+  "variants": {
+    "": {
+      "model": "block/crops/nether_sprouts"
     }
+  }
 }

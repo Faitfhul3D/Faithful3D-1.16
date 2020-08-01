@@ -2,6 +2,7 @@
     "__comment": "Designed by Juknum",
     "variants": {
         "axis=x": { "model": "block/log/crimson_stem", "x": 90, "y": 90},
-        "axis=z": { "model": "block/log/crimson_stem", "x": 90}
+        "axis=z": { "model": "block/log/crimson_stem", "x": 90},
+        "axis=y": { "model": "block/log/crimson_stem" }
     }
 }

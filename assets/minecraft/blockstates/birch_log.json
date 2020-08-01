@@ -2,6 +2,7 @@
     "__comment": "Designed by Juknum",
     "variants": {
         "axis=x": { "model": "block/log/birch_log", "x": 90, "y": 90},
-        "axis=z": { "model": "block/log/birch_log", "x": 90}
+        "axis=z": { "model": "block/log/birch_log", "x": 90},
+        "axis=y": { "model": "block/log/birch_log" }
     }
 }

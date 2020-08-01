@@ -1,7 +1,7 @@
 {
     "__comment": "Designed by Juknum",
     "variants": {
-        "axis=x": { "model": "block/stripped_spruce_log", "x": 90, "y": 90},
-        "axis=z": { "model": "block/stripped_spruce_log", "x": 90}
+        "axis=x": { "model": "block/log_stripped/stripped_spruce_log", "x": 90, "y": 90},
+        "axis=z": { "model": "block/log_stripped/stripped_spruce_log", "x": 90}
     }
 }

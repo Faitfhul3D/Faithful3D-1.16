@@ -1,0 +1,10 @@
+{
+	"credit": "Made with Blockbench by Juknum",
+	"parent": "block/command_block/_template_command_block_conditional",
+	"textures": {
+		"particle": "block/chain_command_block_back",
+		"back": "block/chain_command_block_back",
+		"front": "block/chain_command_block_front",
+		"side": "block/chain_command_block_conditional"
+	}
+}

@@ -1,0 +1,9 @@
+{
+	"credit": "Made with Blockbench by Juknum",
+	"parent": "block/log/_template_log",
+	"textures": {
+		"0": "block/jungle_log",
+		"1": "block/jungle_log_top",
+		"particle": "block/jungle_log"
+	}
+}

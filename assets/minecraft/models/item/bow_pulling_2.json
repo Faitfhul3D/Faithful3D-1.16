@@ -1,5 +1,6 @@
 {
 	"credit": "Made with Blockbench",
+	"parent": "item/bow",
 	"textures": {
 		"1": "item/bow_pulling_2",
 		"particle": "item/bow",

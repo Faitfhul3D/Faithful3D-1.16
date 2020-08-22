@@ -1,5 +1,6 @@
 {
 	"credit": "Made with Blockbench",
+	"parent": "item/generic_display",
 	"textures": {
 		"0": "item/bow",
 		"particle": "item/bow"
@@ -2359,6 +2360,28 @@
 			}
 		}
 	],
+	"overrides": [
+        {
+            "predicate": {
+                "pulling": 1
+            },
+            "model": "item/bow_pulling_0"
+        },
+        {
+            "predicate": {
+                "pulling": 1,
+                "pull": 0.65
+            },
+            "model": "item/bow_pulling_1"
+        },
+        {
+            "predicate": {
+                "pulling": 1,
+                "pull": 0.9
+            },
+            "model": "item/bow_pulling_2"
+        }
+    ],
 	"groups": [
 		{
 			"name": "bow",

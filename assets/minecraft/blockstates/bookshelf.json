@@ -1,0 +1,54 @@
+{
+	"__comment": "Made by Juknum",
+	"multipart": [
+		{
+			"__comment": "North",
+			"apply": [
+				{ "model": "block/bookshelf/books/books_0", "weight": 8 },
+				{ "model": "block/bookshelf/books/books_1", "weight": 8 },
+				{ "model": "block/bookshelf/books/books_2", "weight": 4 },
+				{ "model": "block/bookshelf/books/books_3", "weight": 1 },
+				{ "model": "block/bookshelf/books/books_4", "weight": 1 },
+				{ "model": "block/bookshelf/books/books_5", "weight": 1 }
+			]
+		},
+		{
+			"__comment": "East",
+			"apply": [
+				{ "model": "block/bookshelf/books/books_0", "y": 90, "weight": 8 },
+				{ "model": "block/bookshelf/books/books_1", "y": 90, "weight": 8 },
+				{ "model": "block/bookshelf/books/books_2", "y": 90, "weight": 4 },
+				{ "model": "block/bookshelf/books/books_3", "y": 90, "weight": 1 },
+				{ "model": "block/bookshelf/books/books_4", "y": 90, "weight": 1 },
+				{ "model": "block/bookshelf/books/books_5", "y": 90, "weight": 1 }
+			]
+		},
+		{
+			"__comment": "South",
+			"apply": [
+				{ "model": "block/bookshelf/books/books_0", "y": 180, "weight": 8 },
+				{ "model": "block/bookshelf/books/books_1", "y": 180, "weight": 8 },
+				{ "model": "block/bookshelf/books/books_2", "y": 180, "weight": 4 },
+				{ "model": "block/bookshelf/books/books_3", "y": 180, "weight": 1 },
+				{ "model": "block/bookshelf/books/books_4", "y": 180, "weight": 1 },
+				{ "model": "block/bookshelf/books/books_5", "y": 180, "weight": 1 }
+			]
+		},
+		{
+			"__comment": "West",
+			"apply": [
+				{ "model": "block/bookshelf/books/books_0", "y": 270, "weight": 8 },
+				{ "model": "block/bookshelf/books/books_1", "y": 270, "weight": 8 },
+				{ "model": "block/bookshelf/books/books_2", "y": 270, "weight": 4 },
+				{ "model": "block/bookshelf/books/books_3", "y": 270, "weight": 1 },
+				{ "model": "block/bookshelf/books/books_4", "y": 270, "weight": 1 },
+				{ "model": "block/bookshelf/books/books_5", "y": 270, "weight": 1 }
+			]
+		},
+		{
+			"apply": [
+				{ "model": "block/bookshelf/bookshelf" }
+			]
+		}
+	]
+}

@@ -1,0 +1,9 @@
+{
+	"credit": "Made with Blockbench by Juknum",
+	"parent": "block/cut_red_sandstone_slab",
+	"textures": {
+		"0": "block/cut_sandstone",
+		"1": "block/sandstone_top",
+		"particle": "block/cut_sandstone"
+	}
+}

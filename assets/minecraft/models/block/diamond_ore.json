@@ -1,0 +1,8 @@
+{
+	"credit": "Made with Blockbench by Juknum",
+	"parent": "block/gold_ore",
+	"textures": {
+		"0": "block/diamond_ore",
+		"particle": "block/diamond_ore"
+	}
+}
